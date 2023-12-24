@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{92CB0207-A434-3C67-B527-2FD9E51E001F}</ProjectGuid>
+    <ProjectGuid>{9C91B09E-D6D1-35AD-A5F3-C78E60BD1B26}</ProjectGuid>
     <RootNamespace>client</RootNamespace>
     <Keyword>QtVS_v304</Keyword>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
@@ -117,7 +117,7 @@
     </ResourceCompile>
     <QtMoc>
       <CompilerFlavor>msvc</CompilerFlavor>
-      <Include>./$(Configuration)/moc_predefs.h</Include>
+      <Include>D:/kp?????/client/$(Configuration)/moc_predefs.h</Include>
       <ExecutionDescription>Moc'ing %(Identity)...</ExecutionDescription>
       <DynamicSource>output</DynamicSource>
       <QtMocDir>$(Configuration)</QtMocDir>
@@ -171,7 +171,7 @@
     </ResourceCompile>
     <QtMoc>
       <CompilerFlavor>msvc</CompilerFlavor>
-      <Include>./$(Configuration)/moc_predefs.h</Include>
+      <Include>D:/kp?????/client/$(Configuration)/moc_predefs.h</Include>
       <ExecutionDescription>Moc'ing %(Identity)...</ExecutionDescription>
       <DynamicSource>output</DynamicSource>
       <QtMocDir>$(Configuration)</QtMocDir>
@@ -184,10 +184,12 @@
     </QtUic>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="client.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainwindow.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <QtMoc Include="client.h" />
     <QtMoc Include="mainwindow.h" />
   </ItemGroup>
   <ItemGroup>
