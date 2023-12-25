@@ -1,9 +1,11 @@
-#ifndef MAINWINDOW_H
-#define MAINWINDOW_H
+#pragma once
 
 #include <QMainWindow>
 #include <qtcpsocket.h>
 #include <qhostaddress.h>
+
+#include "loginwidget.h"
+#include "client.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -17,14 +19,15 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
     void addBrowser(QString);
-
 private:
     Ui::MainWindow *ui;
-    QTcpSocket thisSock;
+    LoginWidget loginWidget;
+    client thisClient; //ÄÚº¬socket
+    //QTcpSocket thisSock;
 public slots:
-    void readSock();
-    void writeBrowser(QString);
+    //void readSock();
+    void writeBrowserSlot(QString);
+    void sendMessageSlot(QString);
 signals:
-    void _writeBrowser(QString);
+    void sendMessageSignal(QString);
 };
-#endif // MAINWINDOW_H

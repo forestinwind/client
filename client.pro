@@ -11,14 +11,17 @@ QT += network
 
 SOURCES += \
     client.cpp \
+    loginwidget.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     client.h \
+    loginwidget.h \
     mainwindow.h
 
 FORMS += \
+    loginwidget.ui \
     mainwindow.ui
 
 # Default rules for deployment.
