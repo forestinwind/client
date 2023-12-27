@@ -14,6 +14,7 @@ LoginWidget::~LoginWidget()
 }
 void LoginWidget::on_pushButton_login_clicked()
 {
-    emit sendMessageSignal("LOGIN " + ui->lineEdit_userName->text() + " " + ui->lineEdit_password->text());
+    //emit sendMessageSignal("LOGIN admin " + ui->lineEdit_password->text() + "\r\n");
+    emit sendMessageSignal("LOGIN " + ui->lineEdit_userName->text() + " " + ui->lineEdit_password->text() + "\r\n");
 }
 

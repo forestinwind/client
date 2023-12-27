@@ -1,7 +1,7 @@
 #include <qdebug.h>
 #include "client.h"
 
-#define IPLOC "172.16.180.11"
+#define IPLOC "127.0.0.1"
 #define SERVER_PORT 40004
 
 client::client() 
@@ -11,7 +11,7 @@ client::client()
 bool client::begin()//connect未建立，我不能将向上传递的信号在构造函数发出
 {
     thisSock.connectToHost(QHostAddress(IPLOC), SERVER_PORT);
-    thisSock.write("michael");
+    //thisSock.write("michael");
     if (thisSock.waitForConnected(5000))
     {
         emit writeBrowserSignal("Connected");
@@ -29,10 +29,13 @@ void client::readSockSlot()
     if (!buffer.isEmpty())
     {
         QString str = tr(buffer);
+
         writeBrowserSignal(str);
     }
 }
 void client::sendMessageSlot(QString init)
 {
-    thisSock.write(init.toUtf8());
+    qDebug()<<init<<endl;
+    //thisSock.write("114514");
+    thisSock.write(init.toLocal8Bit());
 }

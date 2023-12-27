@@ -12,10 +12,9 @@ MainWindow::MainWindow(QWidget *parent)
     connect(&loginWidget, &LoginWidget::sendMessageSignal, &thisClient, &client::sendMessageSlot);
     if(thisClient.begin())
     {
-        qDebug("???");
         loginWidget.show();
-        loginWidget.raise();
-        loginWidget.activateWindow();
+        //loginWidget.raise();
+        //loginWidget.activateWindow();
         
 
     }
