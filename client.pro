@@ -11,12 +11,14 @@ QT += network
 
 SOURCES += \
     client.cpp \
+    loginthread.cpp \
     loginwidget.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     client.h \
+    loginthread.h \
     loginwidget.h \
     mainwindow.h
 

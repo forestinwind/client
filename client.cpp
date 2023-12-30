@@ -7,6 +7,11 @@
 client::client() 
 {
     connect(&thisSock, &QTcpSocket::readyRead, this, &client::readSockSlot);
+    curId = 0;
+}
+client::~client()
+{
+    sendMessageSlot("LOGOUT");
 }
 bool client::begin()//connect未建立，我不能将向上传递的信号在构造函数发出
 {
@@ -33,9 +38,10 @@ void client::readSockSlot()
         writeBrowserSignal(str);
     }
 }
-void client::sendMessageSlot(QString init)
+int client::sendMessageSlot(QString init)
 {
     qDebug()<<init<<endl;
     //thisSock.write("114514");
-    thisSock.write(init.toLocal8Bit());
+    thisSock.write((QString::number(curId) +" " + init + "\r\n").toLocal8Bit());
+    return curId++;
 }

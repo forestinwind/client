@@ -18,7 +18,7 @@ public:
 private slots:
     void on_pushButton_login_clicked();
 signals:
-    void sendMessageSignal(QString);
+    int sendMessageSignal(QString);
 private:
     Ui::LoginWidget *ui;
 };

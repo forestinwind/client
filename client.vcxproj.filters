@@ -40,6 +40,9 @@
     <ClCompile Include="client.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="loginthread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="loginwidget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -54,6 +57,9 @@
     <QtMoc Include="client.h">
       <Filter>Header Files</Filter>
     </QtMoc>
+    <ClInclude Include="loginthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <QtMoc Include="loginwidget.h">
       <Filter>Header Files</Filter>
     </QtMoc>

@@ -1,14 +1,14 @@
 <FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
   <FlowDocument.Tag><![CDATA[{
-  "timestamp": "2023-12-25 12:08:00",
+  "timestamp": "2023-12-28 16:28:49",
   "files": {
     "D:\\kp的善良计划\\client\\client.vcxproj": {
-      "before": "7V1Zc+JIEp7njdj/oHD0Ttg7ATIYn2AmMGAv0Rh3G2zPTiiCEFIZtNZB6/CxO/u+P3uzLqkExWEb6GPUM92Iqqwrqyozv8xS8T//p58qvz47tvKI/MDy3NOtQn53S0Gu4ZmWOzzdisL73NHWr9W//qXyyff+hYxQaaB7PbLDnu4PURicbp1Flm1uKVCLC99GYTg+UdXAGCFHD/KOZfhe4N2HecNzVBM9ItsbI191ggEuphZ3d/e2oHZFqbRC5Fz4XjRW2voA2adbrMG6595bw8jXQ+hgQImBXJartFzDjkx0unWNbKQH6I87y90r8jJQKlVZlVFV1HQy7g7+U/lk6+G95ztVUk1Fjb9TCkigPJEVX9DBBhpEwwXdIzRr6FxFjXlNWQ/DgEkJX1Lsv7C9gW5PMfwisszqf47rx4Wz3eNmrnHQKOT29muNXG3/fC9XPzxqHuyeNQpnxYP/xvwhZRjPrj0v7OgOCsa6gaqGbSE3rKjpVEb6Eb08eb5Z/RyWbruPsDIrKk9iFDAvpvcU0LXIZ+eWruVqYTe/my8WD4qk5FzSedVdWu4rahSocaWEBQlv2Up3xp4fKmzxnG592L6ts+30SQ9HO9plvGvq43Gebbj8GGYp2FJU2ZzBCjQtvEFOt37Wx15Q/rCdWpQ7f3zY5vzZoRSnp/QztVVo0hbfgqk6+DaKt0XP8+wAhdXHQqmYbA6eynh6FYXjKGxYPsgOz3+p+nRnahV1MocVqPXawETLsf6Ngvp15PYsB7Wtga/7LzeBPkTVe1iVqKIupGP11Ue6rxsh8rvQ1Y4XwgfsKTGRE4qCpvcyRtXaeGxbBhE8E9uQZLNyLRcqd5Bp6SGSjVOezwp/8i0HRkZ5EW+HdComlS6k9L59xxoQpNH6V4CJRd8PP/98lOub/dbrxEhafNDCKYHffA6Ri60A2CEhaP9E1ojE71hl8yQNX8rdEQKrIhY102O8CZCPtQXstElBKYi4fARkXGIKXUbPVhAG23SRf9h+dWW04E4shVWBNaJwp4wVGuYtQlJizcyRyrN35A/DKT6Q1CLEM3KpY6Mx5nGKjjAZxCEITFgByjs4LFuNae0EDfDmYBevtznaAG+OWgPYTFr5CLnFlTTBG20NXc9HdEEzhbvy1kM/AtUtaYl3om25D2DF+8gBu1C3V94BZjxMNMNbf/+qmt63Va4JaOW8qfevqDlNrWM1SZrb2FqStD1/JUnNJYx6wJgG4xJbyu8W0VIBwm1Ju+45Y8tGbLpBYtVMaqHrNkOpIFCITWyhoJov5/Ma/P+5p+3nC/v5onbZva0XdwvHmkUx7UIC7XN4Z5kYky9DCpBsGbJa56LdXIawg0LAag/LkNZBypQZDCjny+rCAToPwRgZgfaEwXzOCR6N8t+257FzB9DBPG7TSUrNydWYuBequd+NE/9RtyNU14NQwV8t17ZcRB6D0LeMsAv/gnlEUsKR70G/hh30RL776B754D9BZwBNIZ0k9vvG2I4C/FfJPe2VCru79PPoGD5LpePjA/JZ2uefh+z7kSKOlHUyNTze8WRMQYCcgY38Npg60IO2RxGMoNtqs0jiSs5gVAFqudj7QfAPR13TGXEZskmFIuekLEAuF0T+jMyksBXo0OkuTLR1bxl3uu9iHldL+4eH5VLp4BCmvCGnAXbMyEk2X/PZQGSG/6G7JkznsNp9cY2KOp0e96itu8MI8GY3hCI6uCGC0DTG48JhRZ3KigtdDbCP7Bw2PlbeAssnMpIC0CuAupTHl/ozMACZgI3F5Jj4k4/GvmegIPD8RJAF1f5dq9O4uuuWbzqt+lWjWe7zB8jYK5b7zU7trN3sN3/rNTuNZqNfa7cuOvDZ7V1d1y6aZUg8u7kof+71O1f9+Pmu1bho9rr9dusMZ13ctPhjp9m7u7r+yL/Wr66b5Plv2zO6CHM0IyeZo4Sg52EO8iU3lS7wwxv6utPQQ/0MvH0x24n0l+bERcGxAIznjoXqJXg0rd7IR7qJzEa7DR6pNEFcsBuNxz7MACwLP4zGZ7rrIr9KtZE8Ly7ag+rDO+x66Ie1APtNw5ZLPAm0+Oz8uAq2L9rYkVol/+5V1FQiJQV3xYQGqmCTJ2F2Ih8baIxcE0QW1kONE5kKsq0BaJd9pl7y8LU8lxCUy2IipjEWE2J9sYDqS+jolkuIghGy7b0ieRZlpzjMlAAVM2T8YaawqK0/bH/uNVrXOxrmRP1EA++pGwT289EBT7kJLTvQnJd+8MWGD/g3t58/zBf3c0SJpcnAXxcOYU19ITWMh7gMrlns/nQvUoOYzpYNheuKn79EXlhWL2ud1nmz22s0P2Gx0Kn/8yQEtxfzC5KOUtiquCDMWHLim7yjztc8WDqO5+YAioU+OARZER5RoF8PwBUL/7G8cTQAvxr4cnveA3JZxQf7x/uDg1KhVDKM+4J5z2htJoYZ1d95FVwO1nxjZIUgdCOfd5HR0FG+XoFicdJ8RkaELQIQPo+AROCJ7fFZufEWvUAgELArELu5BHXIxdnM/LgGGTyab+6SaMUkppkLdTCEpjoGXXOTJWBDlGTEfaOOSiKeP2xTRLOjURyQR8+g6AWCuNA1aFAPO3RNLKZB9GAByhqT58VFu9Gg+xKA4Y5jMNjXX1GTJIHqbUIZVHkiFSuXlmkn24a53bG4JjL6BnxjQxcr58mcuBtNF9swTd/3/PoIGQ8BM36m0+MiKdkNAY7Ud0pVUYWOVa5R4EW+gabwRaImfzjjALSxZNQ0jJXYQQTQkfkjscSJjPd4EiTwk03NpJZNYYoM56GyiaVghvI2h/IIwyG6slGMBy5abm4PQML/WeEe5/1SYI9h1s2DPYBy3zyym0BfaXiGRUqG0SbchAAYBIxmLgBMgObwoYzFVAylLUGJYdoiMorTKFUG1OA8BMbcsS2YYPIMqBFnXZDCuJwpMb9mQTGKlWblxsVnAjFafmZ2XMEbcZqAkDIIxcBVzNNpqET9x9PpcZEUZPo2IdSbVC5zxL7dp/om2JSgKMAyMbxJTlYyrA+ecB6gl9PZ3tByn0hAKr+QmHjvlqICrxR4AcQap04zpg834t5FQeg55Jzq1DhG/KjJBHKDM2vBeyCjNDjIeDfi0S/N8Yw+eJNNdB/kRzN8qgPLxXTYu5LyCLZc3MeUhKRJiULBnjlwvax8HHLnr9BRRck1WAgCnng0Ah5JPAInLYhIAAmNScCDEJWg3wTrlSawyASjTWITNIFHJ5RczqBBWT93b+uPnn+KY4mQzCKQSuNEfRj/iv+odKpUFqZUUxOl5FpA+bmn0lCtykO1KgtUqsR1SgKVlDRd6czivBuzqmf5ahzoXVQTUIKVtwQVCfMuQceswSUosTUIZNQHC+uFIUQFew6D5ICrcmsFERzz6IaRaXlacbdY1PCqjSBG/6Ld1jVympQEw7VCKb93lN/bK+zt8qA4c/Gurx18yPS8vvrmatGzZVtw8FO77c6oHeIKKaYp2xBf2NGYG1T5aIWBVog5AY/JaWctMvxwgjdLVsc7k65Pi5yVVheAUxWZK60S9tyKxwz66K2VQnz0/Ldu46NWyh/FHI15yNWAkvMUJmCIJkhUKz5tTER3IssvwWUO0eiVy/LLq7rCOwSeZtpK0iw1VlevCuXjBgXHGgS9xp6SviT4iCq69/BC4tLlXKA+y+9AN0vGsBHNnLZm162CiVMtU8DwWhOo80wBQ+B6FXZFpoAzBTzCCpj67LF9v271KxHX61e+kkZlI56jeMEWSfAzU8ZySC1C/o3i6lTDGbjOwLUEm2fgOgPXieWwJBpmiyYNhjNwTY4PLsnCGP6mHBTa2sB1ShdMImwxE3qwYZgttj76Slhb7ANwYI7eX7FDXGKIiH0ZZah73gl9CrI36PgmRmKGujPUDRyY8NO+w5ufoe4/MepOifs09Baz1qaXJRoI42+x7TVpZUnLRL4SH7PY/nyNvDwSx/F0iF3gSPlGgbjYbobDMxye4XB891kW5M6C3PyIwvtQ81vj0XBOYNM4XFQFkzBcyFubtpcewML6Xmh8Tepe2rQY8Ba6MF/jrx+DC13JIPjcl+QzCI4D0Owd8CVOgGUnz8jFp29V/tnJM3xvp5adPHtd0GL+yTNR2qcRuJCzNpUsgcGbUciShhP8nR75HIf4NPxe4ug5v4UjOXietJwcOBAOocONNPgKY/Pc50fWV33HHX29ZaodHtqfvjlE8haAaM2sfxiS+VvFIJKZmPDBfNfTsaGxrH1O0vvyu56SzQxlJTOSHPWRSaz4XZW8MQiFKcGn+sklGQ3PiPDNjRU1Torf05qSOO85vyvFWPOFwvrB1Mw7/PgNdvdwARTcUxNoJtwxo5mR47zgV5lA6UyebV73ez2SxWLYSu7smQZ74huO8Es9Xxz9AeH3j3ggyPVAyHjkarsng1xnpeTOu/T+u7Xenfc7vMxy2TCVHNzFdmL88ksB7sm726N36b3iTr3ck4nvlYNyJr5aTsk1lbdOnVL8eRiWOzdtBX8mGiXeKes5YyCZPv6+qpJ6V2k9xwwkzUuG/ipbCnancM4wET6ipREz9S3iZ3KHrVz6vHUJfYXdL5We38H+vyri/f/Nbn/pWl2PAJDO4CZFgLQDUgbMEQOw6VdqFUjk0nybYBrTYTnEb+hNpFBk9UW7epR697lFb+hNUQsmX0y8BFyUmV9iw5H1Wqtr7WIv3b05LzFH1nfyEjPraOpkAH6N1lMml8EG9/ZNK31UIbLWo9ql+3py3PO39CqXnGRHfwcLTtLr2W/mfe3lJunsphabpOlXLDW58JaJUEEaf4MSNNW7H0mApgbG5KeQBuHXjb3mjFe00PSmpafQ9OirCk+hI/ALAAuF0lfAJhKZsLCb6and2EqTdHVD60zSMghOYXLnrbJpuTltmb7ut6XgLnT8wxPcKq4Iv4rEf0ou/nUp+sMzjJbc1I6vzK/+Hw==",
-      "after": "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"
+      "before": "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",
+      "after": "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"
     },
     "D:\\kp的善良计划\\client\\client.vcxproj.filters": {
-      "before": "5VdNb5tAEM25VdW/gLiv+TZQsCOvDWlukareKkUYxmYjYCkLiaWq/73rOGZJsBoUx5HSIjgwWubtmzcf7MfPZ2f++SbPpFuoGKHFRNZGqixBEdOEFOuJ3NQr5Mjn008f/KuK3kBcS3x5wSZyWtflF0VhcQp5xEY5iSvK6KoexTRXEriFjJZQKTlbNiRLFF1VDZm7kST/sob8oqJNef/KDSHJaqikyyLOmgQmckirXOJGYLsvJH753wvys4HLBIqarAhU01+ua5iuo7rIsvAMmUs3QTi0XeSEC4xV3RkH2PjtK70Pt5u4dxlsaii2tNm0Ib7SeW2XXEUVg/utTFdRxsBXOpbdKl/Z7f//YHMBBVRRDckAgWwtWDj8RrM5dpE5D1yEcaChQFWxoWqmGWjaUIHisvRiL95svJzGXuolsPJoknmEPxUw74B8zwnzD1H5ClHCK2hAzRiuaxmOihwXL3jNqCZynACjsW6FOLD0AId4qCSpl3JRUi5Jmnuk4FoUsbdhyQukeO/7/0abKoYB8TfDuW3YoYbm9sxCpmGP0Uwdj5E+M/SFbekzPQyHxl+URLcY0vLGW0a1F7F8+2xeoMY7ZuMrj6dLf9jMsznNSz5cxLyJM8KnyojHszNvHpp6NxZPG4rS+tr3/tYgnGd0TYo7kqzhVAh5RIoTbX7r+o4UCb07GmCAMg2raY63vwsifA/apH1luj2jr4zw1WojTMJ9V51TYXSCeCzEgCD20zuBZbP+wcfm9d8S/ck07Ed077iN594gollBBhGDN8ESrLoaHqzh16b2JoCCXyd/3oTe6+MdqjzBr6yADzA2Skfxsu7X+bPqCe9tagrT4eQ8AWT2cHwRgA257mbKgdp/ltreaUtsb3iE0hHsaJABHeZQcLtEG9IXURzp+o1F+GtpCpMg2mF5JMJjjvxItzvZTv8A",
-      "after": "5VZNb5tAEM25Vf8D4r7m20DBjrwY0hwqJapyq1ThZWw2ApayS2Kp6n/v2o4DMZVsuc0hLYLDjnbfzLzHzGz9/uIivFyXhfIADaesmqjGSFcVqAjLaLWaqK1YIk+9nH54F9407B6IUOT2ik/UXIj6o6ZxkkOZ8lFJScM4W4oRYaWWwQMUrIZGK/mipUWmmbpuqRJGUcJrAeVVw9p6u5SGhBYCGuW6IkWbwURNWFMq0gh8d0KRT3hX0e8tXGdQCbqk0Ex/+L5l+57uI8fBM2Qv/AzhxPWRl8wx1k1vHGPrZ6gNDm6C2ELGawHVJm0+bWmo9ZbPW27ShsM2lOkyLTiEWs+y2xVqu/j/j2yuoIImFZCdIJBrxHNPvmgWYR/ZUewjjGMDxbqOLd2w7dgwThWI1HVAArJeByUjQR5ksAxYVgRUfg3w4DfyHRPmH0rlE6SZrKATasbyfcfydOT5eC5rRreR58UYjU0nwbFjxjjBp0qSB7kUJZeS5GVAK6lFRYI1z86Q4q3H/4W1DYET+LeTyLXcxECRO3OQbbljNNPHY2TOLHPuOubMTJJT+e9Kol8MeX0fLFIRpLzcfOsz1HjD2YTay+kyHDZREbGylsOlmzekoHKqjCSfvXnz1NT7XBw2FO0Za9/7nw0deMFWtHqk2Qpey0OZ0uqVgt9AP9IqY49/7OC4MrfiMyMdcU+q5ENN+t1ioMkWZa/HAWRfi7+J26PpfNjjBEUtF6zEm/tUR1MGi3b1VQ7Fb3UDshHwUT4iCzFk7WDcDYjroe/p65k6hw0UkHJ4DZfHKbgVd7T3j/QFbekw5+4mOUh3i7RP9AC2p+fZqC9zkffG3fV5+gs="
+      "before": "5VdNb5tAEM25UtW/gHxfgwHbULAjrw1pbpGq3ipFGMZmI2DpLiSWqvzE/qeuv1gSrITEcaS0ljkwgvf2zduZYf98OTtzz1dpotwC44Rmo06vq3UUyEIakWw56pTFAlmd8/HnT+4VozcQFop4POOjTlwU+VdV5WEMacC7KQkZ5XRRdEOaqhHcQkJzYGrK5yVJIlXXNKMjYBTFvSwgvWC0zDe3IuCTpACmXGZhUkYw6viUpYoIAt++oYif+yMjv0q4jCAryIIAG/+2bcO0Lc1G/T6eIHNuRwj7QxtZ/gxjTbcGHjbuXbXx4noRG0hvVUC2ls3HJXHV2m31yFXAOGyWMl4ECQdXrUW2T7nqdv3/h5oLyIAFBUQtDBr2vJkl/mgyxTYyp56NMPZ6yNM0bGg90/R6vbYGhXnuhE64WjkpDZ3YiWDh0ChxiLgYcOeAfc8Z8w9J+QZBJCqoRc0Ytt03LA1ZNp6JmtFMZFkeRgO972Ovr3vYx20tiZ1YmBILS+LUIZnwIgudFY9eYcVHX/93WrIQWuTf9KdDY+j30HQ46SPTGA7QRBsMkD4x9Nmwr09032+bf1kS9WKI8xtnHhROwNP1tXqFGx9Yjas+nC7NYTNNpjTNxXCR8yZMiJgqXZHP2rzZNfV6Lh43FLXC2vf+KiDBE7okWREzUaGnZLgj0RJOpSENSHaixa+h70gW0bujCVp4X/KCpnj9QSIN2rkfN72vd6Wm9xJLur/7hJHgdfdfzJDs4Cp8SfmIYef+ixkk4JMcNZOOpWhhUrNAI5iXy59i8F8/VaqP5nnTsT1wpXUfkNlkkEDA4V24pKrNLnmqgt9a2rsQSn21/XOwyb61vLfnk4Ui94rUlzMQI5h34244L5p95Fl5Er3amjIkCeub8wSU+3YjCUtyXd8pB2r/WWl70ErYPvCApWbY0SQtOsyh5NaFlqRpojyUNhuLxKtkypAUWlN5JMNDjeJQuj2bj/8C",
+      "after": "5Zffb5swEMf3PG3/A8q7AwESYJBUMYGuD5NaTX2bNBFzCa4AM9u0kab973N+FRomJc2Uh24oPHAyX9/dh7tzzA/v3gVXqyLXHoELyspxb9A3ehqUhKW0XI57tVwgt3c1+fg+uOXsAYjU1PJSjHuZlNUnXRckgyIR/YISzgRbyD5hhZ7CI+SsAq4XYl7TPNVNw7B6SkbTghsJxTVndbV5VIaY5hK4dlOSvE5h3IsZLzRlBLF9Q1NXcF/SHzXcpFBKuqDAJz89z7I91/DQcIinyJ57KcKx4yE3nmFsmO4owtavQO+8uHZiIxmtJJTrsMWkpoHeenxecptwARtXJoskFxDoLct2VaBv/f8/ormGEngiIT0BkDOIZq76oWmIPWSHkYcwjgYoMgxsGQPbjgaDUwGRqvKJT1Yrv2DEz/wUFj5Lc5+qm4Pw/4DvGJh/KJTPkKSqgk6oGcvzhpZrINfDM1Uzho1cN8JoZA5jHA3NCMf4VCSZnykomUKSFT4tFYuS+CuRnoHirfv/ldWcwAn5t+PQsZx4gEJnOkS25YzQ1BiNkDm1zJkzNKdmHJ+a/6Yk2sWQVQ/+PJF+Ior1vTqDxhuOJtBfTpfusAnzkBWVGi7NvCE5VVOlr/LZmje7pt7OxWFD0Z+19r3/2dCI52xJS5lxVaGX3OGJpku4VAxFQssLOb+WfqJlyp7+eoPj7O/kF0YaNDvuWZd6ux91qG9UGuK7Y0sj2yb+Wu0w38nt9Q9c3mjvWL9W+4XfB7otDOfLHgcQ1kKyAq9PhE2+UpjXy29qrH+vOKhWJvpZn8xll8rBwO6Aaanv09cyNRtyyCERcIktj6fgTt7T1jfYBlrTbszNWbgT7kZpH+iBbIvn2aovY1En3+0fgMlv"
     }
   }
 }]]></FlowDocument.Tag>
@@ -21,7 +21,7 @@
       <Span TextDecorations="Underline">Project Format Conversion</Span>
     </Paragraph>
     <Paragraph Margin="12,8" FontSize="18">
-      <Span>Report generated on 2023-12-25 12:08:00</Span>
+      <Span>Report generated on 2023-12-28 16:28:49</Span>
     </Paragraph>
   </Section>
   <Section>
@@ -87,7 +87,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalIncludeDirectories>]]></Span><Span Background="LightCoral"><![CDATA[.;..\..\QT\5.15.2\MSVC2019\include;..\..\QT\5.15.2\MSVC2019\include\QtWidgets;..\..\QT\5.15.2\MSVC2019\include\QtGui;..\..\QT\5.15.2\MSVC2019\include\QtANGLE;..\..\QT\5.15.2\MSVC2019\include\QtNetwork;..\..\QT\5.15.2\MSVC2019\include\QtCore]]></Span><Span><![CDATA[;release;.;/include]]></Span><Span Background="LightCoral"><![CDATA[;..\..\QT\5.15.2\MSVC2019\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+              <Span><![CDATA[      <AdditionalIncludeDirectories>]]></Span><Span Background="LightCoral"><![CDATA[.;..\..\QT\5.15.2\MSVC2019_64\include;..\..\QT\5.15.2\MSVC2019_64\include\QtWidgets;..\..\QT\5.15.2\MSVC2019_64\include\QtGui;..\..\QT\5.15.2\MSVC2019_64\include\QtANGLE;..\..\QT\5.15.2\MSVC2019_64\include\QtNetwork;..\..\QT\5.15.2\MSVC2019_64\include\QtCore]]></Span><Span><![CDATA[;release;.;/include]]></Span><Span Background="LightCoral"><![CDATA[;..\..\QT\5.15.2\MSVC2019_64\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -102,7 +102,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalDependencies>D:\QT\5.15]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[2\MSVC2019\lib\Qt5Widgets.]]></Span><Span><![CDATA[lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\lib\Qt5Gui]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[15.2\MSVC2019\lib\Qt5Network.]]></Span><Span><![CDATA[lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\lib\Qt5Core]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\lib\qtmain]]></Span><Span><![CDATA[.lib;shell32.lib;%(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalDependencies>D:\QT\5.15]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[2\MSVC2019_64\lib\Qt5Widgets.]]></Span><Span><![CDATA[lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\lib\Qt5Gui]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[15.2\MSVC2019_64\lib\Qt5Network.]]></Span><Span><![CDATA[lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\lib\Qt5Core]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\lib\qtmain]]></Span><Span><![CDATA[.lib;shell32.lib;%(AdditionalDependencies)</AdditionalDependencies>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -117,7 +117,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalIncludeDirectories>]]></Span><Span Background="LightCoral"><![CDATA[.;..\..\QT\5.15.2\MSVC2019\include;..\..\QT\5.15.2\MSVC2019\include\QtWidgets;..\..\QT\5.15.2\MSVC2019\include\QtGui;..\..\QT\5.15.2\MSVC2019\include\QtANGLE;..\..\QT\5.15.2\MSVC2019\include\QtNetwork;..\..\QT\5.15.2\MSVC2019\include\QtCore]]></Span><Span><![CDATA[;debug;.;/include]]></Span><Span Background="LightCoral"><![CDATA[;..\..\QT\5.15.2\MSVC2019\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+              <Span><![CDATA[      <AdditionalIncludeDirectories>]]></Span><Span Background="LightCoral"><![CDATA[.;..\..\QT\5.15.2\MSVC2019_64\include;..\..\QT\5.15.2\MSVC2019_64\include\QtWidgets;..\..\QT\5.15.2\MSVC2019_64\include\QtGui;..\..\QT\5.15.2\MSVC2019_64\include\QtANGLE;..\..\QT\5.15.2\MSVC2019_64\include\QtNetwork;..\..\QT\5.15.2\MSVC2019_64\include\QtCore]]></Span><Span><![CDATA[;debug;.;/include]]></Span><Span Background="LightCoral"><![CDATA[;..\..\QT\5.15.2\MSVC2019_64\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -132,7 +132,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalDependencies>D:\QT\5.15]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[2\MSVC2019\lib\Qt5Widgetsd.]]></Span><Span><![CDATA[lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\lib\Qt5Guid]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[15.2\MSVC2019\lib\Qt5Networkd.]]></Span><Span><![CDATA[lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\lib\Qt5Cored]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\lib\qtmaind]]></Span><Span><![CDATA[.lib;shell32.lib;%(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalDependencies>D:\QT\5.15]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[2\MSVC2019_64\lib\Qt5Widgetsd.]]></Span><Span><![CDATA[lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\lib\Qt5Guid]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[15.2\MSVC2019_64\lib\Qt5Networkd.]]></Span><Span><![CDATA[lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\lib\Qt5Cored]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\lib\qtmaind]]></Span><Span><![CDATA[.lib;shell32.lib;%(AdditionalDependencies)</AdditionalDependencies>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -147,51 +147,24 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">client.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">client.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">client.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|Win32'">D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o release\moc_client.cpp</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|Win32'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o release\moc_client.cpp</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">client.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">client.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">client.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|Win32'">D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o debug\moc_client.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o release\moc_client.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|Win32'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o debug\moc_client.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o release\moc_client.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -201,51 +174,24 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">loginwidget.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">client.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">loginwidget.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|Win32'">D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o release\moc_loginwidget.cpp</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|Win32'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o release\moc_loginwidget.cpp</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">loginwidget.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">loginwidget.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">client.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|Win32'">D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o debug\moc_loginwidget.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o debug\moc_client.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|Win32'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o debug\moc_loginwidget.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o debug\moc_client.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -255,51 +201,24 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">mainwindow.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">loginwidget.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">mainwindow.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|Win32'">D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o release\moc_mainwindow.cpp</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|Win32'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o release\moc_mainwindow.cpp</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">mainwindow.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">mainwindow.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">loginwidget.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|Win32'">D:\QT\5.15.2\MSVC2019\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o debug\moc_mainwindow.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o release\moc_loginwidget.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|Win32'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o debug\moc_mainwindow.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o release\moc_loginwidget.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -309,51 +228,24 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|Win32'">..\..\QT\5.15.2\MSVC2019\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">loginwidget.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|Win32'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\QT\5.15.2\MSVC2019\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|Win32'">..\..\QT\5.15.2\MSVC2019\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|Win32'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">loginwidget.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\QT\5.15.2\MSVC2019\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o debug\moc_loginwidget.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o debug\moc_loginwidget.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -363,51 +255,24 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">loginwidget.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">loginwidget.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|Win32'">D:\QT\5.15.2\MSVC2019\bin\uic]]></Span><Span><![CDATA[.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|Win32'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">loginwidget.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">loginwidget.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|Win32'">D:\QT\5.15.2\MSVC2019\bin\uic]]></Span><Span><![CDATA[.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o release\moc_mainwindow.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|Win32'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o release\moc_mainwindow.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -417,24 +282,24 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">mainwindow.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">mainwindow.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|Win32'">D:\QT\5.15.2\MSVC2019\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o debug\moc_mainwindow.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|Win32'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o debug\moc_mainwindow.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -444,24 +309,159 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">mainwindow.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">mainwindow.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|Win32'">D:\QT\5.15.2\MSVC2019\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|Win32'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">loginwidget.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">loginwidget.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">loginwidget.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">loginwidget.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -537,7 +537,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <Define>UNICODE;_UNICODE;$(Platform);_ENABLE_EXTENDED_ALIGNED_STORAGE;NDEBUG;QT_NO_DEBUG;QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB</Define>]]></Span>
+              <Span Background="LightGreen"><![CDATA[      <Define>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB</Define>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -597,7 +597,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/$(Platform)-msvc;D:/kp?????/client;$(QTDIR)/include;$(QTDIR)/include/QtWidgets;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtANGLE;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtCore;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
+              <Span Background="LightGreen"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/win32-msvc;D:/kp?????/client;$(QTDIR)/include;$(QTDIR)/include/QtWidgets;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtANGLE;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtCore;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -785,7 +785,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <Define>UNICODE;_UNICODE;$(Platform);_ENABLE_EXTENDED_ALIGNED_STORAGE;QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB</Define>]]></Span>
+              <Span Background="LightGreen"><![CDATA[      <Define>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB</Define>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -845,7 +845,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/$(Platform)-msvc;D:/kp?????/client;$(QTDIR)/include;$(QTDIR)/include/QtWidgets;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtANGLE;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtCore;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
+              <Span Background="LightGreen"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/win32-msvc;D:/kp?????/client;$(QTDIR)/include;$(QTDIR)/include/QtWidgets;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtANGLE;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtCore;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -877,31 +877,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalInputs]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">client]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[Include="loginwidget]]></Span><Span><![CDATA[.]]></Span><Span Background="LightGreen"><![CDATA[h" />]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<Command]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o release\moc_client.cpp</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[Include="mainwindow]]></Span><Span><![CDATA[.]]></Span><Span Background="LightGreen"><![CDATA[h"]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[/>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">MOC client.h</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">client.h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -911,7 +887,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">release\moc_client.cpp;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o release\moc_client.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -921,7 +897,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">client.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">MOC client.h</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -931,7 +907,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o debug\moc_client.cpp</Command>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\moc_client.cpp;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -941,7 +917,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">MOC client.h</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">client.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -951,7 +927,27 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">debug\moc_client.cpp;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" client.h -o debug\moc_client.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">MOC client.h</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\moc_client.cpp;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -969,9 +965,36 @@
           </TableCell>
         </TableRow>
         <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[    <CustomBuild Include="loginwidget.h">]]></Span>
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="loginwidget.]]></Span><Span Background="LightCoral"><![CDATA[h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ Include="loginwidget.]]></Span><Span Background="LightGreen"><![CDATA[h" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalInputs]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[Condition="'$(Configuration)|$(Platform)'=='Release|x64'">loginwidget]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[Include="mainwindow]]></Span><Span><![CDATA[.]]></Span><Span Background="LightGreen"><![CDATA[h" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o release\moc_loginwidget.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -981,7 +1004,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">loginwidget.h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">MOC loginwidget.h</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -991,7 +1014,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o release\moc_loginwidget.cpp</Command>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\moc_loginwidget.cpp;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1001,7 +1024,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">MOC loginwidget.h</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">loginwidget.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1011,7 +1034,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">release\moc_loginwidget.cpp;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o debug\moc_loginwidget.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1021,7 +1044,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">loginwidget.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">MOC loginwidget.h</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1031,27 +1054,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" loginwidget.h -o debug\moc_loginwidget.cpp</Command>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">MOC loginwidget.h</Message>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">debug\moc_loginwidget.cpp;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\moc_loginwidget.cpp;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1081,7 +1084,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">mainwindow.h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1091,7 +1094,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o release\moc_mainwindow.cpp</Command>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o release\moc_mainwindow.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1101,7 +1104,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">MOC mainwindow.h</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">MOC mainwindow.h</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1111,7 +1114,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">release\moc_mainwindow.cpp;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\moc_mainwindow.cpp;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1121,7 +1124,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">mainwindow.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1131,7 +1134,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o debug\moc_mainwindow.cpp</Command>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" mainwindow.h -o debug\moc_mainwindow.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1141,7 +1144,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">MOC mainwindow.h</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">MOC mainwindow.h</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1151,7 +1154,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">debug\moc_mainwindow.cpp;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\moc_mainwindow.cpp;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1184,7 +1187,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1214,7 +1217,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1244,7 +1247,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1274,7 +1277,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1304,7 +1307,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1334,7 +1337,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1404,7 +1407,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">loginwidget.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">loginwidget.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1414,7 +1417,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(QTDIR)\bin\uic.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\uic.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1424,7 +1427,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">UIC loginwidget.ui</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">UIC loginwidget.ui</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1434,7 +1437,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">ui_loginwidget.h;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ui_loginwidget.h;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1444,7 +1447,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">loginwidget.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">loginwidget.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1454,7 +1457,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(QTDIR)\bin\uic.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\uic.exe loginwidget.ui -o ui_loginwidget.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1464,7 +1467,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UIC loginwidget.ui</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">UIC loginwidget.ui</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1474,7 +1477,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">ui_loginwidget.h;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ui_loginwidget.h;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1514,7 +1517,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">mainwindow.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1524,7 +1527,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(QTDIR)\bin\uic.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\uic.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1534,7 +1537,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">UIC mainwindow.ui</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">UIC mainwindow.ui</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1544,7 +1547,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">ui_mainwindow.h;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ui_mainwindow.h;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1554,7 +1557,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">mainwindow.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1564,7 +1567,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(QTDIR)\bin\uic.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\uic.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1574,7 +1577,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UIC mainwindow.ui</Message>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">UIC mainwindow.ui</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1584,7 +1587,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">ui_mainwindow.h;%(Outputs)</Outputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ui_mainwindow.h;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1645,6 +1648,9 @@
               <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtMoc>]]></Span>
             </Paragraph>
           </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -2169,7 +2175,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2179,7 +2185,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2333,24 +2339,24 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|Win32'" />]]></Span>
+              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'" />]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|Win32'">]]></Span>
+              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[  ]]></Span><Span Background="LightCoral"><![CDATA[<PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+              <Span><![CDATA[  ]]></Span><Span Background="LightCoral"><![CDATA[<PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtInstall>5.15.2_msvc2019</QtInstall>]]></Span>
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtInstall>5.15.2_msvc2019_64</QtInstall>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2370,7 +2376,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">]]></Span>
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2380,7 +2386,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[    <QtInstall>5.15.2_msvc2019</QtInstall>]]></Span>
+              <Span Background="LightGreen"><![CDATA[    <QtInstall>5.15.2_msvc2019_64</QtInstall>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2418,12 +2424,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;NDEBUG;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;NDEBUG;QT_NO_DEBUG;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2433,12 +2439,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;]]></Span><Span Background="LightCoral"><![CDATA[QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span Background="LightCoral"><![CDATA[QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2562,12 +2568,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalLibraryDirectories>$(QTDIR)\lib;C:\opensslx86\lib]]></Span><Span><![CDATA[;C:\Utils\my_sql\mysql-5.7.25-win32\lib;C:\Utils\postgresqlx86\pgsql\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalLibraryDirectories>$(QTDIR)\lib;C:\openssl\lib]]></Span><Span><![CDATA[;C:\Utils\my_sql\mysql-5.7.25-winx64\lib;C:\Utils\postgresql\pgsql\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalLibraryDirectories>C:\opensslx86\lib]]></Span><Span><![CDATA[;C:\Utils\my_sql\mysql-5.7.25-win32\lib;C:\Utils\postgresqlx86\pgsql\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalLibraryDirectories>C:\openssl\lib]]></Span><Span><![CDATA[;C:\Utils\my_sql\mysql-5.7.25-winx64\lib;C:\Utils\postgresql\pgsql\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2577,12 +2583,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalLibraryDirectories>$(QTDIR)\lib;C:\opensslx86\lib]]></Span><Span><![CDATA[;C:\Utils\my_sql\mysql-5.7.25-win32\lib;C:\Utils\postgresqlx86\pgsql\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalLibraryDirectories>$(QTDIR)\lib;C:\openssl\lib]]></Span><Span><![CDATA[;C:\Utils\my_sql\mysql-5.7.25-winx64\lib;C:\Utils\postgresql\pgsql\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalLibraryDirectories>C:\opensslx86\lib]]></Span><Span><![CDATA[;C:\Utils\my_sql\mysql-5.7.25-win32\lib;C:\Utils\postgresqlx86\pgsql\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalLibraryDirectories>C:\openssl\lib]]></Span><Span><![CDATA[;C:\Utils\my_sql\mysql-5.7.25-winx64\lib;C:\Utils\postgresql\pgsql\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2610,12 +2616,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;NDEBUG;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;NDEBUG;QT_NO_DEBUG;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2625,12 +2631,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;]]></Span><Span Background="LightCoral"><![CDATA[QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span Background="LightCoral"><![CDATA[QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2832,7 +2838,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Define>UNICODE;_UNICODE;$(Platform);_ENABLE_EXTENDED_ALIGNED_STORAGE;NDEBUG;QT_NO_DEBUG;QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB</Define>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Define>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB</Define>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -2858,7 +2864,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/$(Platform)-msvc;D:/kp?????/client;$(QTDIR)/include;$(QTDIR)/include/QtWidgets;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtANGLE;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtCore;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/win32-msvc;D:/kp?????/client;$(QTDIR)/include;$(QTDIR)/include/QtWidgets;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtANGLE;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtCore;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -2963,7 +2969,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Define>UNICODE;_UNICODE;$(Platform);_ENABLE_EXTENDED_ALIGNED_STORAGE;QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB</Define>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <Define>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_WIDGETS_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_CORE_LIB</Define>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -2989,7 +2995,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/$(Platform)-msvc;D:/kp?????/client;$(QTDIR)/include;$(QTDIR)/include/QtWidgets;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtANGLE;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtCore;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/win32-msvc;D:/kp?????/client;$(QTDIR)/include;$(QTDIR)/include/QtWidgets;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtANGLE;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtCore;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -3003,4 +3009,4 @@
     <Paragraph />
   </Section>
 </FlowDocument>
-<!--024YADeo4UzKatmWoG7OljMAm6Xmkipj5T797fXeOJ4=-->
+<!--cFQj+HqgDu74RdTKBA6nDVf+pvX5Y/uZ+J2r7FvF4ko=-->

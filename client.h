@@ -11,12 +11,14 @@ class client:public QObject
 
 public:
     client();
+    ~client();
     bool begin();
     QTcpSocket thisSock;
 private:
+    int curId;
 public slots:
     void readSockSlot();
-    void sendMessageSlot(QString);
+    int sendMessageSlot(QString);
 signals:
     void writeBrowserSignal(QString);
 };
