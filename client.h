@@ -16,10 +16,14 @@ public:
     QTcpSocket thisSock;
 private:
     int curId;
+    int userId;
+    void loginSucceed(QString);
 public slots:
     void readSockSlot();
     int sendMessageSlot(QString);
 signals:
     void writeBrowserSignal(QString);
+    void buildFriendSignal(QString);
+    void showChatWidgetSignal();
 };
 

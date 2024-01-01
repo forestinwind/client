@@ -184,17 +184,21 @@
     </QtMoc>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chatwidget.cpp" />
+    <ClCompile Include="chatwidgets.cpp" />
     <ClCompile Include="client.cpp" />
-    <ClCompile Include="loginthread.cpp" />
     <ClCompile Include="loginwidget.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainwindow.cpp" />
+    <ClCompile Include="..\shared\shared.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <QtMoc Include="chatwidget.h" />
+    <QtMoc Include="chatwidgets.h" />
     <QtMoc Include="client.h" />
-    <ClInclude Include="loginthread.h" />
     <QtMoc Include="loginwidget.h" />
     <QtMoc Include="mainwindow.h" />
+    <ClInclude Include="..\shared\shared.h" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="debug\moc_predefs.h.cbt">
@@ -215,6 +219,8 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <QtUic Include="chatwidget.ui" />
+    <QtUic Include="chatwidgets.ui" />
     <QtUic Include="loginwidget.ui" />
     <QtUic Include="mainwindow.ui" />
   </ItemGroup>

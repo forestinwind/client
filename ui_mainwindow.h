@@ -36,7 +36,7 @@ public:
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         textBrowser = new QTextBrowser(centralwidget);
         textBrowser->setObjectName(QString::fromUtf8("textBrowser"));
-        textBrowser->setGeometry(QRect(230, 100, 256, 192));
+        textBrowser->setGeometry(QRect(200, 100, 256, 192));
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));

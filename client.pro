@@ -10,19 +10,25 @@ QT += network
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    ../shared/shared.cpp \
+    chatwidget.cpp \
+    chatwidgets.cpp \
     client.cpp \
-    loginthread.cpp \
     loginwidget.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
+    ../shared/shared.h \
+    chatwidget.h \
+    chatwidgets.h \
     client.h \
-    loginthread.h \
     loginwidget.h \
     mainwindow.h
 
 FORMS += \
+    chatwidget.ui \
+    chatwidgets.ui \
     loginwidget.ui \
     mainwindow.ui
 

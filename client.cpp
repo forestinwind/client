@@ -1,11 +1,14 @@
 #include <qdebug.h>
+
 #include "client.h"
+#include "..\shared\shared.h"
 
 #define IPLOC "127.0.0.1"
 #define SERVER_PORT 40004
 
 client::client() 
 {
+    userId = -1;
     connect(&thisSock, &QTcpSocket::readyRead, this, &client::readSockSlot);
     curId = 0;
 }
@@ -31,17 +34,38 @@ void client::readSockSlot()
 {
     QByteArray buffer;
     buffer = thisSock.readAll();
-    if (!buffer.isEmpty())
+    QString str = tr(buffer);
+    if (str!="")
     {
-        QString str = tr(buffer);
-
-        writeBrowserSignal(str);
+        QString cur;
+        while ((cur = divide(str, END_CMD)) != "")
+        {
+        qDebug() << str<<cur;
+            emit writeBrowserSignal(cur);
+            qDebug("???");
+            QString cmd = divide(cur, DIV_CMD);
+            if(cmd=="LOGINSUCCEES")
+            {
+                loginSucceed(cur);
+                emit showChatWidgetSignal();
+            }
+        }
     }
 }
+void client::loginSucceed(QString init)
+{   
+    int cmdid = divide(init, DIV_CMD).toInt(); //命令id，需要等待回应
+    userId = divide(init, DIV_CMD).toInt();
+    while (init != ""){
+        QString friendStr = divide(init, INF_CMD);
+        emit buildFriendSignal(friendStr);
+    }
+}
+
 int client::sendMessageSlot(QString init)
 {
     qDebug()<<init<<endl;
     //thisSock.write("114514");
-    thisSock.write((QString::number(curId) +" " + init + "\r\n").toLocal8Bit());
+    thisSock.write((QString::number(curId) + DIV_CMD + init + END_CMD).toLocal8Bit());
     return curId++;
 }

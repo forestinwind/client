@@ -10,6 +10,8 @@ MainWindow::MainWindow(QWidget *parent)
     this->show();
     connect(&thisClient, &client::writeBrowserSignal, this, &MainWindow::writeBrowserSlot);
     connect(&loginWidget, &LoginWidget::sendMessageSignal, &thisClient, &client::sendMessageSlot);
+    connect(&thisClient, &client::buildFriendSignal, &friendWidget, &chatWidgets::buildFriendSlot);
+    connect(&thisClient, &client::showChatWidgetSignal, &friendWidget, &chatWidgets::showChatWidgetSlot);
     if(thisClient.begin())
     {
         loginWidget.show();
@@ -32,6 +34,7 @@ void MainWindow::addBrowser(QString init)
 }
 void MainWindow::writeBrowserSlot(QString init) //´òÓ¡ÔÚtextBrowser
 {
+    qDebug() << init;
     ui->textBrowser->append(init);
 }
 

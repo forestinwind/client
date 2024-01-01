@@ -4,6 +4,7 @@
 #include <qtcpsocket.h>
 #include <qhostaddress.h>
 
+#include "chatwidgets.h"
 #include "loginwidget.h"
 #include "client.h"
 
@@ -22,6 +23,7 @@ public:
 private:
     Ui::MainWindow *ui;
     LoginWidget loginWidget;
+    chatWidgets friendWidget;
     client thisClient; //ÄÚº¬socket
     //QTcpSocket thisSock;
 public slots:
