@@ -11,9 +11,12 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QHBoxLayout>
 #include <QtWidgets/QPlainTextEdit>
 #include <QtWidgets/QPushButton>
+#include <QtWidgets/QSpacerItem>
 #include <QtWidgets/QTextBrowser>
+#include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -21,28 +24,77 @@ QT_BEGIN_NAMESPACE
 class Ui_chatWidget
 {
 public:
-    QPlainTextEdit *plainTextEdit;
+    QVBoxLayout *verticalLayout;
     QTextBrowser *textBrowser;
-    QPushButton *pushButtonSend;
+    QPlainTextEdit *plainTextEdit;
+    QHBoxLayout *horizontalLayout;
+    QSpacerItem *horizontalSpacer;
     QPushButton *pushButtonReload;
+    QPushButton *pushButtonSend;
 
     void setupUi(QWidget *chatWidget)
     {
         if (chatWidget->objectName().isEmpty())
             chatWidget->setObjectName(QString::fromUtf8("chatWidget"));
-        chatWidget->resize(445, 349);
-        plainTextEdit = new QPlainTextEdit(chatWidget);
-        plainTextEdit->setObjectName(QString::fromUtf8("plainTextEdit"));
-        plainTextEdit->setGeometry(QRect(10, 180, 381, 81));
+        chatWidget->resize(539, 419);
+        chatWidget->setLayoutDirection(Qt::LeftToRight);
+        verticalLayout = new QVBoxLayout(chatWidget);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
         textBrowser = new QTextBrowser(chatWidget);
         textBrowser->setObjectName(QString::fromUtf8("textBrowser"));
-        textBrowser->setGeometry(QRect(10, 10, 381, 161));
-        pushButtonSend = new QPushButton(chatWidget);
-        pushButtonSend->setObjectName(QString::fromUtf8("pushButtonSend"));
-        pushButtonSend->setGeometry(QRect(339, 267, 51, 21));
+        QSizePolicy sizePolicy(QSizePolicy::Expanding, QSizePolicy::Expanding);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(2);
+        sizePolicy.setHeightForWidth(textBrowser->sizePolicy().hasHeightForWidth());
+        textBrowser->setSizePolicy(sizePolicy);
+
+        verticalLayout->addWidget(textBrowser);
+
+        plainTextEdit = new QPlainTextEdit(chatWidget);
+        plainTextEdit->setObjectName(QString::fromUtf8("plainTextEdit"));
+        QSizePolicy sizePolicy1(QSizePolicy::Expanding, QSizePolicy::Expanding);
+        sizePolicy1.setHorizontalStretch(0);
+        sizePolicy1.setVerticalStretch(1);
+        sizePolicy1.setHeightForWidth(plainTextEdit->sizePolicy().hasHeightForWidth());
+        plainTextEdit->setSizePolicy(sizePolicy1);
+
+        verticalLayout->addWidget(plainTextEdit);
+
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setSpacing(0);
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        horizontalLayout->setSizeConstraint(QLayout::SetMinimumSize);
+        horizontalSpacer = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout->addItem(horizontalSpacer);
+
         pushButtonReload = new QPushButton(chatWidget);
         pushButtonReload->setObjectName(QString::fromUtf8("pushButtonReload"));
-        pushButtonReload->setGeometry(QRect(249, 267, 81, 21));
+        QSizePolicy sizePolicy2(QSizePolicy::Minimum, QSizePolicy::Fixed);
+        sizePolicy2.setHorizontalStretch(2);
+        sizePolicy2.setVerticalStretch(1);
+        sizePolicy2.setHeightForWidth(pushButtonReload->sizePolicy().hasHeightForWidth());
+        pushButtonReload->setSizePolicy(sizePolicy2);
+
+        horizontalLayout->addWidget(pushButtonReload);
+
+        pushButtonSend = new QPushButton(chatWidget);
+        pushButtonSend->setObjectName(QString::fromUtf8("pushButtonSend"));
+        QSizePolicy sizePolicy3(QSizePolicy::Minimum, QSizePolicy::Fixed);
+        sizePolicy3.setHorizontalStretch(1);
+        sizePolicy3.setVerticalStretch(0);
+        sizePolicy3.setHeightForWidth(pushButtonSend->sizePolicy().hasHeightForWidth());
+        pushButtonSend->setSizePolicy(sizePolicy3);
+        pushButtonSend->setLayoutDirection(Qt::LeftToRight);
+
+        horizontalLayout->addWidget(pushButtonSend);
+
+        horizontalLayout->setStretch(0, 15);
+        horizontalLayout->setStretch(1, 3);
+        horizontalLayout->setStretch(2, 2);
+
+        verticalLayout->addLayout(horizontalLayout);
+
 
         retranslateUi(chatWidget);
 
@@ -52,8 +104,8 @@ public:
     void retranslateUi(QWidget *chatWidget)
     {
         chatWidget->setWindowTitle(QCoreApplication::translate("chatWidget", "Form", nullptr));
-        pushButtonSend->setText(QCoreApplication::translate("chatWidget", "Send", nullptr));
         pushButtonReload->setText(QCoreApplication::translate("chatWidget", "Reload", nullptr));
+        pushButtonSend->setText(QCoreApplication::translate("chatWidget", "Send", nullptr));
     } // retranslateUi
 
 };

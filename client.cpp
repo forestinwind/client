@@ -40,21 +40,31 @@ void client::readSockSlot()
         QString cur;
         while ((cur = divide(str, END_CMD)) != "")
         {
-        qDebug() << str<<cur;
-            emit writeBrowserSignal(cur);
+            qDebug("??");
+            emit writeBrowserSignal(cur);//这里有error，原因不明，疑似是因为_CMD分割符
             qDebug("???");
+            int cmdid = divide(cur, DIV_CMD).toInt(); //命令id，需要等待回应
+
             QString cmd = divide(cur, DIV_CMD);
             if(cmd=="LOGINSUCCEES")
             {
                 loginSucceed(cur);
                 emit showChatWidgetSignal();
             }
+            if (cmd == "CHATRECORD")
+            {
+                emit chatRecordSignal(cur);
+            }
+            if (cmd == "CHATADD")
+            {
+                writeBrowserSignal(cur);
+                emit chatAddSignal(cur);
+            }
         }
     }
 }
 void client::loginSucceed(QString init)
 {   
-    int cmdid = divide(init, DIV_CMD).toInt(); //命令id，需要等待回应
     userId = divide(init, DIV_CMD).toInt();
     while (init != ""){
         QString friendStr = divide(init, INF_CMD);
@@ -62,7 +72,7 @@ void client::loginSucceed(QString init)
     }
 }
 
-int client::sendMessageSlot(QString init)
+qint32 client::sendMessageSlot(QString init)
 {
     qDebug()<<init<<endl;
     //thisSock.write("114514");

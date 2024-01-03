@@ -11,6 +11,7 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QGridLayout>
 #include <QtWidgets/QTabWidget>
 #include <QtWidgets/QWidget>
 
@@ -19,29 +20,26 @@ QT_BEGIN_NAMESPACE
 class Ui_chatWidgets
 {
 public:
+    QGridLayout *gridLayout;
     QTabWidget *tabWidget;
-    QWidget *tab;
-    QWidget *tab_2;
 
     void setupUi(QWidget *chatWidgets)
     {
         if (chatWidgets->objectName().isEmpty())
             chatWidgets->setObjectName(QString::fromUtf8("chatWidgets"));
-        chatWidgets->resize(407, 335);
+        chatWidgets->resize(601, 479);
+        gridLayout = new QGridLayout(chatWidgets);
+        gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
         tabWidget = new QTabWidget(chatWidgets);
         tabWidget->setObjectName(QString::fromUtf8("tabWidget"));
-        tabWidget->setGeometry(QRect(0, 0, 401, 331));
         tabWidget->setTabsClosable(true);
-        tab = new QWidget();
-        tab->setObjectName(QString::fromUtf8("tab"));
-        tabWidget->addTab(tab, QString());
-        tab_2 = new QWidget();
-        tab_2->setObjectName(QString::fromUtf8("tab_2"));
-        tabWidget->addTab(tab_2, QString());
+
+        gridLayout->addWidget(tabWidget, 0, 0, 1, 1);
+
 
         retranslateUi(chatWidgets);
 
-        tabWidget->setCurrentIndex(0);
+        tabWidget->setCurrentIndex(-1);
 
 
         QMetaObject::connectSlotsByName(chatWidgets);
@@ -50,8 +48,6 @@ public:
     void retranslateUi(QWidget *chatWidgets)
     {
         chatWidgets->setWindowTitle(QCoreApplication::translate("chatWidgets", "Form", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(tab), QCoreApplication::translate("chatWidgets", "Tab 1", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(tab_2), QCoreApplication::translate("chatWidgets", "Tab 2", nullptr));
     } // retranslateUi
 
 };

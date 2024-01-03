@@ -15,15 +15,17 @@ public:
     bool begin();
     QTcpSocket thisSock;
 private:
-    int curId;
-    int userId;
+    qint32 curId;
+    qint32 userId;
     void loginSucceed(QString);
 public slots:
     void readSockSlot();
-    int sendMessageSlot(QString);
+    qint32 sendMessageSlot(QString);
 signals:
     void writeBrowserSignal(QString);
     void buildFriendSignal(QString);
     void showChatWidgetSignal();
+    void chatRecordSignal(QString);
+    void chatAddSignal(QString);
 };
 

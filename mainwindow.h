@@ -19,12 +19,11 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
-    void addBrowser(QString);
 private:
     Ui::MainWindow *ui;
-    LoginWidget loginWidget;
-    chatWidgets friendWidget;
-    client thisClient; //ÄÚº¬socket
+    LoginWidget *loginWidget;
+    chatWidgets *friendWidget;
+    client *thisClient; //ÄÚº¬socket
     //QTcpSocket thisSock;
 public slots:
     //void readSock();

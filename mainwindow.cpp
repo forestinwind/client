@@ -8,13 +8,21 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     this->show();
-    connect(&thisClient, &client::writeBrowserSignal, this, &MainWindow::writeBrowserSlot);
-    connect(&loginWidget, &LoginWidget::sendMessageSignal, &thisClient, &client::sendMessageSlot);
-    connect(&thisClient, &client::buildFriendSignal, &friendWidget, &chatWidgets::buildFriendSlot);
-    connect(&thisClient, &client::showChatWidgetSignal, &friendWidget, &chatWidgets::showChatWidgetSlot);
-    if(thisClient.begin())
+    loginWidget = new LoginWidget();
+    friendWidget = new chatWidgets();
+    thisClient = new client();
+
+    connect(thisClient, &client::writeBrowserSignal, this, &MainWindow::writeBrowserSlot);
+    connect(loginWidget, &LoginWidget::sendMessageSignal, thisClient, &client::sendMessageSlot);
+    connect(thisClient, &client::buildFriendSignal, friendWidget, &chatWidgets::buildFriendSlot);
+    connect(thisClient, &client::showChatWidgetSignal, friendWidget, &chatWidgets::showChatWidgetSlot);
+    connect(friendWidget, &chatWidgets::sendMessageSignal, thisClient, &client::sendMessageSlot);
+    connect(thisClient, &client::chatRecordSignal, friendWidget, &chatWidgets::chatRecordSlot);
+    connect(thisClient, &client::chatAddSignal, friendWidget, &chatWidgets::chatAddSlot);
+
+    if(thisClient->begin())
     {
-        loginWidget.show();
+        loginWidget->show();
         //loginWidget.raise();
         //loginWidget.activateWindow();
         
@@ -28,10 +36,7 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-void MainWindow::addBrowser(QString init)
-{
-    ui->textBrowser->setText(init);
-}
+
 void MainWindow::writeBrowserSlot(QString init) //´òÓ¡ÔÚtextBrowser
 {
     qDebug() << init;

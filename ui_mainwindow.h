@@ -11,6 +11,7 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QHBoxLayout>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QStatusBar>
@@ -23,6 +24,7 @@ class Ui_MainWindow
 {
 public:
     QWidget *centralwidget;
+    QHBoxLayout *horizontalLayout;
     QTextBrowser *textBrowser;
     QMenuBar *menubar;
     QStatusBar *statusbar;
@@ -34,9 +36,14 @@ public:
         MainWindow->resize(800, 600);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
+        horizontalLayout = new QHBoxLayout(centralwidget);
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
         textBrowser = new QTextBrowser(centralwidget);
         textBrowser->setObjectName(QString::fromUtf8("textBrowser"));
-        textBrowser->setGeometry(QRect(200, 100, 256, 192));
+        textBrowser->setMinimumSize(QSize(256, 192));
+
+        horizontalLayout->addWidget(textBrowser);
+
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));

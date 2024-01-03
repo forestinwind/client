@@ -12,11 +12,25 @@ class chatWidget : public QWidget
 
 public:
     explicit chatWidget(QString info,QWidget *parent = nullptr);
+    void construct();
+    void chatReflesh(QString);
+    void chatAdd(QString);
     ~chatWidget();
-    int friendId;
+    qint32 friendId;
+    qint32 FID;
+    qint32 SID;
     QString friendName;
 
 private:
     Ui::chatWidget *ui;
+    QString readTextEdit();
+    void messageSent(QString);
+    void messageGet(QString);
+    QString toFormat(QString);
+signals:
+    qint32 sendMessageSignal(QString);
+private slots:
+    void on_pushButtonSend_clicked();
+    void on_pushButtonReload_clicked();
 };
 

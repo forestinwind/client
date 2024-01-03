@@ -11,10 +11,12 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QGridLayout>
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QLineEdit>
 #include <QtWidgets/QPushButton>
-#include <QtWidgets/QTextBrowser>
+#include <QtWidgets/QSpacerItem>
+#include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -22,36 +24,60 @@ QT_BEGIN_NAMESPACE
 class Ui_LoginWidget
 {
 public:
-    QTextBrowser *textBrowser;
-    QLineEdit *lineEdit_userName;
-    QLineEdit *lineEdit_password;
+    QVBoxLayout *verticalLayout;
+    QGridLayout *gridLayout;
     QLabel *label_userName;
+    QLineEdit *lineEdit_userName;
     QLabel *label_2;
+    QLineEdit *lineEdit_password;
     QPushButton *pushButton_login;
+    QSpacerItem *verticalSpacer;
 
     void setupUi(QWidget *LoginWidget)
     {
         if (LoginWidget->objectName().isEmpty())
             LoginWidget->setObjectName(QString::fromUtf8("LoginWidget"));
-        LoginWidget->resize(467, 393);
-        textBrowser = new QTextBrowser(LoginWidget);
-        textBrowser->setObjectName(QString::fromUtf8("textBrowser"));
-        textBrowser->setGeometry(QRect(60, 240, 231, 31));
-        lineEdit_userName = new QLineEdit(LoginWidget);
-        lineEdit_userName->setObjectName(QString::fromUtf8("lineEdit_userName"));
-        lineEdit_userName->setGeometry(QRect(170, 70, 113, 20));
-        lineEdit_password = new QLineEdit(LoginWidget);
-        lineEdit_password->setObjectName(QString::fromUtf8("lineEdit_password"));
-        lineEdit_password->setGeometry(QRect(170, 100, 113, 20));
+        LoginWidget->resize(376, 354);
+        verticalLayout = new QVBoxLayout(LoginWidget);
+        verticalLayout->setSpacing(15);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        gridLayout = new QGridLayout();
+        gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
         label_userName = new QLabel(LoginWidget);
         label_userName->setObjectName(QString::fromUtf8("label_userName"));
-        label_userName->setGeometry(QRect(80, 70, 81, 21));
+
+        gridLayout->addWidget(label_userName, 0, 0, 1, 1);
+
+        lineEdit_userName = new QLineEdit(LoginWidget);
+        lineEdit_userName->setObjectName(QString::fromUtf8("lineEdit_userName"));
+
+        gridLayout->addWidget(lineEdit_userName, 0, 1, 1, 1);
+
         label_2 = new QLabel(LoginWidget);
         label_2->setObjectName(QString::fromUtf8("label_2"));
-        label_2->setGeometry(QRect(80, 100, 81, 21));
+
+        gridLayout->addWidget(label_2, 1, 0, 1, 1);
+
+        lineEdit_password = new QLineEdit(LoginWidget);
+        lineEdit_password->setObjectName(QString::fromUtf8("lineEdit_password"));
+
+        gridLayout->addWidget(lineEdit_password, 1, 1, 1, 1);
+
+
+        verticalLayout->addLayout(gridLayout);
+
         pushButton_login = new QPushButton(LoginWidget);
         pushButton_login->setObjectName(QString::fromUtf8("pushButton_login"));
-        pushButton_login->setGeometry(QRect(180, 130, 101, 41));
+
+        verticalLayout->addWidget(pushButton_login);
+
+        verticalSpacer = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout->addItem(verticalSpacer);
+
+        verticalLayout->setStretch(0, 5);
+        verticalLayout->setStretch(1, 5);
+        verticalLayout->setStretch(2, 2);
 
         retranslateUi(LoginWidget);
 

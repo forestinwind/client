@@ -18,7 +18,7 @@ LoginWidget::~LoginWidget()
 void LoginWidget::on_pushButton_login_clicked()
 {
     //emit sendMessageSignal("LOGIN admin " + ui->lineEdit_password->text() + "\r\n");
-    int res = emit
+    qint32 res = emit
         sendMessageSignal("LOGIN" + DIV_CMD + ui->lineEdit_userName->text() + DIV_CMD + ui->lineEdit_password->text());
     qDebug() << res;
 }
