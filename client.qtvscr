@@ -1,14 +1,14 @@
 <FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
   <FlowDocument.Tag><![CDATA[{
-  "timestamp": "2023-12-30 15:06:02",
+  "timestamp": "2024-01-08 11:21:52",
   "files": {
     "D:\\kp的善良计划\\client\\client.vcxproj": {
-      "before": "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",
-      "after": "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"
+      "before": "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",
+      "after": "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"
     },
     "D:\\kp的善良计划\\client\\client.vcxproj.filters": {
-      "before": "5VhNb5tAFOy5Um/tHfm+gMEfULAjY0OaW6Sqt0gVZp/NRnyVhcRS1f/edRyz60BqGptIaS1blp/wmx1m9s2Kj5/evbMvNnEk3UFOSZpMen1Z7UmQBCkmyXrSK4sVMnoX0w/v7es8vYWgkNjlCZ30wqLIPisKDUKIfSrHJMhTmq4KOUhjBcMdRGkGuRLTZUkirGiqqvdYG0myrwqIL/O0zB5+soJHogJy6SoJohLDpOeleSyxItDdPyT2sr8l5EcJVxiSgqwI5NOfpqkPTEM10XDozNBgaWLkeGMTGd7CcVTNGLmO/stWan/cLuKhpbspINnSptOS2Irws7rk2s8pPCxluvIjCrYiVHZX2cpu/f8Hm0tIIPcLwC0EGvfdhcHeaDZ3TDSYuyZyHLePXFV1dLU/GLj9fluBgiyzAivYbKw4DazQwrCyUhxZhH1yoFaDfMeE+YeofAEfsx3UYs/opjnUDRUZprNge0YdIMNwHTTShp7jDjXX8Zy2koRWyEQJmSRhbJGEaZEE1obiF0jx1tf/NS3zAFrc/4E3H+tjr4/m49kQDfTxCM3U0QhpM11bjIfaTPO8tvefbwlxM4TZrbX0C8un8fazeYEab5iNrRymSz1s5tE8jTMWLjxvgtAv7gleAwuvLBMy53Gwi/fj6VBRqn77+V8VmgBoVwgRYcHYUfMoXZOk0xsU+yTpaPHb1vckwel9RwCyfENDPwf8+HUyTAsPl7RIY2d7sGoymRzWPSxO2LqHeb/KxbzUBEG7w9g5uSsKope7whAsdw6I6PFgzHU4sBzk+O/F2Pes5N4XngFh9j4RpIWr65MZw7Jc37AT3/djM/rJYa5u8X1zzriWAzlE4FN4Nbwmds8ERHf0OgQU+P0hns5OrWMszkqcJY0Hh3NTexVAzk+YY69C7/x4TSHG+WVsqsGKRZkcLIt6ZB5Vj3evhgov8UEqjpUOIOuTuyTiuGyIoKPM9j0rXvsCZ3UA0ngcOBOKaPruuAjeOxmkRdQ1+USIuJLU7cifitXDjberFOMlrhlHoHJHEKJaHUEIUp2IcCgUe7a3e8Q5/Q0=",
-      "after": "5Vddb5swFO3zpO03oLyb7yQwSKpAoOvDpFZT3ypNxL4JrgAzbNpI0/7bftqcpEloSZWsTR66IRDCMud+nHN97d+fzs7883meKfdQccqKQcdQ9Y4CBWaEFrNBpxZT5HTOhx8/+FcVuwMsFDm94INOKkT5WdM4TiFPuJpTXDHOpkLFLNcI3EPGSqi0nE9qmhHN1HWrI2EUxb8UkF9UrC6Xn3IgppmASrkscFYTGHRiVuWKHAS++kORl39T0B81XBIoBJ1SqIY/XdeyXUd3UbcbjJA9cQkK4r6LnHgcBLrp9KLA+uVrrR8XTiwho7mAYhE2H9bU1xqfmylXScVh6cpwmmQcfK0xsprlayv//49oLqCAKhFADiCob0RjR95oFAYussPIRUEQGSjS9cDSDduODONQgnBZetjD87mXM+ylHoGpx0jmUflUwL0d9O0j5h8K5QskRFbQATVjuW7XcnTkuMFY1oxuI8eJAtQzu3EQdc0oiINDKUm9VJKSSkrS3KOF5KLA3pyTV1Dx3v3/xuoKwwH5t+Owb/VjA4X9URfZVr+HRnqvh8yRZY77XXNkxvGh+d+WRLMY0vLOmyTCS3i+eOavYOMdR+NrT7tLu9mEWcjyUjaXbb/BaSIeKJmBbF5l2eg5jwt7Mx/PFxVtg7de/zcDuwzwU1nIqGyMJwLP2IwWJ01QntDiRM4voB9oQdjDiQyo6i1PkwrI4+vNZvZr+Fp8ZXiXvNS0rd7m2tpS7xJprdwXYflxcVdaPaarTYUeE7chnjfBhtnj5nZL2hPZQEX+OsUbzDV9m4EXjEiJvtHIfmWGNRcsDxZb/q0XBCb17Fbu276X0geYSjmpeCLaUn22I2uptYG+CXqXwQoySDicwuT+FFyLG7q7OGvaDnl71mlFuwRax/kiKlePCNusoyPCNsro1ahPEy/PYavj6PAP"
+      "before": "5VnBbptAEM25Uj+gN+Q7BgO2oWBHxoE0t0hVb5EqDGOzEbCUhcRS1S/qT3Ydx94l0JgkXktpLSOLFczbx8ybNzK/P52dOefrNJHuoCAIZ5PeoK/2JMhCHKFsNelV5VI2e+fTjx+c6wLfQlhK9PKMTHpxWeafFYWEMaQB6acoLDDBy7If4lSJ4A4SnEOhpGRRoSRSNFXVezSMJDlXJaSXBa7yh1O64KOkhEK6ysKkimDS83GRSnQRyPYOiX6cbxn6UcFVBFmJlgiK6U/L0g3LVC15OHRnsrGwItn1x5Zs+heuq2rmyHP1X47SuHGziYeQ3rqEbEObTCvkKNzp/pLroCDwsJXpMkgIOAq3sr3KUbb7/z/YXEIGRVBC1CFB44F3YdKvPJu7lmzMPUt2XW8ge6rq6urAMLzBoGuCwjy3Qztcr+0Uh3ZsR7C0cZTYiB4FELslfYcS8w9R+QJBRBXUQTO6ZQ11U5VNy72gmlEN2TQ9Vx5pQ9/1hprn+m7XlMR2TJMS05TEqY0ymosstNckekUq3vv+v+KqCKHD8zf8+Vgf+wN5Pp4NZUMfj+SZOhrJ2kzXLsZDbab5ftfnzyTBiyHOb+1FUNoBSTfH+hXZeMdsHKXuLk2zmSdznObUXJjfhHFQ3qNoBdS88pzznMfGzj+Pp01F2cfb9f/9QhsAEYWQIGqMgoIneIUyoQ8oDVAmaPOb0Pcoi/C9IIB+/4bEQQHR448gmIpAscBroWnYYCSIHEsMHcRYkRKn7mZCbFNLP26KkbeKphhZvL0c2VIbBBGHsZWkKAq8KEVhcNo5BkTyOOGzPDS082KYXcxn013XzosxWAUdROHU81aYDuppWlkEi2p1Q0fk74dM7cn025TSLvie826Bpa+ABAICJ8NrY/cXRxVHTyAgx+8ZPz86NcFYjBXfs1onrWNTOwkg48f1y5PQOz4ea3VM5YxfTqccWFLL7IeLsmnNB7PHou+bCltigHxbEQDZ7GOMYd0pTpLEE0HWOXI+dTKSAjAbA0WFeONrseCDNdoYKHYLrD5rIK0D5JFQ+PYljgvXRcSB1KtcLA5XaG8G6jCFtbUwbvqqULNTsn+4m3MXC/dsk2QIpC8Igi8/QRBc7QlCqBeeQBCu6t6IUq85+sph++Zl+gc=",
+      "after": "5Vhdb5swFN3zpEn7CSjvBgIkgUFSBQJdHya1mvpWaSL4JrgCzLBpI037B/vRc5ImISVd0gweuiFQhGXO/Tj3+Nr59fHdO+dikSbSAxSM0GzY6cpqR4Isophk82Gn5DNkdi5GH9471wW9h4hLYnrGhp2Y8/yTorAohjRkckqigjI643JEUwXDAyQ0h0JJ2bQkCVY0VdU7AkaSnCsO6WVBy3z1KgYCknAopKssSkoMw05Ai1QSg8DWX0jicm4z8r2EKwwZJzMCxeiHZemGZaoW6vXcMTKmFkZuMLCQGUxcV9XMvu/qPx2l9uHSiRWkv+CQLcNmo5I4SuV1O+U6LBisXBnNwoSBo1RG1rMcZe3//xHNJWRQhBzwCQQNuv7EFDcae66FDM+3kOv6XeSrqqurXcPwu91TCYry3I7saLGwUxrZsY1hZlOc2EQ8BTD7AH3HiPmHQvkMIRYKOkEzumX1dFNFpuVOhGZUA5mm76K+1gtcv6f5buCeSklsx4KUWFASpzbJBBdZZC8YPoOKt+7/V1oWEZyQfyPwBvog6CJvMO4hQx/00Vjt95E21rXJoKeNtSA4Nf87SVTFEOf39jTkdsjS5bM4g403HI2j7HeXerPxEo+muWguu34TxSF/JHgOonnleaXnPC3s1Xw8X1SULd5m/d8OHDLA2rKQENEYWwJP6JxkrSYoDUnWkvNL6EeSYfrYkgFZvmNxWAB++mnJTMmgmNJFqzQsbSSENSWG42K84V9odEgnclyXYbVJ1GS4QtpI8EVY1izuWnRNulqVWpO4FRX8FayXPO3Sd6TV6v+1BraYL9C3X/mvRf9TYTyr9/Ohj1e6VzJOU3d5FtqlDsO0nN+JDe23XKwfMBPlKUdTXi/9Z1vVWvVX0DdJrAztDBaQQMigDZPHU3DDb8lhsZekHvLuEFiLdgW0ifNFVCY3CFvVZYOwFVk2iLovmIaBK/3hbOT9WhFn6vVfC6Pf"
     }
   }
 }]]></FlowDocument.Tag>
@@ -21,7 +21,7 @@
       <Span TextDecorations="Underline">Project Format Conversion</Span>
     </Paragraph>
     <Paragraph Margin="12,8" FontSize="18">
-      <Span>Report generated on 2023-12-30 15:06:02</Span>
+      <Span>Report generated on 2024-01-08 11:21:52</Span>
     </Paragraph>
   </Section>
   <Section>
@@ -417,6 +417,114 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userboxwidget.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userboxwidget.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userboxwidget.h -o release\moc_userboxwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userboxwidget.h -o release\moc_userboxwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userboxwidget.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userboxwidget.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userboxwidget.h -o debug\moc_userboxwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userboxwidget.h -o debug\moc_userboxwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userlistwidget.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userlistwidget.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userlistwidget.h -o release\moc_userlistwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userlistwidget.h -o release\moc_userlistwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userlistwidget.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userlistwidget.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-ID:/QT/5.15.2/MSVC2019_64/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userlistwidget.h -o debug\moc_userlistwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -ID:/kp?????/client ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtANGLE]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userlistwidget.h -o debug\moc_userlistwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
@@ -429,12 +537,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus /utf-8 -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus /utf-8 -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -456,12 +564,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus /utf-8 -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\QT\5.15.2\MSVC2019_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus /utf-8 -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -633,12 +741,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;userlistwidget.h;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;userlistwidget.h;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -660,12 +768,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;userlistwidget.h;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;userlistwidget.h;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -678,6 +786,114 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe mainwindow.ui -o ui_mainwindow.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userboxwidget.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userboxwidget.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe userboxwidget.ui -o ui_userboxwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe userboxwidget.ui -o ui_userboxwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userboxwidget.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userboxwidget.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe userboxwidget.ui -o ui_userboxwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe userboxwidget.ui -o ui_userboxwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userlistwidget.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userlistwidget.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe userlistwidget.ui -o ui_userlistwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe userlistwidget.ui -o ui_userlistwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userlistwidget.ui;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userlistwidget.ui;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\uic]]></Span><Span><![CDATA[.exe userlistwidget.ui -o ui_userlistwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\uic]]></Span><Span><![CDATA[.exe userlistwidget.ui -o ui_userlistwidget.h</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1594,6 +1810,213 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="userboxwidget.]]></Span><Span Background="LightCoral"><![CDATA[h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ Include="userboxwidget.]]></Span><Span Background="LightGreen"><![CDATA[h" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalInputs]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userboxwidget]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[Include="userlistwidget]]></Span><Span><![CDATA[.]]></Span><Span Background="LightGreen"><![CDATA[h" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userboxwidget.h -o release\moc_userboxwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">MOC userboxwidget.h</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\moc_userboxwidget.cpp;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userboxwidget.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userboxwidget.h -o debug\moc_userboxwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">MOC userboxwidget.h</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\moc_userboxwidget.cpp;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <CustomBuild Include="userlistwidget.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userlistwidget.h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/release/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userlistwidget.h -o release\moc_userlistwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">MOC userlistwidget.h</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\moc_userlistwidget.cpp;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userlistwidget.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include D:/kp?????/client/debug/moc_predefs.h -I$(QTDIR)/mkspecs/win32-msvc -ID:/kp?????/client -I$(QTDIR)/include -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtANGLE -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtCore -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" userlistwidget.h -o debug\moc_userlistwidget.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">MOC userlistwidget.h</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\moc_userlistwidget.cpp;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\moc_chatwidget.cpp">]]></Span>
             </Paragraph>
           </TableCell>
@@ -1897,6 +2320,126 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\moc_userboxwidget.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="release\moc_userboxwidget.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\moc_userlistwidget.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="release\moc_userlistwidget.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_chatwidget.h" />]]></Span>
             </Paragraph>
           </TableCell>
@@ -1928,6 +2471,26 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_mainwindow.h" />]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_userboxwidget.h" />]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_userlistwidget.h" />]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1988,21 +2551,25 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">UIC chatwidget.ui</Message>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<Message]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[Condition="'$(Configuration)|$(Platform)'=='Release|x64'">UIC]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[chatwidget.ui</Message>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtUic]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[Include="userboxwidget.ui"]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[/>]]></Span>
+            </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ui_chatwidget.h;%(Outputs)</Outputs>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<Outputs]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ui_chatwidget]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[h;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtUic]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[Include="userlistwidget]]></Span><Span><![CDATA[.]]></Span><Span Background="LightGreen"><![CDATA[ui" />]]></Span>
+            </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
@@ -2298,7 +2865,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mainwindow.ui;$(QTDIR)\bin\uic.exe;userlistwidget.h;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -2338,7 +2905,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mainwindow.ui;$(QTDIR)\bin\uic.exe;userlistwidget.h;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -2369,6 +2936,226 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ui_mainwindow.h;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <CustomBuild Include="userboxwidget.ui">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <FileType>Document</FileType>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userboxwidget.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\uic.exe userboxwidget.ui -o ui_userboxwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">UIC userboxwidget.ui</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ui_userboxwidget.h;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userboxwidget.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\uic.exe userboxwidget.ui -o ui_userboxwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">UIC userboxwidget.ui</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ui_userboxwidget.h;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <CustomBuild Include="userlistwidget.ui">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <FileType>Document</FileType>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">userlistwidget.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\uic.exe userlistwidget.ui -o ui_userlistwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">UIC userlistwidget.ui</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ui_userlistwidget.h;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">userlistwidget.ui;$(QTDIR)\bin\uic.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\uic.exe userlistwidget.ui -o ui_userlistwidget.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">UIC userlistwidget.ui</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ui_userlistwidget.h;%(Outputs)</Outputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -2520,6 +3307,63 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ Include="mainwindow.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[</CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtMoc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="userboxwidget.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ Include="userboxwidget.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[</CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtMoc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="userlistwidget.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ Include="userlistwidget.h">]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2847,6 +3691,126 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\moc_userboxwidget.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="release\moc_userboxwidget.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\moc_userlistwidget.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="release\moc_userlistwidget.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_chatwidget.h">]]></Span>
             </Paragraph>
           </TableCell>
@@ -2938,6 +3902,66 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_mainwindow.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClInclude>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_userboxwidget.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClInclude>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_userlistwidget.h">]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -3057,6 +4081,60 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtUic]]></Span><Span><![CDATA[ Include="mainwindow.ui">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[</CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtUic>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="userboxwidget.ui">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtUic]]></Span><Span><![CDATA[ Include="userboxwidget.ui">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[</CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtUic>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="userlistwidget.ui">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtUic]]></Span><Span><![CDATA[ Include="userlistwidget.ui">]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -4075,4 +5153,4 @@
     <Paragraph />
   </Section>
 </FlowDocument>
-<!--uX8QeK+no63KnS2+td1hbCEwcRRJjk2WG8UmQtr+MkY=-->
+<!--I13QQAcB86qNXL/8r63n82WCjG8V9fRHxfcGVZvAb98=-->

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include <QWidget>
 #include <qvector.h>
@@ -15,10 +15,12 @@ class chatWidgets : public QWidget
     Q_OBJECT
 public:
     explicit chatWidgets(QWidget *parent = nullptr);
+    chatWidget* buildFriend(qint32, qint32, qint32, QString);
+    void addTab(chatWidget*);
     ~chatWidgets();
+    QMap<qint32, chatWidget*> friends;
 private:
     Ui::chatWidgets* ui;
-    QMap<qint32, chatWidget*> friends;
 public slots:
     void buildFriendSlot(QString);
     void showChatWidgetSlot();

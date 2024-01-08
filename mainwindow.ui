@@ -16,6 +16,9 @@
   <widget class="QWidget" name="centralwidget">
    <layout class="QHBoxLayout" name="horizontalLayout">
     <item>
+     <widget class="userListWidget" name="listWidget"/>
+    </item>
+    <item>
      <widget class="QTextBrowser" name="textBrowser">
       <property name="minimumSize">
        <size>
@@ -39,6 +42,13 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
+ <customwidgets>
+  <customwidget>
+   <class>userListWidget</class>
+   <extends>QListWidget</extends>
+   <header>userlistwidget.h</header>
+  </customwidget>
+ </customwidgets>
  <resources/>
  <connections/>
 </ui>

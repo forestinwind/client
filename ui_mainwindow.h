@@ -17,6 +17,7 @@
 #include <QtWidgets/QStatusBar>
 #include <QtWidgets/QTextBrowser>
 #include <QtWidgets/QWidget>
+#include "userlistwidget.h"
 
 QT_BEGIN_NAMESPACE
 
@@ -25,6 +26,7 @@ class Ui_MainWindow
 public:
     QWidget *centralwidget;
     QHBoxLayout *horizontalLayout;
+    userListWidget *listWidget;
     QTextBrowser *textBrowser;
     QMenuBar *menubar;
     QStatusBar *statusbar;
@@ -38,6 +40,11 @@ public:
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         horizontalLayout = new QHBoxLayout(centralwidget);
         horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        listWidget = new userListWidget(centralwidget);
+        listWidget->setObjectName(QString::fromUtf8("listWidget"));
+
+        horizontalLayout->addWidget(listWidget);
+
         textBrowser = new QTextBrowser(centralwidget);
         textBrowser->setObjectName(QString::fromUtf8("textBrowser"));
         textBrowser->setMinimumSize(QSize(256, 192));

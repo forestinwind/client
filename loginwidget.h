@@ -16,6 +16,8 @@ public:
 
 private slots:
     void on_pushButton_login_clicked();
+public slots:
+    void closeLoginWidgetSlot();
 signals:
     qint32 sendMessageSignal(QString);
 private:

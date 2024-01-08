@@ -58,6 +58,12 @@
     <ClCompile Include="..\shared\shared.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="userboxwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="userlistwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="chatwidget.h">
@@ -78,6 +84,12 @@
     <ClInclude Include="..\shared\shared.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <QtMoc Include="userboxwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="userlistwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="debug\moc_predefs.h.cbt">
@@ -98,6 +110,12 @@
       <Filter>Form Files</Filter>
     </QtUic>
     <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="userboxwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="userlistwidget.ui">
       <Filter>Form Files</Filter>
     </QtUic>
   </ItemGroup>

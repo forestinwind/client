@@ -1,4 +1,4 @@
-#include <qdebug.h>
+ï»¿#include <qdebug.h>
 
 #include "client.h"
 #include "..\shared\shared.h"
@@ -16,7 +16,7 @@ client::~client()
 {
     sendMessageSlot("LOGOUT");
 }
-bool client::begin()//connectÎ´½¨Á¢£¬ÎÒ²»ÄÜ½«ÏòÉÏ´«µİµÄĞÅºÅÔÚ¹¹Ôìº¯Êı·¢³ö
+bool client::begin()//connectæœªå»ºç«‹ï¼Œæˆ‘ä¸èƒ½å°†å‘ä¸Šä¼ é€’çš„ä¿¡å·æ”¾åœ¨æ„é€ å‡½æ•°
 {
     thisSock.connectToHost(QHostAddress(IPLOC), SERVER_PORT);
     //thisSock.write("michael");
@@ -41,14 +41,15 @@ void client::readSockSlot()
         while ((cur = divide(str, END_CMD)) != "")
         {
             qDebug("??");
-            emit writeBrowserSignal(cur);//ÕâÀïÓĞerror£¬Ô­Òò²»Ã÷£¬ÒÉËÆÊÇÒòÎª_CMD·Ö¸î·û
+            emit writeBrowserSignal(cur);//è¿™é‡Œæœ‰errorï¼ŒåŸå› ä¸æ˜ï¼Œç–‘ä¼¼æ˜¯å› ä¸º_CMDåˆ†å‰²ç¬¦
             qDebug("???");
-            int cmdid = divide(cur, DIV_CMD).toInt(); //ÃüÁîid£¬ĞèÒªµÈ´ı»ØÓ¦
+            int cmdid = divide(cur, DIV_CMD).toInt(); //å‘½ä»¤idï¼Œéœ€è¦ç­‰å¾…å›åº”
 
             QString cmd = divide(cur, DIV_CMD);
             if(cmd=="LOGINSUCCEES")
             {
                 loginSucceed(cur);
+                emit closeLoginWidgetSignal();
                 emit showChatWidgetSignal();
             }
             if (cmd == "CHATRECORD")

@@ -22,4 +22,8 @@ void LoginWidget::on_pushButton_login_clicked()
         sendMessageSignal("LOGIN" + DIV_CMD + ui->lineEdit_userName->text() + DIV_CMD + ui->lineEdit_password->text());
     qDebug() << res;
 }
+void LoginWidget::closeLoginWidgetSlot()
+{
+    this->close();
+}
 

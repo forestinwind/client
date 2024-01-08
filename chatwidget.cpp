@@ -16,6 +16,17 @@ chatWidget::chatWidget(QString info,QWidget *parent)
     friendName = info;
 
 }
+chatWidget::chatWidget(qint32 sid,qint32 fid,qint32 friendid,QString name, QWidget* parent)
+    : QWidget(parent)
+    , ui(new Ui::chatWidget)
+{
+    ui->setupUi(this);
+    SID = sid;
+    FID = fid;
+    friendId = friendid;
+    friendName = name;
+
+}
 
 chatWidget::~chatWidget()
 {

@@ -27,5 +27,6 @@ signals:
     void showChatWidgetSignal();
     void chatRecordSignal(QString);
     void chatAddSignal(QString);
+    void closeLoginWidgetSignal();
 };
 

@@ -1,9 +1,11 @@
-#pragma once
+﻿#pragma once
 
 #include <QMainWindow>
 #include <qtcpsocket.h>
 #include <qhostaddress.h>
 
+#include "userlistwidget.h"
+#include "userboxwidget.h"
 #include "chatwidgets.h"
 #include "loginwidget.h"
 #include "client.h"
@@ -19,11 +21,13 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+
 private:
     Ui::MainWindow *ui;
     LoginWidget *loginWidget;
-    chatWidgets *friendWidget;
-    client *thisClient; //�ں�socket
+//    chatWidgets *friendWidget;
+    client *thisClient; //内含socket
+    userListWidget* friendListWidget;
     //QTcpSocket thisSock;
 public slots:
     //void readSock();
@@ -31,4 +35,6 @@ public slots:
     void sendMessageSlot(QString);
 signals:
     void sendMessageSignal(QString);
+private slots:
+   // void on_listWidget_itemClicked(QListWidgetItem *item);
 };
