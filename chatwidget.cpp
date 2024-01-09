@@ -1,4 +1,4 @@
-#include "chatwidget.h"
+﻿#include "chatwidget.h"
 #include "ui_chatwidget.h"
 #include "..\shared\shared.h"
 #include <qdatetime.h>
@@ -30,6 +30,7 @@ chatWidget::chatWidget(qint32 sid,qint32 fid,qint32 friendid,QString name, QWidg
 
 chatWidget::~chatWidget()
 {
+    qDebug() << "delete ui";
     delete ui;
 }
 void chatWidget::construct()

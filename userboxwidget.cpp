@@ -35,8 +35,3 @@ void userBoxWidget::createChatWidget()
 }
 
 
-void userBoxWidget::mouseDoubleClickEvent(QEvent *event)
-{
-    qDebug() << "click";
-    dynamic_cast<userListWidget*>(parentWidget())->thischatwidget->addTab(thisChatWidget);
-}

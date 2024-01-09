@@ -36,5 +36,4 @@ public slots:
 signals:
     void sendMessageSignal(QString);
 private slots:
-   // void on_listWidget_itemClicked(QListWidgetItem *item);
 };

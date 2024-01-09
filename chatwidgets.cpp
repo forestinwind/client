@@ -46,6 +46,7 @@ void chatWidgets::showChatWidgetSlot()
 void chatWidgets::addTab(chatWidget* init)
 {
     qDebug() << "add";
+    friends[init->FID] = init;
     ui->tabWidget->addTab(init, init->friendName);
 }
 qint32 chatWidgets::sendMessageSlot(QString init)

@@ -1,5 +1,4 @@
-﻿#ifndef USERBOXWIDGET_H
-#define USERBOXWIDGET_H
+﻿#pragma once
 
 #include <QWidget>
 #include <qevent.h>
@@ -20,7 +19,6 @@ public:
     explicit userBoxWidget(QString info, QWidget* parent = nullptr);
     ~userBoxWidget();
     void createChatWidget();
-    void mouseDoubleClickEvent(QEvent*);
 
 private:
     Ui::userBoxWidget *ui;
@@ -32,4 +30,3 @@ public:
     chatWidget* thisChatWidget;
 };
 
-#endif // USERBOXWIDGET_H

@@ -70,8 +70,5 @@ void MainWindow::sendMessageSlot(QString init)
 }
 
 
-/*void MainWindow::on_listWidget_itemClicked(QListWidgetItem* item)
-{
-    qDebug() << "click";
-}*/
+
 
