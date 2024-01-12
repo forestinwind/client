@@ -25,6 +25,7 @@ SOURCES += \
     loginwidget.cpp \
     main.cpp \
     mainwindow.cpp \
+    registerwidget.cpp \
     userboxwidget.cpp \
     userlistwidget.cpp
 
@@ -35,6 +36,7 @@ HEADERS += \
     client.h \
     loginwidget.h \
     mainwindow.h \
+    registerwidget.h \
     userboxwidget.h \
     userlistwidget.h
 
@@ -43,6 +45,7 @@ FORMS += \
     chatwidgets.ui \
     loginwidget.ui \
     mainwindow.ui \
+    registerwidget.ui \
     userboxwidget.ui \
     userlistwidget.ui
 

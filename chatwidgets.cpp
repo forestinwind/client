@@ -26,13 +26,13 @@ void chatWidgets::buildFriendSlot(QString info)
     thisWidget->construct();
     ui->tabWidget->addTab(thisWidget, thisWidget->friendName);*/
 }
-chatWidget* chatWidgets::buildFriend(qint32 sid, qint32 fid, qint32 friendid, QString name)
+chatWidget* chatWidgets::buildFriend(qint32 sid, qint32 fid, QString name)
 {
     friends;
     qDebug() << "debug3" << &friends;
     chatWidget* thisWidget;
     if (friends[fid] != nullptr);
-    else thisWidget = new chatWidget(sid, fid, friendid, name, this);
+    else thisWidget = new chatWidget(sid, fid, name, this);
     connect(thisWidget, &chatWidget::sendMessageSignal, this, &chatWidgets::sendMessageSlot);
     friends[thisWidget->FID] = thisWidget;
     thisWidget->construct();
@@ -51,6 +51,7 @@ void chatWidgets::addTab(chatWidget* init)
 }
 qint32 chatWidgets::sendMessageSlot(QString init)
 {
+    qDebug() <<"6" << init;
     return emit sendMessageSignal(init);
 }
 void chatWidgets::chatRecordSlot(QString init)
@@ -63,7 +64,7 @@ void chatWidgets::chatRecordSlot(QString init)
 void chatWidgets::chatAddSlot(QString init)
 {
     chatWidget* thisWidget = friends[divide(init, DIV_CMD).toInt()];
-    thisWidget->chatAdd(init);
+    if (thisWidget != nullptr)thisWidget->chatAdd(init);
 }
 void chatWidgets::on_tabWidget_tabCloseRequested(int index)
 {

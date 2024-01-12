@@ -11,6 +11,7 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -18,12 +19,15 @@ QT_BEGIN_NAMESPACE
 class Ui_userListWidget
 {
 public:
+    QVBoxLayout *verticalLayout;
 
     void setupUi(QWidget *userListWidget)
     {
         if (userListWidget->objectName().isEmpty())
             userListWidget->setObjectName(QString::fromUtf8("userListWidget"));
-        userListWidget->resize(400, 300);
+        userListWidget->resize(353, 220);
+        verticalLayout = new QVBoxLayout(userListWidget);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
 
         retranslateUi(userListWidget);
 

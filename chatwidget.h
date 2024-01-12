@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include <QWidget>
 
@@ -12,15 +12,15 @@ class chatWidget : public QWidget
 
 public:
     explicit chatWidget(QString info,QWidget *parent = nullptr);
-    explicit chatWidget(qint32, qint32, qint32, QString, QWidget* parent = nullptr);
+    explicit chatWidget(qint32, qint32, QString, QWidget* parent = nullptr);
     void construct();
     void chatReflesh(QString);
     void chatAdd(QString);
     ~chatWidget();
-    qint32 friendId;
     qint32 FID;
     qint32 SID;
     QString friendName;
+    void sendMessage(QString);
 
 private:
     Ui::chatWidget *ui;

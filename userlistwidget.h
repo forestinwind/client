@@ -5,8 +5,8 @@
 #include <qmap.h>
 #include <qvector.h>
 #include <qicon.h>
-#include <qevent.h>
 #include <qmouseeventtransition.h>
+#include <qmenu.h>
 
 #include "userboxwidget.h"
 #include "chatwidgets.h"
@@ -25,8 +25,6 @@ public:
     ~userListWidget();
     chatWidgets *thischatwidget;
     QListWidgetItem* addClass(QString);
-    void mousePressEvent(QMouseEvent*);
-    void mouseDoubleClickEvent(QMouseEvent*);
 
 private:
     Ui::userListWidget *ui;
@@ -34,10 +32,20 @@ private:
     QMap<QListWidgetItem*, bool> itemShowMap;
     QMap<QListWidgetItem*, userBoxWidget*> itemToBox;
     QListWidgetItem* ovoitem;
+
+    QListWidgetItem* curItem; //保存最后点击，给menu使用
+    QMenu* friendMenu;
+
+    void mousePressEvent(QMouseEvent*);
+    void mouseDoubleClickEvent(QMouseEvent*);
+    void contextMenuEvent(QContextMenuEvent* event);
 //    QVector<QListWidgetItem*> itemvec;
 
 public slots:
     void buildFriendSlot(QString);
+    void deletefriendslot();
+signals:
+    qint32 sendMessageSignal(QString);
 };
 
 

@@ -32,8 +32,8 @@ private:
 public slots:
     //void readSock();
     void writeBrowserSlot(QString);
-    void sendMessageSlot(QString);
 signals:
-    void sendMessageSignal(QString);
+   // void sendMessageSignal(QString);
 private slots:
+    void on_pushButtonAddFriend_clicked();
 };

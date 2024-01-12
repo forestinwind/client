@@ -11,7 +11,18 @@ userListWidget::userListWidget(QWidget *parent)
 {
     ui->setupUi(this);
     thischatwidget = new chatWidgets();
+
+ //   connect(thischatwidget, SIGNAL(sendMessageSignal(QString)), this, SLOT(sendMessageSignal(QString)));
     ovoitem = addClass("你的好友");
+
+    friendMenu = new QMenu;
+
+    QAction* removeFriend = new QAction("删除好友", this);
+
+    friendMenu->addAction(removeFriend);
+
+    connect(removeFriend, SIGNAL(triggered()), this, SLOT(deletefriendslot()));
+
 }
 
 userListWidget::~userListWidget()
@@ -47,39 +58,58 @@ QListWidgetItem* userListWidget::addClass(QString kind)
 
 void userListWidget::mousePressEvent(QMouseEvent *event)//listwidgetitem是纯数据类
 {
+    QListWidget::mousePressEvent(event);
     qDebug() << "clicked1";
-    QListWidgetItem* curItem = this->itemAt(mapFromGlobal(QCursor::pos()));
+    curItem = this->itemAt(mapFromGlobal(QCursor::pos()));
     if (curItem == nullptr)
     {
         return;
     }
-    if (itemParMap[curItem] == curItem)
+    if (itemParMap.value(curItem) == curItem)
     {
         itemShowMap[curItem] = !itemShowMap[curItem];
         QIcon thisicon;
-        if (itemShowMap[curItem])thisicon = qiconFromSvg("../shared/icon/down.svg", "blue");
+        if (itemShowMap.value(curItem))thisicon = qiconFromSvg("../shared/icon/down.svg", "blue");
         else
         {
             thisicon = qiconFromSvg("../shared/icon/right.svg", "red");
         }
         for each (QListWidgetItem* friendItem in itemParMap.keys(curItem)){
             if(friendItem != curItem){
-                friendItem->setHidden(!itemShowMap[curItem]);
+                friendItem->setHidden(!itemShowMap.value(curItem));
             }
         }
         curItem->setIcon(thisicon);
     }
 }
+void userListWidget::contextMenuEvent(QContextMenuEvent *event)
+{
+    QListWidget::contextMenuEvent(event);
+    if (curItem == itemParMap.value(curItem));
+    else
+    {
+        friendMenu->exec(QCursor::pos());
+    }
+}
+
 void userListWidget::mouseDoubleClickEvent(QMouseEvent *event)
 {
+    QListWidget::mouseDoubleClickEvent(event);
     qDebug() << "clicked2";
-    QListWidgetItem* curItem = this->itemAt(mapFromGlobal(QCursor::pos()));
+    curItem = this->itemAt(mapFromGlobal(QCursor::pos()));
     if(curItem == nullptr)
     {
         return;
     }
     if(itemParMap[curItem] != curItem)
     {
-        thischatwidget->addTab(itemToBox[curItem]->thisChatWidget);
+        thischatwidget->addTab(itemToBox.value(curItem)->thisChatWidget);
+        thischatwidget->show();
+        thischatwidget->raise();
     }
+}
+void userListWidget::deletefriendslot()
+{
+    qDebug() << "delete";
+    itemToBox.value(curItem)->deleteFriend();
 }

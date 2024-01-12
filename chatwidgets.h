@@ -15,7 +15,7 @@ class chatWidgets : public QWidget
     Q_OBJECT
 public:
     explicit chatWidgets(QWidget *parent = nullptr);
-    chatWidget* buildFriend(qint32, qint32, qint32, QString);
+    chatWidget* buildFriend(qint32, qint32, QString);
     void addTab(chatWidget*);
     ~chatWidgets();
     QMap<qint32, chatWidget*> friends;

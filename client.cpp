@@ -37,6 +37,7 @@ void client::readSockSlot()
     QString str = tr(buffer);
     if (str!="")
     {
+        qDebug() << str;
         QString cur;
         while ((cur = divide(str, END_CMD)) != "")
         {
@@ -65,17 +66,21 @@ void client::readSockSlot()
     }
 }
 void client::loginSucceed(QString init)
-{   
-    userId = divide(init, DIV_CMD).toInt();
+{
+    qDebug() << "comand" << init;
+    if (init == "")return;
+    QString temp = divide(init, DIV_CMD);
+    userId = temp.toInt();
     while (init != ""){
         QString friendStr = divide(init, INF_CMD);
-        emit buildFriendSignal(friendStr);
+
+        emit buildFriendSignal(temp + DIV_CMD + friendStr);
     }
 }
 
 qint32 client::sendMessageSlot(QString init)
 {
-    qDebug()<<init<<endl;
+    qDebug()<<"send:" << init << endl;
     //thisSock.write("114514");
     thisSock.write((QString::number(curId) + DIV_CMD + init + END_CMD).toLocal8Bit());
     return curId++;

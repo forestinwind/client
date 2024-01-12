@@ -19,10 +19,10 @@ public:
     explicit userBoxWidget(QString info, QWidget* parent = nullptr);
     ~userBoxWidget();
     void createChatWidget();
+    void deleteFriend();
 
 private:
     Ui::userBoxWidget *ui;
-    qint32 friendId;
     qint32 FID;
     qint32 SID;
     QString friendName;

@@ -55,6 +55,9 @@
     <ClCompile Include="mainwindow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="registerwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="..\shared\shared.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -79,6 +82,9 @@
       <Filter>Header Files</Filter>
     </QtMoc>
     <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="registerwidget.h">
       <Filter>Header Files</Filter>
     </QtMoc>
     <ClInclude Include="..\shared\shared.h">
@@ -110,6 +116,9 @@
       <Filter>Form Files</Filter>
     </QtUic>
     <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="registerwidget.ui">
       <Filter>Form Files</Filter>
     </QtUic>
     <QtUic Include="userboxwidget.ui">

@@ -12,18 +12,16 @@ chatWidget::chatWidget(QString info,QWidget *parent)
     ui->setupUi(this);
     SID = divide(info, DIV_CMD).toInt();
     FID = divide(info, DIV_CMD).toInt();
-    friendId = divide(info, DIV_CMD).toInt();
     friendName = info;
 
 }
-chatWidget::chatWidget(qint32 sid,qint32 fid,qint32 friendid,QString name, QWidget* parent)
+chatWidget::chatWidget(qint32 sid,qint32 fid,QString name, QWidget* parent)
     : QWidget(parent)
     , ui(new Ui::chatWidget)
 {
     ui->setupUi(this);
     SID = sid;
     FID = fid;
-    friendId = friendid;
     friendName = name;
 
 }
@@ -35,17 +33,18 @@ chatWidget::~chatWidget()
 }
 void chatWidget::construct()
 {
-    emit sendMessageSignal("QUERY" + DIV_CMD + QString::number(FID) + DIV_CMD + QString::number(SID));
+    emit sendMessageSignal("QUERY" + DIV_CMD + QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
 }
 void chatWidget::chatReflesh(QString init)
 {
-    qint32 num = divide(init, DIV_CMD).toInt();
+    qDebug() <<"?" << init;
+    //qint32 num = divide(init, DIV_CMD).toInt();
     ui->textBrowser->clear();
     while (init != "")
     {
         QString cur = divide(init, INF_CMD);
-        qint32 sendId = divide(cur, DIV_CMD).toInt();
-        if(sendId == FID)
+        qint32 sit = divide(cur, DIV_CMD).toInt();
+        if(sit == 1)
         {
             messageGet(cur);
         }
@@ -65,6 +64,7 @@ QString chatWidget::readTextEdit()
 }
 void chatWidget::messageGet(QString init)
 {
+    qDebug() << "this:" << this;
     ui->textBrowser->append("<font color=\"green\">" + friendName + ":" + toFormat(init) + "</font>");
 }
 void chatWidget::messageSent(QString init)
@@ -82,16 +82,22 @@ QString chatWidget::toFormat(QString init)
 void chatWidget::on_pushButtonSend_clicked()
 {
     QDateTime curDatetime = QDateTime::currentDateTime();
-    emit sendMessageSignal("SENDCHAT" + DIV_CMD + QString::number(friendId) + DIV_CMD + 
-        QString::number(FID) + DIV_CMD + QString::number(SID) + DIV_CMD +
-                curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + readTextEdit());
-    messageSent(curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + readTextEdit());
+    qDebug() << "UI:" << this->ui;
+    emit sendMessageSignal("SENDCHAT" + DIV_CMD + 
+        QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD +
+        curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + readTextEdit() + DIV_CMD);
+
+    this->messageSent(curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + readTextEdit());
     ui->plainTextEdit->clear();
 }
 
 
 void chatWidget::on_pushButtonReload_clicked()
 {
-    emit sendMessageSignal("QUERY" + DIV_CMD + QString::number(FID) + DIV_CMD + QString::number(SID));
+    emit sendMessageSignal("QUERY" + DIV_CMD + QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
+}
+void chatWidget::sendMessage(QString init)
+{
+    emit sendMessageSignal(init);
 }
 

@@ -190,6 +190,7 @@
     <ClCompile Include="loginwidget.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainwindow.cpp" />
+    <ClCompile Include="registerwidget.cpp" />
     <ClCompile Include="..\shared\shared.cpp" />
     <ClCompile Include="userboxwidget.cpp" />
     <ClCompile Include="userlistwidget.cpp" />
@@ -200,6 +201,7 @@
     <QtMoc Include="client.h" />
     <QtMoc Include="loginwidget.h" />
     <QtMoc Include="mainwindow.h" />
+    <QtMoc Include="registerwidget.h" />
     <ClInclude Include="..\shared\shared.h" />
     <QtMoc Include="userboxwidget.h" />
     <QtMoc Include="userlistwidget.h" />
@@ -227,6 +229,7 @@
     <QtUic Include="chatwidgets.ui" />
     <QtUic Include="loginwidget.ui" />
     <QtUic Include="mainwindow.ui" />
+    <QtUic Include="registerwidget.ui" />
     <QtUic Include="userboxwidget.ui" />
     <QtUic Include="userlistwidget.ui" />
   </ItemGroup>

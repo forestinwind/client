@@ -1,4 +1,4 @@
-#include <qdebug.h>
+﻿#include <qdebug.h>
 
 #include "loginwidget.h"
 #include "ui_loginwidget.h"
@@ -9,6 +9,7 @@ LoginWidget::LoginWidget(QWidget *parent)
     , ui(new Ui::LoginWidget)
 {
     ui->setupUi(this);
+    regWidget = nullptr;
 }
 
 LoginWidget::~LoginWidget()
@@ -24,6 +25,14 @@ void LoginWidget::on_pushButton_login_clicked()
 }
 void LoginWidget::closeLoginWidgetSlot()
 {
-    this->close();
+    if (regWidget != nullptr)delete regWidget;
+    delete this;
+}
+
+
+void LoginWidget::on_registerButton_clicked()
+{
+    regWidget = new registerWidget();
+    connect(regWidget, &registerWidget::sendMessageSignal, this, &LoginWidget::sendMessageSignal);
 }
 

@@ -9,14 +9,11 @@ userBoxWidget::userBoxWidget(QString info,QWidget *parent)
     , ui(new Ui::userBoxWidget)
 {
     ui->setupUi(this);
-
-
     SID = divide(info, DIV_CMD).toInt();
     FID = divide(info, DIV_CMD).toInt();
-    friendId = divide(info, DIV_CMD).toInt();
-    friendName = info;
+    friendName = divide(info, DIV_CMD);
     ui->userNamelabel->setText(friendName);
-    ui->selfSignlabel->setText(QString::number(SID) + QString::number(FID));
+    ui->selfSignlabel->setText(QString::number(FID)+ QString::number(SID));
 }
 
 userBoxWidget::~userBoxWidget()
@@ -30,8 +27,12 @@ void userBoxWidget::createChatWidget()
     qDebug() << "debug1";
     //chatWidget* newchatwidget = parChatWidgets->buildFriend(SID, FID, friendId, friendName);
     thisChatWidget =
-        (dynamic_cast<userListWidget*>(parentWidget()))->thischatwidget->buildFriend(SID, FID, friendId, friendName);   
+        (dynamic_cast<userListWidget*>(parentWidget()))->thischatwidget->buildFriend(SID, FID, friendName);   
     qDebug() << "debug2";
 }
 
+void userBoxWidget::deleteFriend()
+{
+    thisChatWidget->sendMessageSignal("REMOVE" + DIV_CMD + QString::number(FID) + DIV_CMD + QString::number(SID) + DIV_CMD);
+}
 

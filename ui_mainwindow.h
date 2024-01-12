@@ -12,10 +12,13 @@
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QLineEdit>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
+#include <QtWidgets/QPushButton>
 #include <QtWidgets/QStatusBar>
 #include <QtWidgets/QTextBrowser>
+#include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
 #include "userlistwidget.h"
 
@@ -25,8 +28,12 @@ class Ui_MainWindow
 {
 public:
     QWidget *centralwidget;
-    QHBoxLayout *horizontalLayout;
+    QHBoxLayout *horizontalLayout_2;
+    QVBoxLayout *verticalLayout;
     userListWidget *listWidget;
+    QHBoxLayout *horizontalLayout;
+    QLineEdit *lineEditFriend;
+    QPushButton *pushButtonAddFriend;
     QTextBrowser *textBrowser;
     QMenuBar *menubar;
     QStatusBar *statusbar;
@@ -35,26 +42,46 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName(QString::fromUtf8("MainWindow"));
-        MainWindow->resize(800, 600);
+        MainWindow->resize(632, 476);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
-        horizontalLayout = new QHBoxLayout(centralwidget);
-        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        horizontalLayout_2 = new QHBoxLayout(centralwidget);
+        horizontalLayout_2->setObjectName(QString::fromUtf8("horizontalLayout_2"));
+        verticalLayout = new QVBoxLayout();
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
         listWidget = new userListWidget(centralwidget);
         listWidget->setObjectName(QString::fromUtf8("listWidget"));
 
-        horizontalLayout->addWidget(listWidget);
+        verticalLayout->addWidget(listWidget);
+
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        lineEditFriend = new QLineEdit(centralwidget);
+        lineEditFriend->setObjectName(QString::fromUtf8("lineEditFriend"));
+
+        horizontalLayout->addWidget(lineEditFriend);
+
+        pushButtonAddFriend = new QPushButton(centralwidget);
+        pushButtonAddFriend->setObjectName(QString::fromUtf8("pushButtonAddFriend"));
+
+        horizontalLayout->addWidget(pushButtonAddFriend);
+
+
+        verticalLayout->addLayout(horizontalLayout);
+
+
+        horizontalLayout_2->addLayout(verticalLayout);
 
         textBrowser = new QTextBrowser(centralwidget);
         textBrowser->setObjectName(QString::fromUtf8("textBrowser"));
         textBrowser->setMinimumSize(QSize(256, 192));
 
-        horizontalLayout->addWidget(textBrowser);
+        horizontalLayout_2->addWidget(textBrowser);
 
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));
-        menubar->setGeometry(QRect(0, 0, 800, 17));
+        menubar->setGeometry(QRect(0, 0, 632, 17));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName(QString::fromUtf8("statusbar"));
@@ -68,6 +95,7 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
+        pushButtonAddFriend->setText(QCoreApplication::translate("MainWindow", "ADD Friend", nullptr));
     } // retranslateUi
 
 };

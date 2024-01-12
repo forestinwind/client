@@ -23,18 +23,19 @@ MainWindow::MainWindow(QWidget *parent)
     QSize thissize = ovo->sizeHint();
     item->setSizeHint(QSize(thissize.width(), thissize.height()));*/
 
-    connect(thisClient, &client::writeBrowserSignal, this, &MainWindow::writeBrowserSlot);
-    connect(loginWidget, &LoginWidget::sendMessageSignal, thisClient, &client::sendMessageSlot);
-    connect(thisClient, &client::closeLoginWidgetSignal, loginWidget, &LoginWidget::closeLoginWidgetSlot);
+    connect(thisClient, SIGNAL(writeBrowserSignal(QString)), this, SLOT(writeBrowserSlot(QString)));
+    connect(loginWidget, SIGNAL(sendMessageSignal(QString)), thisClient, SLOT(sendMessageSlot(QString)));
+    connect(friendListWidget, SIGNAL(sendMessageSignal(QString)), thisClient, SLOT(sendMessageSlot(QString)));
+    connect(friendListWidget->thischatwidget, SIGNAL(sendMessageSignal(QString)), thisClient, SLOT(sendMessageSlot(QString)));
+    connect(thisClient, SIGNAL(closeLoginWidgetSignal()), loginWidget, SLOT(closeLoginWidgetSlot()));
 //    connect(friendWidget, &chatWidgets::sendMessageSignal, thisClient, &client::sendMessageSlot);
-    connect(friendListWidget->thischatwidget, &chatWidgets::sendMessageSignal, thisClient, &client::sendMessageSlot);
 
-    connect(thisClient, &client::buildFriendSignal, friendListWidget, &userListWidget::buildFriendSlot);
+    connect(thisClient, SIGNAL(buildFriendSignal(QString)), friendListWidget, SLOT(buildFriendSlot(QString)));
 
-    connect(thisClient, &client::buildFriendSignal,friendListWidget->thischatwidget, &chatWidgets::buildFriendSlot);
-    connect(thisClient, &client::showChatWidgetSignal, friendListWidget->thischatwidget, &chatWidgets::showChatWidgetSlot);
-    connect(thisClient, &client::chatRecordSignal, friendListWidget->thischatwidget, &chatWidgets::chatRecordSlot);
-    connect(thisClient, &client::chatAddSignal, friendListWidget->thischatwidget, &chatWidgets::chatAddSlot);
+ //   connect(thisClient, SIGNAL(buildFriendSignal(QString)),friendListWidget->thischatwidget, SLOT(buildFriendSlot(QString)));
+    connect(thisClient, SIGNAL(showChatWidgetSignal()), friendListWidget->thischatwidget, SLOT(showChatWidgetSlot()));
+    connect(thisClient, SIGNAL(chatRecordSignal(QString)), friendListWidget->thischatwidget, SLOT(chatRecordSlot(QString)));
+    connect(thisClient, SIGNAL(chatAddSignal(QString)), friendListWidget->thischatwidget, SLOT(chatAddSlot(QString)));
 
  /*   connect(thisClient, &client::buildFriendSignal, friendWidget, &chatWidgets::buildFriendSlot);
     connect(thisClient, &client::showChatWidgetSignal, friendWidget, &chatWidgets::showChatWidgetSlot);
@@ -64,11 +65,14 @@ void MainWindow::writeBrowserSlot(QString init) // textBrowser
     ui->textBrowser->append(init);
 }
 
-void MainWindow::sendMessageSlot(QString init)
+
+
+
+
+
+
+void MainWindow::on_pushButtonAddFriend_clicked()
 {
-    emit sendMessageSignal(init);
+    ui->lineEditFriend;
 }
-
-
-
 
