@@ -1,6 +1,7 @@
 ﻿#include "userboxwidget.h"
 #include "ui_userboxwidget.h"
 #include "..\shared\shared.h"
+#include "userlistwidget.h"
 
 #include <qdebug.h>
 
@@ -18,6 +19,7 @@ userBoxWidget::userBoxWidget(QString info,QWidget *parent)
 
 userBoxWidget::~userBoxWidget()
 {
+    delete thisChatWidget;
     delete ui;
 
 }
@@ -33,6 +35,6 @@ void userBoxWidget::createChatWidget()
 
 void userBoxWidget::deleteFriend()
 {
-    thisChatWidget->sendMessageSignal("REMOVE" + DIV_CMD + QString::number(FID) + DIV_CMD + QString::number(SID) + DIV_CMD);
+    thisChatWidget->sendMessageSignal("REMOVE", QString::number(FID) + DIV_CMD + QString::number(SID) + DIV_CMD);
 }
 

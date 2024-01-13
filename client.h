@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include <qtcpsocket.h>
 #include <qhostaddress.h>
@@ -18,9 +18,11 @@ private:
     qint32 curId;
     qint32 userId;
     void loginSucceed(QString);
+    void addFriendSucceed(QString);
 public slots:
     void readSockSlot();
     qint32 sendMessageSlot(QString);
+    qint32 sendMessageSlot(QString, QString);
 signals:
     void writeBrowserSignal(QString);
     void buildFriendSignal(QString);
@@ -28,5 +30,6 @@ signals:
     void chatRecordSignal(QString);
     void chatAddSignal(QString);
     void closeLoginWidgetSignal();
+    void removeSucceedSignal(QString);
 };
 

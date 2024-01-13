@@ -23,7 +23,8 @@ void registerWidget::on_pushButton_clicked()
     QString userName = ui->nameLineEdit->text();
     if (pass != check)ui->resLabel->setText("密码需一致");
     else if (pass == "")ui->resLabel->setText("密码不能为空");
-    emit sendMessageSignal("REGISTER" + DIV_CMD + userName + DIV_CMD + pass);
+    qDebug() << "REGISTER"<< userName + DIV_CMD + pass;
+    emit sendMessageSignal("REGISTER", userName + DIV_CMD + pass);
 }
 
 

@@ -20,7 +20,7 @@ void LoginWidget::on_pushButton_login_clicked()
 {
     //emit sendMessageSignal("LOGIN admin " + ui->lineEdit_password->text() + "\r\n");
     qint32 res = emit
-        sendMessageSignal("LOGIN" + DIV_CMD + ui->lineEdit_userName->text() + DIV_CMD + ui->lineEdit_password->text());
+        sendMessageSignal("LOGIN", ui->lineEdit_userName->text() + DIV_CMD + ui->lineEdit_password->text());
     qDebug() << res;
 }
 void LoginWidget::closeLoginWidgetSlot()
@@ -33,6 +33,6 @@ void LoginWidget::closeLoginWidgetSlot()
 void LoginWidget::on_registerButton_clicked()
 {
     regWidget = new registerWidget();
-    connect(regWidget, &registerWidget::sendMessageSignal, this, &LoginWidget::sendMessageSignal);
+    connect(regWidget, SIGNAL(sendMessageSignal(QString,QString)), this, SIGNAL(sendMessageSignal(QString,QString)));
 }
 

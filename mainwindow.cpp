@@ -24,9 +24,9 @@ MainWindow::MainWindow(QWidget *parent)
     item->setSizeHint(QSize(thissize.width(), thissize.height()));*/
 
     connect(thisClient, SIGNAL(writeBrowserSignal(QString)), this, SLOT(writeBrowserSlot(QString)));
-    connect(loginWidget, SIGNAL(sendMessageSignal(QString)), thisClient, SLOT(sendMessageSlot(QString)));
-    connect(friendListWidget, SIGNAL(sendMessageSignal(QString)), thisClient, SLOT(sendMessageSlot(QString)));
-    connect(friendListWidget->thischatwidget, SIGNAL(sendMessageSignal(QString)), thisClient, SLOT(sendMessageSlot(QString)));
+    connect(loginWidget, SIGNAL(sendMessageSignal(QString, QString)), thisClient, SLOT(sendMessageSlot(QString, QString)));
+//    connect(friendListWidget, SIGNAL(sendMessageSignal(QString)), thisClient, SLOT(sendMessageSlot(QString)));
+    connect(friendListWidget->thischatwidget, SIGNAL(sendMessageSignal(QString, QString)), thisClient, SLOT(sendMessageSlot(QString, QString)));
     connect(thisClient, SIGNAL(closeLoginWidgetSignal()), loginWidget, SLOT(closeLoginWidgetSlot()));
 //    connect(friendWidget, &chatWidgets::sendMessageSignal, thisClient, &client::sendMessageSlot);
 
@@ -36,6 +36,7 @@ MainWindow::MainWindow(QWidget *parent)
     connect(thisClient, SIGNAL(showChatWidgetSignal()), friendListWidget->thischatwidget, SLOT(showChatWidgetSlot()));
     connect(thisClient, SIGNAL(chatRecordSignal(QString)), friendListWidget->thischatwidget, SLOT(chatRecordSlot(QString)));
     connect(thisClient, SIGNAL(chatAddSignal(QString)), friendListWidget->thischatwidget, SLOT(chatAddSlot(QString)));
+    connect(thisClient, SIGNAL(removeSucceedSignal(QString)), friendListWidget, SLOT(removeSucceedSlot(QString)));
 
  /*   connect(thisClient, &client::buildFriendSignal, friendWidget, &chatWidgets::buildFriendSlot);
     connect(thisClient, &client::showChatWidgetSignal, friendWidget, &chatWidgets::showChatWidgetSlot);
@@ -65,14 +66,8 @@ void MainWindow::writeBrowserSlot(QString init) // textBrowser
     ui->textBrowser->append(init);
 }
 
-
-
-
-
-
-
 void MainWindow::on_pushButtonAddFriend_clicked()
 {
-    ui->lineEditFriend;
+    thisClient->sendMessageSlot("ADDFRIEND", ui->lineEditFriend->text());
 }
 

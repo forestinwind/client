@@ -21,7 +21,7 @@ userListWidget::userListWidget(QWidget *parent)
 
     friendMenu->addAction(removeFriend);
 
-    connect(removeFriend, SIGNAL(triggered()), this, SLOT(deletefriendslot()));
+    connect(removeFriend, SIGNAL(triggered()), this, SLOT(deletefriendSlot()));
 
 }
 
@@ -36,6 +36,7 @@ void userListWidget::buildFriendSlot(QString init)
     addItem(item);
     //ovo->setSizeIncrement(thissize.width(), 56);
     userBoxWidget* thisbox = new userBoxWidget(init, this);
+    IDtoitem[thisbox->FID] = item;
     thisbox->createChatWidget();
     setItemWidget(item, thisbox);
     itemToBox[item] = thisbox;
@@ -108,8 +109,29 @@ void userListWidget::mouseDoubleClickEvent(QMouseEvent *event)
         thischatwidget->raise();
     }
 }
-void userListWidget::deletefriendslot()
+void userListWidget::deletefriendSlot()
 {
     qDebug() << "delete";
+    
     itemToBox.value(curItem)->deleteFriend();
+    //
+}
+void userListWidget::removeSucceedSlot(QString init)
+{
+
+    int friendID = divide(init, DIV_CMD).toInt();
+
+    qDebug() << "try delete" <<friendID;
+
+    QListWidgetItem* waitRemoveItem = IDtoitem[friendID];
+
+    IDtoitem.remove(friendID);
+    this->takeItem(this->row(waitRemoveItem));
+    itemParMap.remove(waitRemoveItem);
+    itemShowMap.remove(waitRemoveItem);
+    userBoxWidget* waitRemoveBox = itemToBox[waitRemoveItem];
+    delete waitRemoveBox;
+    itemToBox.remove(waitRemoveItem);
+    delete waitRemoveItem;
+
 }

@@ -28,12 +28,11 @@ void chatWidgets::buildFriendSlot(QString info)
 }
 chatWidget* chatWidgets::buildFriend(qint32 sid, qint32 fid, QString name)
 {
-    friends;
-    qDebug() << "debug3" << &friends;
     chatWidget* thisWidget;
-    if (friends[fid] != nullptr);
+    if (friends[fid] != nullptr)thisWidget = friends[fid];
     else thisWidget = new chatWidget(sid, fid, name, this);
-    connect(thisWidget, &chatWidget::sendMessageSignal, this, &chatWidgets::sendMessageSlot);
+    connect(thisWidget, SIGNAL(sendMessageSignal(QString,QString)), this, SIGNAL(sendMessageSignal(QString,QString)));
+    connect(thisWidget, SIGNAL(deleteChatWidgetSignal(qint32)), this, SLOT(deleteChatWidgetSlot(qint32)));
     friends[thisWidget->FID] = thisWidget;
     thisWidget->construct();
     ui->tabWidget->addTab(thisWidget, thisWidget->friendName);
@@ -49,11 +48,7 @@ void chatWidgets::addTab(chatWidget* init)
     friends[init->FID] = init;
     ui->tabWidget->addTab(init, init->friendName);
 }
-qint32 chatWidgets::sendMessageSlot(QString init)
-{
-    qDebug() <<"6" << init;
-    return emit sendMessageSignal(init);
-}
+
 void chatWidgets::chatRecordSlot(QString init)
 {
     qDebug() << "s:" << init;
@@ -71,5 +66,9 @@ void chatWidgets::on_tabWidget_tabCloseRequested(int index)
     chatWidget *curWidget = dynamic_cast<chatWidget*>(ui->tabWidget->widget(index));
     friends.remove(curWidget->FID);
     ui->tabWidget->removeTab(index);
+}
+void chatWidgets::deleteChatWidgetSlot(qint32 index)
+{
+    friends.remove(index);
 }
 

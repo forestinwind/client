@@ -20,7 +20,7 @@ private slots:
     void on_checkBox_stateChanged(int arg1);
 
 signals:
-    void sendMessageSignal(QString);
+    void sendMessageSignal(QString, QString);
 
 private:
     Ui::registerWidget *ui;

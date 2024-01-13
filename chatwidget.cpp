@@ -1,9 +1,12 @@
-﻿#include "chatwidget.h"
-#include "ui_chatwidget.h"
-#include "..\shared\shared.h"
-#include <qdatetime.h>
+﻿#include <qdatetime.h>
 
 #include <qdebug.h>
+#include <qmap.h>
+
+#include "chatwidget.h"
+#include "ui_chatwidget.h"
+#include "..\shared\shared.h"
+#include "chatwidgets.h"
 
 chatWidget::chatWidget(QString info,QWidget *parent)
     : QWidget(parent)
@@ -28,12 +31,13 @@ chatWidget::chatWidget(qint32 sid,qint32 fid,QString name, QWidget* parent)
 
 chatWidget::~chatWidget()
 {
+    emit deleteChatWidgetSignal(FID);
     qDebug() << "delete ui";
     delete ui;
 }
 void chatWidget::construct()
 {
-    emit sendMessageSignal("QUERY" + DIV_CMD + QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
+    emit sendMessageSignal("QUERY", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
 }
 void chatWidget::chatReflesh(QString init)
 {
@@ -83,8 +87,7 @@ void chatWidget::on_pushButtonSend_clicked()
 {
     QDateTime curDatetime = QDateTime::currentDateTime();
     qDebug() << "UI:" << this->ui;
-    emit sendMessageSignal("SENDCHAT" + DIV_CMD + 
-        QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD +
+    emit sendMessageSignal("SENDCHAT", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD +
         curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + readTextEdit() + DIV_CMD);
 
     this->messageSent(curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + readTextEdit());
@@ -94,10 +97,6 @@ void chatWidget::on_pushButtonSend_clicked()
 
 void chatWidget::on_pushButtonReload_clicked()
 {
-    emit sendMessageSignal("QUERY" + DIV_CMD + QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
-}
-void chatWidget::sendMessage(QString init)
-{
-    emit sendMessageSignal(init);
+    emit sendMessageSignal("QUERY", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
 }
 

@@ -22,7 +22,7 @@ private slots:
 public slots:
     void closeLoginWidgetSlot();
 signals:
-    qint32 sendMessageSignal(QString);
+    qint32 sendMessageSignal(QString, QString);
 private:
     Ui::LoginWidget *ui;
     registerWidget* regWidget;

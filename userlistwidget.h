@@ -14,7 +14,7 @@
 namespace Ui {
 class userListWidget;
 }
-class userBoxWidget;
+//class userBoxWidget;
 
 class userListWidget : public QListWidget
 {
@@ -31,6 +31,7 @@ private:
     QMap<QListWidgetItem*, QListWidgetItem*> itemParMap;
     QMap<QListWidgetItem*, bool> itemShowMap;
     QMap<QListWidgetItem*, userBoxWidget*> itemToBox;
+    QMap<qint32, QListWidgetItem*> IDtoitem;
     QListWidgetItem* ovoitem;
 
     QListWidgetItem* curItem; //保存最后点击，给menu使用
@@ -43,7 +44,8 @@ private:
 
 public slots:
     void buildFriendSlot(QString);
-    void deletefriendslot();
+    void deletefriendSlot();
+    void removeSucceedSlot(QString);
 signals:
     qint32 sendMessageSignal(QString);
 };

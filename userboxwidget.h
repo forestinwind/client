@@ -3,7 +3,6 @@
 #include <QWidget>
 #include <qevent.h>
 
-#include "userlistwidget.h"
 #include "chatwidget.h"
 #include "chatwidgets.h"
 
@@ -20,11 +19,11 @@ public:
     ~userBoxWidget();
     void createChatWidget();
     void deleteFriend();
+    qint32 FID;
+    qint32 SID;
 
 private:
     Ui::userBoxWidget *ui;
-    qint32 FID;
-    qint32 SID;
     QString friendName;
 public:
     chatWidget* thisChatWidget;

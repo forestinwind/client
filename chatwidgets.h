@@ -6,6 +6,7 @@
 #include <QMap>
 
 #include "chatwidget.h"
+
 namespace Ui {
 class chatWidgets;
 }
@@ -18,17 +19,17 @@ public:
     chatWidget* buildFriend(qint32, qint32, QString);
     void addTab(chatWidget*);
     ~chatWidgets();
-    QMap<qint32, chatWidget*> friends;
+    QMap<qint32, chatWidget* > friends;
 private:
     Ui::chatWidgets* ui;
 public slots:
     void buildFriendSlot(QString);
     void showChatWidgetSlot();
-    int sendMessageSlot(QString);
     void chatRecordSlot(QString);
     void chatAddSlot(QString);
+    void deleteChatWidgetSlot(qint32);
 signals:
-    int sendMessageSignal(QString);
+    int sendMessageSignal(QString, QString);
 private slots:
     void on_tabWidget_tabCloseRequested(int index);
 };

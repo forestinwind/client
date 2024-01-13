@@ -62,8 +62,20 @@ void client::readSockSlot()
                 writeBrowserSignal(cur);
                 emit chatAddSignal(cur);
             }
+            if (cmd == "ADDFRIENDSUCCEES")
+            {
+                addFriendSucceed(cur);
+            }
+            if (cmd == "REMOVESUCCEES")
+            {
+                emit removeSucceedSignal(cur);
+            }
         }
     }
+}
+void client::addFriendSucceed(QString init)
+{
+    emit buildFriendSignal(init);
 }
 void client::loginSucceed(QString init)
 {
@@ -77,11 +89,17 @@ void client::loginSucceed(QString init)
         emit buildFriendSignal(temp + DIV_CMD + friendStr);
     }
 }
-
 qint32 client::sendMessageSlot(QString init)
 {
-    qDebug()<<"send:" << init << endl;
+    qDebug() << "send:" << init << endl;
     //thisSock.write("114514");
     thisSock.write((QString::number(curId) + DIV_CMD + init + END_CMD).toLocal8Bit());
+    return curId++;
+}
+qint32 client::sendMessageSlot(QString comand, QString init)
+{
+    qDebug() << "send:" << init << endl;
+    //thisSock.write("114514");
+    thisSock.write((QString::number(curId) + DIV_CMD + comand + DIV_CMD + init + END_CMD).toLocal8Bit());
     return curId++;
 }

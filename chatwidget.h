@@ -2,6 +2,7 @@
 
 #include <QWidget>
 
+
 namespace Ui {
 class chatWidget;
 }
@@ -20,7 +21,6 @@ public:
     qint32 FID;
     qint32 SID;
     QString friendName;
-    void sendMessage(QString);
 
 private:
     Ui::chatWidget *ui;
@@ -29,7 +29,8 @@ private:
     void messageGet(QString);
     QString toFormat(QString);
 signals:
-    qint32 sendMessageSignal(QString);
+    qint32 sendMessageSignal(QString,QString);
+    void deleteChatWidgetSignal(qint32);
 private slots:
     void on_pushButtonSend_clicked();
     void on_pushButtonReload_clicked();
