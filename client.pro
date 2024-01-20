@@ -54,4 +54,10 @@ qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
-DISTFILES +=
+DISTFILES += \
+    ../shared/icon/down.svg \
+    ../shared/icon/ranger.jpg \
+    ../shared/icon/right.svg
+
+RESOURCES += \
+    ../ranger.qrc

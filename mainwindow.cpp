@@ -25,12 +25,13 @@ MainWindow::MainWindow(QWidget *parent)
 
     connect(thisClient, SIGNAL(writeBrowserSignal(QString)), this, SLOT(writeBrowserSlot(QString)));
     connect(loginWidget, SIGNAL(sendMessageSignal(QString, QString)), thisClient, SLOT(sendMessageSlot(QString, QString)));
-//    connect(friendListWidget, SIGNAL(sendMessageSignal(QString)), thisClient, SLOT(sendMessageSlot(QString)));
+    connect(friendListWidget, SIGNAL(sendMessageSignal(QString, QString)), thisClient, SLOT(sendMessageSlot(QString, QString)));
     connect(friendListWidget->thischatwidget, SIGNAL(sendMessageSignal(QString, QString)), thisClient, SLOT(sendMessageSlot(QString, QString)));
     connect(thisClient, SIGNAL(closeLoginWidgetSignal()), loginWidget, SLOT(closeLoginWidgetSlot()));
+    connect(thisClient, SIGNAL(fleshUserSignal(QString)), friendListWidget, SLOT(fleshUserSlot(QString)));
 //    connect(friendWidget, &chatWidgets::sendMessageSignal, thisClient, &client::sendMessageSlot);
 
-    connect(thisClient, SIGNAL(buildFriendSignal(QString)), friendListWidget, SLOT(buildFriendSlot(QString)));
+    connect(thisClient, SIGNAL(buildFriendSignal(qint32, qint32)), friendListWidget, SLOT(buildFriendSlot(qint32, qint32)));
 
  //   connect(thisClient, SIGNAL(buildFriendSignal(QString)),friendListWidget->thischatwidget, SLOT(buildFriendSlot(QString)));
     connect(thisClient, SIGNAL(showChatWidgetSignal()), friendListWidget->thischatwidget, SLOT(showChatWidgetSlot()));

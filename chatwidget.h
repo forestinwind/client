@@ -6,17 +6,17 @@
 namespace Ui {
 class chatWidget;
 }
-
+class chatWidgets;
 class chatWidget : public QWidget
 {
     Q_OBJECT
 
 public:
-    explicit chatWidget(QString info,QWidget *parent = nullptr);
-    explicit chatWidget(qint32, qint32, QString, QWidget* parent = nullptr);
+    explicit chatWidget(qint32, qint32, QWidget* parent = nullptr);
     void construct();
     void chatReflesh(QString);
     void chatAdd(QString);
+    void setName(QString);
     ~chatWidget();
     qint32 FID;
     qint32 SID;
@@ -24,12 +24,13 @@ public:
 
 private:
     Ui::chatWidget *ui;
+    chatWidgets* par;
     QString readTextEdit();
     void messageSent(QString);
     void messageGet(QString);
     QString toFormat(QString);
 signals:
-    qint32 sendMessageSignal(QString,QString);
+    qint32 sendMessageSignal(QString, QString);
     void deleteChatWidgetSignal(qint32);
 private slots:
     void on_pushButtonSend_clicked();

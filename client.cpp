@@ -1,10 +1,11 @@
 ﻿#include <qdebug.h>
+#include <fstream>
+#include <qfile.h>
+#include <qiodevice.h>
 
 #include "client.h"
 #include "..\shared\shared.h"
 
-#define IPLOC "127.0.0.1"
-#define SERVER_PORT 40004
 
 client::client() 
 {
@@ -14,14 +15,25 @@ client::client()
 }
 client::~client()
 {
+    thisSock.disconnectFromHost();
     sendMessageSlot("LOGOUT");
 }
 bool client::begin()//connect未建立，我不能将向上传递的信号放在构造函数
 {
-    thisSock.connectToHost(QHostAddress(IPLOC), SERVER_PORT);
+    QFile serverFILE("serverIP.txt");
+    serverFILE.open(QIODevice::ReadOnly);
+    QTextStream in(&serverFILE);
+    if(serverFILE.isOpen())
+    {
+        in >> serverIP;
+        in >> servetPort;
+        qDebug() << "readfile";
+    }
+    thisSock.connectToHost(QHostAddress(serverIP), servetPort);
     //thisSock.write("michael");
     if (thisSock.waitForConnected(5000))
     {
+        qDebug()<<serverIP<<servetPort;
         emit writeBrowserSignal("Connected");
         return true;
     }
@@ -38,6 +50,7 @@ void client::readSockSlot()
     if (str!="")
     {
         qDebug() << str;
+        emit writeBrowserSignal(str);
         QString cur;
         while ((cur = divide(str, END_CMD)) != "")
         {
@@ -70,12 +83,17 @@ void client::readSockSlot()
             {
                 emit removeSucceedSignal(cur);
             }
+            if (cmd == "USERINFO")
+            {
+                emit fleshUserSignal(cur);
+            }
         }
     }
 }
 void client::addFriendSucceed(QString init)
 {
-    emit buildFriendSignal(init);
+    qDebug() << "add" << init;
+    emit buildFriendSignal(userId,divide(init, DIV_CMD).toInt());
 }
 void client::loginSucceed(QString init)
 {
@@ -83,10 +101,11 @@ void client::loginSucceed(QString init)
     if (init == "")return;
     QString temp = divide(init, DIV_CMD);
     userId = temp.toInt();
+    userName = divide(init, DIV_CMD);;
     while (init != ""){
         QString friendStr = divide(init, INF_CMD);
 
-        emit buildFriendSignal(temp + DIV_CMD + friendStr);
+        emit buildFriendSignal(userId, friendStr.toInt());
     }
 }
 qint32 client::sendMessageSlot(QString init)

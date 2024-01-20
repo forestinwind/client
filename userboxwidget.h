@@ -15,17 +15,21 @@ class userBoxWidget : public QWidget
     Q_OBJECT
 
 public:
-    explicit userBoxWidget(QString info, QWidget* parent = nullptr);
+    explicit userBoxWidget(qint32, qint32, QWidget* parent = nullptr);
     ~userBoxWidget();
     void createChatWidget();
     void deleteFriend();
+    chatWidget* thisChatWidget;
+    void changeHead(QPixmap);
+    void fleshUser(QString);
+    void changeSign(QString);
     qint32 FID;
     qint32 SID;
 
 private:
     Ui::userBoxWidget *ui;
     QString friendName;
-public:
-    chatWidget* thisChatWidget;
+    QString signStr;
+
 };
 

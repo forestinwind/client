@@ -11,7 +11,7 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
-#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QHBoxLayout>
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
@@ -21,7 +21,8 @@ QT_BEGIN_NAMESPACE
 class Ui_userBoxWidget
 {
 public:
-    QGridLayout *gridLayout;
+    QHBoxLayout *horizontalLayout;
+    QLabel *head;
     QVBoxLayout *verticalLayout;
     QLabel *userNamelabel;
     QLabel *selfSignlabel;
@@ -30,9 +31,19 @@ public:
     {
         if (userBoxWidget->objectName().isEmpty())
             userBoxWidget->setObjectName(QString::fromUtf8("userBoxWidget"));
-        userBoxWidget->resize(475, 229);
-        gridLayout = new QGridLayout(userBoxWidget);
-        gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
+        userBoxWidget->resize(501, 200);
+        horizontalLayout = new QHBoxLayout(userBoxWidget);
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        head = new QLabel(userBoxWidget);
+        head->setObjectName(QString::fromUtf8("head"));
+        head->setMinimumSize(QSize(64, 64));
+        head->setMaximumSize(QSize(64, 64));
+        head->setStyleSheet(QString::fromUtf8(""));
+        head->setPixmap(QPixmap(QString::fromUtf8(":/shared/icon/ranger.jpg")));
+        head->setScaledContents(false);
+
+        horizontalLayout->addWidget(head);
+
         verticalLayout = new QVBoxLayout();
         verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
         userNamelabel = new QLabel(userBoxWidget);
@@ -49,7 +60,7 @@ public:
         verticalLayout->addWidget(selfSignlabel);
 
 
-        gridLayout->addLayout(verticalLayout, 0, 0, 1, 1);
+        horizontalLayout->addLayout(verticalLayout);
 
 
         retranslateUi(userBoxWidget);
@@ -60,6 +71,10 @@ public:
     void retranslateUi(QWidget *userBoxWidget)
     {
         userBoxWidget->setWindowTitle(QCoreApplication::translate("userBoxWidget", "Form", nullptr));
+#if QT_CONFIG(whatsthis)
+        head->setWhatsThis(QCoreApplication::translate("userBoxWidget", "<html><head/><body><p><br/></p></body></html>", nullptr));
+#endif // QT_CONFIG(whatsthis)
+        head->setText(QString());
         userNamelabel->setText(QCoreApplication::translate("userBoxWidget", "\346\235\216\345\250\201", nullptr));
         selfSignlabel->setText(QCoreApplication::translate("userBoxWidget", "\346\210\221\351\235\236\345\270\270\345\274\272", nullptr));
     } // retranslateUi

@@ -8,25 +8,18 @@
 #include "..\shared\shared.h"
 #include "chatwidgets.h"
 
-chatWidget::chatWidget(QString info,QWidget *parent)
-    : QWidget(parent)
-    , ui(new Ui::chatWidget)
-{
-    ui->setupUi(this);
-    SID = divide(info, DIV_CMD).toInt();
-    FID = divide(info, DIV_CMD).toInt();
-    friendName = info;
-
-}
-chatWidget::chatWidget(qint32 sid,qint32 fid,QString name, QWidget* parent)
+chatWidget::chatWidget(qint32 sid,qint32 fid, QWidget* parent)
     : QWidget(parent)
     , ui(new Ui::chatWidget)
 {
     ui->setupUi(this);
     SID = sid;
     FID = fid;
-    friendName = name;
-
+    connect(this, SIGNAL(sendMessageSignal(QString, QString)), parent, SIGNAL(sendMessageSignal(QString, QString)));
+    connect(this, SIGNAL(deleteChatWidgetSignal(qint32)), parent, SLOT(deleteChatWidgetSlot(qint32)));
+    par = dynamic_cast<chatWidgets*>(parent);
+    emit sendMessageSignal("QUERY", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
+    emit sendMessageSignal("REQUESTINFO", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
 }
 
 chatWidget::~chatWidget()
@@ -37,11 +30,17 @@ chatWidget::~chatWidget()
 }
 void chatWidget::construct()
 {
-    emit sendMessageSignal("QUERY", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
+}
+void chatWidget::setName(QString name)
+{
+    friendName = name;
+    
+    par->setTabText(par->indexOf(this), name);
 }
 void chatWidget::chatReflesh(QString init)
 {
     qDebug() <<"?" << init;
+    friendName = divide(init, DIV_CMD);
     //qint32 num = divide(init, DIV_CMD).toInt();
     ui->textBrowser->clear();
     while (init != "")
@@ -86,11 +85,12 @@ QString chatWidget::toFormat(QString init)
 void chatWidget::on_pushButtonSend_clicked()
 {
     QDateTime curDatetime = QDateTime::currentDateTime();
+    QString message = escape(readTextEdit());
     qDebug() << "UI:" << this->ui;
     emit sendMessageSignal("SENDCHAT", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD +
-        curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + readTextEdit() + DIV_CMD);
+        curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + message + DIV_CMD);
 
-    this->messageSent(curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + readTextEdit());
+    this->messageSent(curDatetime.toString("yyyy-MM-ddThh:mm:ss") + DIV_CMD + message);
     ui->plainTextEdit->clear();
 }
 

@@ -32,22 +32,29 @@ private:
     QMap<QListWidgetItem*, bool> itemShowMap;
     QMap<QListWidgetItem*, userBoxWidget*> itemToBox;
     QMap<qint32, QListWidgetItem*> IDtoitem;
-    QListWidgetItem* ovoitem;
+    QMap<qint32, userBoxWidget*> IDtobox;
+    QListWidgetItem* youitem;
+    QListWidgetItem* frienditem;
 
     QListWidgetItem* curItem; //保存最后点击，给menu使用
     QMenu* friendMenu;
+    QMenu* yourMenu;
 
     void mousePressEvent(QMouseEvent*);
     void mouseDoubleClickEvent(QMouseEvent*);
     void contextMenuEvent(QContextMenuEvent* event);
+    void buildFriendFunc(QListWidgetItem*, qint32, qint32);
 //    QVector<QListWidgetItem*> itemvec;
 
 public slots:
-    void buildFriendSlot(QString);
+    void buildFriendSlot(qint32, qint32);
     void deletefriendSlot();
+    void changeHeadSlot();
+    void changeSignSlot();
     void removeSucceedSlot(QString);
+    void fleshUserSlot(QString);
 signals:
-    qint32 sendMessageSignal(QString);
+    qint32 sendMessageSignal(QString, QString);
 };
 
 

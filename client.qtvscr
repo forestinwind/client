@@ -1,14 +1,14 @@
 <FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
   <FlowDocument.Tag><![CDATA[{
-  "timestamp": "2024-01-12 18:05:20",
+  "timestamp": "2024-01-14 22:04:03",
   "files": {
     "D:\\kp的善良计划\\client\\client.vcxproj": {
-      "before": "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",
-      "after": "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"
+      "before": "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",
+      "after": "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"
     },
     "D:\\kp的善良计划\\client\\client.vcxproj.filters": {
-      "before": "5ZlNb5tAEIZzrtR/0APyuRgM/oCCHRkb0twiVb1FqjCMzUbAUhYSS1X/e9dx7F0MjUnitZTWshV5hefh3dl3ZiI+f7q4sC/XSSzdQ04QTsedXlftSJAGOETpatwpi6VsdC4nHz/YNzm+g6CQ6OUpGXeiosi+KAoJIkh80k1QkGOCl0U3wIkSwj3EOINcSciiRHGoaKqqd2gYSbKvC0iuclxmj1/pgofiAnLpOg3iMoRxx8N5ItFFINtfSPRlf0/RzxKuQ0gLtESQT36Zpt43DdWUBwNnKvcXZig73siUDW/uOKpmDF1H/20rtR9ubuIxpLsuIN3IJpMS2Qr3dX/JjZ8TeLyVydKPCdgKt7K9yla29/9/qLmCFHK/gLBFgkY9d27QtzydOabcn7mm7DhuT3ZV1dHVXr/v9nptExRkmRVYwXptJTiwIiuEpYXD2EL0kwOxGtJ3LDH/kJSv4IfUQS08o5vmQDdU2TCdOfWM2pcNw3XkoTbwHHeguY7ntE1JZEU0KRFNSZRYKKW5SANrTcJXpOK93/83XOYBtNj/vjcb6SOvJ89G04Hc10dDeaoOh7I21bX5aKBNNc9ru//MErwZouzOWviF5ZNk81m/IhvvWI2tVLtLvdnM4hlOMtpcWL8JIr94QOEKaPPKMq7nPBV2fj8Oi4qyj7er//uFJgARRYgRbYyCgsd4hVKhG5T4KBV085vQDygN8YMgQA4rROj8InSDut1bEvk5hE9/BGkpCeQLvBYqZcOI6Y6dCNLC8SUpcOJsxtAmS3ajuuP5flR3PIu39zxbakIQcYyt70VJ4J0visEZVBTiwKKnwMRP/62wdNcs+mLMLuazp6pq0Rcz2EE9SuFM+lZMC5PW23IIi3J1S8f9H8ca9MEkX3fsLvhe826BpS+HGHwCZ+M1qfvLdCBOnkAgp++Z2eTk0gSzmCq+NDZOjaeWdhYg08eV5bPIOz2PlTrmcqYvo8MULGln7gaLoj4BHM0ei74vKmyJAfmyIgBZr2NM4UHXO0sWz8VkKqv98Cwiz4SsauS68dlECmDWxqYS8e29YdA46sTa2LRbYC6sQBqn8RNR+CItTgtXK8VBDqwsDlS1k1gOd6LfDGox1DZ1BG6YLVG98bCHH/UxloV7tucwAukKQvDnXBCCO+SCCAcnXBClerwFQriz/UZK9WTTZ17bR3+TPw==",
-      "after": "5ZhRb5swEMf3PGkP+wYo7wYCJIFBUgUKXR8mtZr6VmkicAmuADPbtJGmfZ19zjlJk5CQLmkGD92iIIRl/ue7889n8+vju3fOxTxLpUegDJN82OnKakeCPCIxzmfDTsmnyOxcjD68d24oeYCIS6J7zoadhPPik6KwKIEsZHKGI0oYmXI5IpkSwyOkpACqZGxS4jRWNFXVO0JGkpxrDtkVJWWxfBQNAU45UOk6j9IyhmEnIDSTRCOw1RuS+Dl3Of5ewnUMOcdTDHT0w7J0wzJVC/V67hgZEytGbjCwkBlcuq6qmX3f1X86Su3FxSCWkv6cQ75wm41K7CiVx02Xm5AyWA5lNA1TBo5SaVn1cpTV+P8Pb64gBxpyiE9I0KDrX5rij8aeayHD8y3kun4X+arq6mrXMPxu99QERUVhR3Y0n9sZiezEjmFqkzi1sbgoMPtA+o4l5h9y5TOEsSDoBGZ0y+rppopMy70UzKgGMk3fRX2tF7h+T/PdwD01JYmdiKQkIiVJZuNc5CKP7DmLz0jFWx//V1LSCE6IvxF4A30QdJE3GPeQoQ/6aKz2+0gb69rloKeNtSA4Nf5bJKowJMWDPQm5HbJscc3PyMYb9sZRdqtLvdh4qUeyQhSXbb2JkpA/4XgGongVRaXmPC/s1XjsLyrKRm+9/m8aDhlgbVlIsSiMLYmnZIbzVgOUhThvafAL6Secx+SpJQMUZpiJ/UurAZLle5aEFOLnW0u+lAzohMxbdWVhIxURa8jIceJv+RcSHYJRTuqsVytRjfWl0przF2VZs7orspscapXnJnUrqDUpuwfYX0l76fMpYzsfami91sBG84WZsQvVa9X/NOf2UDpf+jhEXsk4ydzFWW4buhgm5exebMi/FWJpgqmY+XI04XWq9rbaNbAq6usgVpq2BimkEDJow+TxENzyO3x4HSlx3eXtIbbm7VJo7eeLqkxuULaKfIOyFeIbVN0DvkHlXRQbFq4UtbOVd2eh+Nqw+ugy+g0="
+      "before": "5Vpdj+I2FN3nSv0PiMdKJp+EpGFY4ZBs52W12qpvI61CYohH+Vo7mUFa9Vf0D9cMHzYkhcyAkXY6GoSwwj05uffce5zwT//Dh/HHVZb2nhChuMjv+tpA7fdQHhUxzpd3/bpaALv/cfLrL+MvpHhEUdVjh+f0rp9UVfm7otAoQVlIBxmOSEGLRTWIikyJ0RNKixIRJaPzGqexoquq0Wdher3xfYWyT6Soy5ePbCHAaYVI7z6P0jpGd/2gIFmPLSK6+UaP/Y3/yvH3Gt3HKK/wAiMy+eE4hunYqgOGQzgF5tyJAQxGDrCDGYSqbls+NP4eK40vrk/iJaS/qlC+pk0nNR4rwsf9IV9CQtHLqUwWYUrRWBFWNkeNlc35/z/YfEI5ImGF4g4JGmn+zGb/YOpBB5ie7wAIfQ34qgoNVTNNX9O6JigqSzdyo9XKzYrITdwYLdwiTl3MXgRRtyV95xLzjqj8gcKYKaiDZgzHGRq2CmwHzphmVBPYtg+BpQ8D6A91Hwawa0oSN2FJSVhKkszFOctFHrkrGr8hFT/7+X9FtKhJhDpkYObMLF83dRDY0wCYlm8C6AQzYKu+Bz1dhVPD75qB7yRyf2u53KxdCm3qrY3rXZL6s2uezMAbGaNAA95oOgSmMbLAVLUsoE8NfTYa6lM9CLrmiTcvsW0l5aM7Dys3pNn6tWpJ5LkW9r7YzDCtCJ7XFRvJHZQEbcObBs46Q3CtJD0AcGR5wJ9qmmVogW1ZXtcMyVPRz09qrBw6tqaB81KvyEpm2LiHi5KwesbxEjFDWJaCj9uaJbFyj6tc2cfbear9QhsAlYWQYmY2JQVPiyXOpV6gLMS5pJNfh37GeVw8SwIgaMl6ASJSL9Bg8ECTkKB4+yaJS00RmRcrqVTWGCm7YlcC6aD4mlZFBtdbuzZJDpKm4kWP11Q8j7fXPF9qg6DyMDa6l0VBVL4sDEGgsiCOJHoNmHR7B4CnuyHRV8PsYp6sqkOJvhqDF+pZFEGkl8J0EGlzLMdoXi8f2Bb627kBfbQ7bip2F3zPebfA00dQikKKbobXxu4/3IE8ehIBBX4nvMnVqUnG4qzE1tjqGq9N7SaAnJ/Qlm9C7/p4vNVxlXN+JTNTaMEm8yCaV00HcDZ7PPq+qfAlDii2FQmQzT7GGR5NvZtk8VaYnOXhPLwJyRtBHnIUpvHNSN4Cc8OS3R38RsJ8iUj7zuasHHdC2Itxt9CUogSshhmssWhaWuzTeULbmJzQaZDWPcaVUMTRI4+LMAHkgRw1KHlAh01CLo6g04uBOlj1tjknWPQaN8cpf0zaNOc83L7W+RKXL0egA0kQYp1LghCKXBLCUYVLQjksb4kgQm1fiHK+sj8XuXBbmG/ocVTkD9vx9Fgum+V9+PipUeLruCdrm0Ftw7Ph9OrwHpfLC8qFRNmt0nxAn1poNp8PnKT65st5VRy8TKrL6RxeU/bTis0vTCb/Ag==",
+      "after": "5VjPb5tIFO650p73avm4q+G3MRTiisHQzaFV01VvkSoMYzMRMHRmSCxV+7/vYCcxNk5NHDg0tWxZHsH35nvf+57f8Pefb96479d5NrpFlGFSXIxVSRmPUBGTBBeri3HFl8Aav5/98db9TMkNivlIXF6wi3HKeflOllmcojxiUo5jShhZcikmuZygW5SRElE5Z4sKZ4msKYo+FjCjkXvJUf6Bkqrc/BQLIc44oqPLIs6qBF2MQ0LzkVhEbHvHSLzcrwX+XqHLBBUcLzGisx+2rRu2pdhgMoEeMBZ2AmA4tYEVziFUNMsMoP6fK7durDexgQzWHBU1bTarsCs3fj5e8jmiDG22MltGGUOu3FjZXuXK2/3/Hmw+oALRiKOkg0BTNZhb4g08H9rA8AMbQBioIFAUqCuqYQSq2lWguCyd2InXaycnsZM6CVo6JMkcLD4UMeeIfKeEeUVU/kFRIhzUwTO6bU90SwGWDefCM4oBLCuAwNQmIQwmWgBD2FWS1EmFKKmQJM0dXAgtithZs+QMKX71/X9BjFQ0Rh0UmNtzM9AMDYSWFwLDDAwA7XAOLCXwoa8p0NODrgp8p7Hz15F0i3bZaFPnNq5XSerfrjoZoT/Vp6EK/Kk3AYY+NYGnmCbQPF2bTyeap4VhV512zavZttLyxllE3IlYXn/WR4Q81cJeF5s5ZpziRcXFX3IHJ0FL973QrhWCtZO0EMCp6YPAU1VTV0PLNP2uCg3nol+flCvvT2ztAc7PfJKXYmDbzXBxGvE7nKyQGAjLsjHH3Q9Lzco9rHL5Ee9hpnpcOBaADRUhw2LYHAg8IytcDJqgPMLFQJuvoe9wkZC7gQJQtBK9ANFBEyRJ1yyNKEruvwbiUjFEF2Q9KJU6RiYy1lOQ046/4h9JfMyMUtr2enO6a3l9g/Tg8ydhWb+4W2f3udWmn/vEbVitT9gDg70I2s/uT+67emhZ67kBHjGfqIx9Uz0X/Wc1d2Cl86FPm8ivGCc5rJ+P7FKXoEW1uhaH3G+laE1oKSpfihe87aqD42vLWA30hyQ2lnYBKcpQxNAQIU+n4Ip/xcf7SIXblHcPhlpsN0APPJ9EZVKPsE3L9wjbcHyPqAeG7xF534o9Azf+1M5GPl2Fn0jRGF13zQvHpLimUbFCVLopV+2C3D8it4qyxt3V5Je4UekiyD2wOMQ/G/iKC7AN8gvJiRGukNjtEWrtc8tP6Z2dwl7j4FXKX05nP6fike/2yffsfw=="
     }
   }
 }]]></FlowDocument.Tag>
@@ -21,7 +21,7 @@
       <Span TextDecorations="Underline">Project Format Conversion</Span>
     </Paragraph>
     <Paragraph Margin="12,8" FontSize="18">
-      <Span>Report generated on 2024-01-12 18:05:20</Span>
+      <Span>Report generated on 2024-01-14 22:04:03</Span>
     </Paragraph>
   </Section>
   <Section>
@@ -1005,6 +1005,60 @@
             </Paragraph>
           </TableCell>
         </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">..\ranger.qrc;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\rcc]]></Span><Span><![CDATA[.exe;..\shared\icon\ranger.jpg;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">..\ranger.qrc;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\rcc]]></Span><Span><![CDATA[.exe;..\shared\icon\ranger.jpg;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">D:\QT\5.15.2\MSVC2019_64\bin\rcc]]></Span><Span><![CDATA[.exe -name ranger ..\ranger.qrc -o release\qrc_ranger.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\rcc]]></Span><Span><![CDATA[.exe -name ranger ..\ranger.qrc -o release\qrc_ranger.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">..\ranger.qrc;]]></Span><Span Background="LightCoral"><![CDATA[D:\QT\5.15.2\MSVC2019_64\bin\rcc]]></Span><Span><![CDATA[.exe;..\shared\icon\ranger.jpg;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">..\ranger.qrc;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\rcc]]></Span><Span><![CDATA[.exe;..\shared\icon\ranger.jpg;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">D:\QT\5.15.2\MSVC2019_64\bin\rcc]]></Span><Span><![CDATA[.exe -name ranger ..\ranger.qrc -o debug\qrc_ranger.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\rcc]]></Span><Span><![CDATA[.exe -name ranger ..\ranger.qrc -o debug\qrc_ranger.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
       </TableRowGroup>
     </Table>
     <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
@@ -1157,7 +1211,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[    <QtUic>]]></Span>
+              <Span Background="LightGreen"><![CDATA[    <QtRcc>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1167,7 +1221,27 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <OutputFile>$(ProjectDir)\ui_%(Filename).h</OutputFile>]]></Span>
+              <Span Background="LightGreen"><![CDATA[      <InitFuncName>ranger</InitFuncName>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <OutputFile>$(Configuration)\qrc_%(Filename).cpp</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1178,6 +1252,66 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightGreen"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <Compression>default</Compression>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <ExecutionDescription>Rcc'ing %(Identity)...</ExecutionDescription>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    </QtRcc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtUic>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <OutputFile>$(ProjectDir)\ui_%(Filename).h</OutputFile>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1228,66 +1362,6 @@
         </TableRow>
         <TableRow>
           <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[    <QtUic>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <OutputFile>$(ProjectDir)\ui_%(Filename).h</OutputFile>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <ExecutionDescription>Uic'ing %(Identity)...</ExecutionDescription>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
-            </Paragraph>
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[    </QtUic>]]></Span>
-            </Paragraph>
-          </TableCell>
         </TableRow>
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1396,6 +1470,146 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightGreen"><![CDATA[    </QtMoc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtRcc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <OutputFile>$(Configuration)\qrc_%(Filename).cpp</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <InitFuncName>ranger</InitFuncName>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <Compression>default</Compression>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <ExecutionDescription>Rcc'ing %(Identity)...</ExecutionDescription>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    </QtRcc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtUic>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <OutputFile>$(ProjectDir)\ui_%(Filename).h</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <ExecutionDescription>Uic'ing %(Identity)...</ExecutionDescription>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    </QtUic>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2710,6 +2924,66 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\qrc_ranger.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="release\qrc_ranger.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_chatwidget.h" />]]></Span>
             </Paragraph>
           </TableCell>
@@ -3564,6 +3838,121 @@
             <Paragraph FontFamily="Consolas" Margin="4, 0" />
           </TableCell>
         </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="..\ranger.]]></Span><Span Background="LightCoral"><![CDATA[qrc">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtRcc]]></Span><Span><![CDATA[ Include="..\ranger.]]></Span><Span Background="LightGreen"><![CDATA[qrc" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <FileType>Document</FileType>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">..\ranger.qrc;$(QTDIR)\bin\rcc.exe;..\shared\icon\ranger.jpg;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\rcc.exe -name ranger ..\ranger.qrc -o release\qrc_ranger.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">RCC ../ranger.qrc</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\qrc_ranger.cpp;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">..\ranger.qrc;$(QTDIR)\bin\rcc.exe;..\shared\icon\ranger.jpg;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\rcc.exe -name ranger ..\ranger.qrc -o debug\qrc_ranger.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">RCC ../ranger.qrc</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\qrc_ranger.cpp;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
       </TableRowGroup>
     </Table>
     <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
@@ -4290,6 +4679,66 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\qrc_ranger.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="release\qrc_ranger.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_chatwidget.h">]]></Span>
             </Paragraph>
           </TableCell>
@@ -4686,6 +5135,36 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtUic>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="..\ranger.qrc">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtRcc]]></Span><Span><![CDATA[ Include="..\ranger.qrc">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[</CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtRcc>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -5414,7 +5893,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <QtUicDir>$(ProjectDir)</QtUicDir>]]></Span>
+              <Span Background="LightGreen"><![CDATA[      <QtRccDir>$(Configuration)</QtRccDir>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -5424,7 +5903,7 @@
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightGreen"><![CDATA[      <QtUicFileName>ui_%(Filename).h</QtUicFileName>]]></Span>
+              <Span Background="LightGreen"><![CDATA[      <QtRccFileName>qrc_%(Filename).cpp</QtRccFileName>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -5471,6 +5950,52 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightGreen"><![CDATA[      <QtMocFileName>moc_%(Filename).cpp</QtMocFileName>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QtRccDir>$(Configuration)</QtRccDir>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QtRccFileName>qrc_%(Filename).cpp</QtRccFileName>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QtUicDir>$(ProjectDir)</QtUicDir>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QtUicFileName>ui_%(Filename).h</QtUicFileName>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -5557,7 +6082,17 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <OutputFile>$(ProjectDir)\ui_%(Filename).h</OutputFile>]]></Span>
+              <Span Background="LightCoral"><![CDATA[      <OutputFile>$(Configuration)\qrc_%(Filename).cpp</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -5568,19 +6103,6 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
-            </Paragraph>
-          </TableCell>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
-          </TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
-          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -5682,6 +6204,75 @@
             <Paragraph FontFamily="Consolas" Margin="4, 0" />
           </TableCell>
         </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <OutputFile>$(Configuration)\qrc_%(Filename).cpp</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <OutputFile>$(ProjectDir)\ui_%(Filename).h</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
       </TableRowGroup>
     </Table>
   </Section>
@@ -5689,4 +6280,4 @@
     <Paragraph />
   </Section>
 </FlowDocument>
-<!--JJOnCvVn9dygshC5wqNTx/1cerxj6Z4dR4Z4szUGPp0=-->
+<!--lQHqXH2cHmyZJpoLcyxWUkVKq9FKXUyzsy1MOQqIkCk=-->
