@@ -78,8 +78,10 @@ QString chatWidget::toFormat(QString init)
 {
     QString time = divide(init, DIV_CMD);
     QString day = divide(time, "T");
+    if(day == "")day = divide(time, " ");
     QString tem = divide(time, ".");
     if (tem != "")time = tem;
+    qDebug() <<"ls:" << day;
     return "(" + day + " " + time + "):<br>" + init;
 }
 void chatWidget::on_pushButtonSend_clicked()
