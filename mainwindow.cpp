@@ -10,7 +10,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
     this->show();
     loginWidget = new LoginWidget();
-  //  friendWidget = new chatWidgets();
+
     thisClient = new client();
     friendListWidget = ui->listWidget;
     qDebug() << &friendListWidget;
@@ -28,21 +28,19 @@ MainWindow::MainWindow(QWidget *parent)
     connect(friendListWidget, SIGNAL(sendMessageSignal(QString, QString)), thisClient, SLOT(sendMessageSlot(QString, QString)));
     connect(friendListWidget->thischatwidget, SIGNAL(sendMessageSignal(QString, QString)), thisClient, SLOT(sendMessageSlot(QString, QString)));
     connect(thisClient, SIGNAL(closeLoginWidgetSignal()), loginWidget, SLOT(closeLoginWidgetSlot()));
-    connect(thisClient, SIGNAL(fleshUserSignal(QString)), friendListWidget, SLOT(fleshUserSlot(QString)));
-//    connect(friendWidget, &chatWidgets::sendMessageSignal, thisClient, &client::sendMessageSlot);
+    connect(thisClient, SIGNAL(logFailCMDSignal(QString)), loginWidget, SLOT(logFailCMDSlot(QString)));
+
+
+    connect(thisClient, SIGNAL(forwardToGroupSignal(QString, QString)), friendListWidget, SLOT(forwardToGroupSlot(QString,QString)));//转发
+    connect(thisClient, SIGNAL(forwardToUserSignal(QString, QString)), friendListWidget, SLOT(forwardToUserSlot(QString, QString)));//转发
 
     connect(thisClient, SIGNAL(buildFriendSignal(qint32, qint32)), friendListWidget, SLOT(buildFriendSlot(qint32, qint32)));
+    connect(thisClient, SIGNAL(buildGroupSignal(qint32, qint32)), friendListWidget, SLOT(buildGroupSlot(qint32, qint32)));
 
- //   connect(thisClient, SIGNAL(buildFriendSignal(QString)),friendListWidget->thischatwidget, SLOT(buildFriendSlot(QString)));
     connect(thisClient, SIGNAL(showChatWidgetSignal()), friendListWidget->thischatwidget, SLOT(showChatWidgetSlot()));
-    connect(thisClient, SIGNAL(chatRecordSignal(QString)), friendListWidget->thischatwidget, SLOT(chatRecordSlot(QString)));
-    connect(thisClient, SIGNAL(chatAddSignal(QString)), friendListWidget->thischatwidget, SLOT(chatAddSlot(QString)));
     connect(thisClient, SIGNAL(removeSucceedSignal(QString)), friendListWidget, SLOT(removeSucceedSlot(QString)));
-
- /*   connect(thisClient, &client::buildFriendSignal, friendWidget, &chatWidgets::buildFriendSlot);
-    connect(thisClient, &client::showChatWidgetSignal, friendWidget, &chatWidgets::showChatWidgetSlot);
-    connect(thisClient, &client::chatRecordSignal, friendWidget, &chatWidgets::chatRecordSlot);
-    connect(thisClient, &client::chatAddSignal, friendWidget, &chatWidgets::chatAddSlot);*/
+    connect(thisClient, SIGNAL(quitGroupSignal(QString)), friendListWidget, SLOT(quitGroupSlot(QString)));
+    
 
     if(thisClient->begin())
     {
@@ -52,7 +50,6 @@ MainWindow::MainWindow(QWidget *parent)
         
 
     }
-    //connect(this, SIGNAL(thisClient._writeBrowser(QString)), this, SLOT(this->weiteBrowser(QString)));
 }
 
 
@@ -70,5 +67,16 @@ void MainWindow::writeBrowserSlot(QString init) // textBrowser
 void MainWindow::on_pushButtonAddFriend_clicked()
 {
     thisClient->sendMessageSlot("ADDFRIEND", ui->lineEditFriend->text());
+    ui->lineEditFriend->clear();
+}
+
+
+void MainWindow::on_pushButtonAddGroup_clicked()
+{
+    if (ui->lineEditFriend->text().toInt())
+    {
+        thisClient->sendMessageSlot("ADDGROUP", ui->lineEditFriend->text());
+        ui->lineEditFriend->clear();
+    }
 }
 

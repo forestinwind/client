@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>539</width>
-    <height>419</height>
+    <width>508</width>
+    <height>411</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,7 +16,7 @@
   <property name="layoutDirection">
    <enum>Qt::LeftToRight</enum>
   </property>
-  <layout class="QVBoxLayout" name="verticalLayout">
+  <layout class="QVBoxLayout" name="verticalLayout" stretch="2,1,0">
    <item>
     <widget class="QTextBrowser" name="textBrowser">
      <property name="sizePolicy">
@@ -31,8 +31,8 @@
     <widget class="QPlainTextEdit" name="plainTextEdit">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
-       <horstretch>0</horstretch>
-       <verstretch>1</verstretch>
+       <horstretch>1</horstretch>
+       <verstretch>0</verstretch>
       </sizepolicy>
      </property>
     </widget>

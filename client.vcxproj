@@ -71,6 +71,9 @@
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">client</TargetName>
     <IgnoreImportLibrary Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</IgnoreImportLibrary>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>$(Qt_INCLUDEPATH_);$(IncludePath)</IncludePath>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
       <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;release;/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
@@ -201,9 +204,13 @@
     <ClCompile Include="chatwidget.cpp" />
     <ClCompile Include="chatwidgets.cpp" />
     <ClCompile Include="client.cpp" />
+    <ClCompile Include="groupboxwidget.cpp" />
+    <ClCompile Include="groupchatwidget.cpp" />
+    <ClCompile Include="groupmemberlist.cpp" />
     <ClCompile Include="loginwidget.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainwindow.cpp" />
+    <ClCompile Include="memberboxwidget.cpp" />
     <ClCompile Include="registerwidget.cpp" />
     <ClCompile Include="..\shared\shared.cpp" />
     <ClCompile Include="userboxwidget.cpp" />
@@ -213,8 +220,12 @@
     <QtMoc Include="chatwidget.h" />
     <QtMoc Include="chatwidgets.h" />
     <QtMoc Include="client.h" />
+    <QtMoc Include="groupboxwidget.h" />
+    <QtMoc Include="groupchatwidget.h" />
+    <QtMoc Include="groupmemberlist.h" />
     <QtMoc Include="loginwidget.h" />
     <QtMoc Include="mainwindow.h" />
+    <QtMoc Include="memberboxwidget.h" />
     <QtMoc Include="registerwidget.h" />
     <ClInclude Include="..\shared\shared.h" />
     <QtMoc Include="userboxwidget.h" />
@@ -240,9 +251,11 @@
   </ItemGroup>
   <ItemGroup>
     <QtUic Include="chatwidget.ui" />
-    <QtUic Include="chatwidgets.ui" />
+    <QtUic Include="groupboxwidget.ui" />
+    <QtUic Include="groupchatwidget.ui" />
     <QtUic Include="loginwidget.ui" />
     <QtUic Include="mainwindow.ui" />
+    <QtUic Include="memberboxwidget.ui" />
     <QtUic Include="registerwidget.ui" />
     <QtUic Include="userboxwidget.ui" />
     <QtUic Include="userlistwidget.ui" />

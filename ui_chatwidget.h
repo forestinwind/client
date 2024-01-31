@@ -36,7 +36,7 @@ public:
     {
         if (chatWidget->objectName().isEmpty())
             chatWidget->setObjectName(QString::fromUtf8("chatWidget"));
-        chatWidget->resize(539, 419);
+        chatWidget->resize(508, 411);
         chatWidget->setLayoutDirection(Qt::LeftToRight);
         verticalLayout = new QVBoxLayout(chatWidget);
         verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
@@ -53,8 +53,8 @@ public:
         plainTextEdit = new QPlainTextEdit(chatWidget);
         plainTextEdit->setObjectName(QString::fromUtf8("plainTextEdit"));
         QSizePolicy sizePolicy1(QSizePolicy::Expanding, QSizePolicy::Expanding);
-        sizePolicy1.setHorizontalStretch(0);
-        sizePolicy1.setVerticalStretch(1);
+        sizePolicy1.setHorizontalStretch(1);
+        sizePolicy1.setVerticalStretch(0);
         sizePolicy1.setHeightForWidth(plainTextEdit->sizePolicy().hasHeightForWidth());
         plainTextEdit->setSizePolicy(sizePolicy1);
 
@@ -95,6 +95,8 @@ public:
 
         verticalLayout->addLayout(horizontalLayout);
 
+        verticalLayout->setStretch(0, 2);
+        verticalLayout->setStretch(1, 1);
 
         retranslateUi(chatWidget);
 

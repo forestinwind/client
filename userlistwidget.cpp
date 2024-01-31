@@ -18,9 +18,11 @@ userListWidget::userListWidget(QWidget *parent)
  //   connect(thischatwidget, SIGNAL(sendMessageSignal(QString)), this, SLOT(sendMessageSignal(QString)));
     youitem = addClass("宁");
     frienditem = addClass("你的好友");
+    groupitem = addClass("宁的群聊");
 
     friendMenu = new QMenu;
     yourMenu = new QMenu;
+    groupMenu = new QMenu;
 
     QAction* removeFriend = new QAction("删除好友", this);
     QAction* changeHead = new QAction("更换头像", this);
@@ -40,7 +42,27 @@ userListWidget::~userListWidget()
 {
     delete ui;
 }
+void userListWidget::buildGroupSlot(qint32 sid, qint32 gid)
+{
+    buildGroupFunc(groupitem, sid, gid);
+}
+void userListWidget::buildGroupFunc(QListWidgetItem* par, qint32 sid, qint32 gid)
+{
+    qDebug() <<"group" << sid << gid;
+    if (GIDtoitem.value(gid) != nullptr) return;
+    if (GIDtobox.value(gid) != nullptr) return;
+    QListWidgetItem* item = new QListWidgetItem();
+    insertItem(row(par) + 1, item);
+    groupBoxWidget* thisbox = new groupBoxWidget(sid, gid, this);
+    GIDtoitem[gid] = item;
+    GIDtobox[gid] = thisbox;
+    itemToGroupBox[item] = thisbox;
+    itemParMap[item] = par;
+    setItemWidget(item, thisbox);
+    QSize thissize = thisbox->sizeHint();
+    item->setSizeHint(QSize(thissize.width(), thissize.height()));
 
+}
 void userListWidget::buildFriendSlot(qint32 sid, qint32 fid)
 {
     if(sid != fid)buildFriendFunc(frienditem, sid, fid);
@@ -52,7 +74,7 @@ void userListWidget::buildFriendFunc(QListWidgetItem* par, qint32 sid, qint32 fi
     
     qDebug()<<"build" << sid << fid;
 
-    if (IDtoitem.value(fid) != nullptr) return;
+    if (SIDtoitem.value(fid) != nullptr) return;
     QListWidgetItem* item = new QListWidgetItem();
 //    addItem(item);
     insertItem(row(par) + 1, item);
@@ -62,22 +84,29 @@ void userListWidget::buildFriendFunc(QListWidgetItem* par, qint32 sid, qint32 fi
 //    thisbox->createChatWidget(); 已废弃
 
     //item的构造
-    IDtoitem[fid] = item;
-    IDtobox[fid] = thisbox;
-    itemToBox[item] = thisbox;
+    SIDtoitem[fid] = item;
+    SIDtobox[fid] = thisbox;
+    itemToUserBox[item] = thisbox;
     itemParMap[item] = par;
     setItemWidget(item, thisbox);
     QSize thissize = thisbox->sizeHint();
     item->setSizeHint(QSize(thissize.width(), thissize.height()));
 }
-
-void userListWidget::fleshUserSlot(QString init)
+void userListWidget::forwardToGroupSlot(QString cmd, QString init) //注：转发对象已知GID，故可以舍去
+{
+    qDebug ()<< init;
+    QString id = divide(init, DIV_CMD);
+    if (id == "" || GIDtobox.value(id.toInt()) == nullptr)return;
+    GIDtobox[id.toInt()]->cmdFromClient(cmd, init);
+}
+void userListWidget::forwardToUserSlot(QString cmd, QString init)
 {
     QString id = divide(init, DIV_CMD);
-    qDebug() << "flesh1:" <<id<< init;
-    if (id=="")return;
-    IDtobox[id.toInt()]->fleshUser(init);
+    if (id == "" || SIDtobox.value(id.toInt()) == nullptr)return;
+    SIDtobox[id.toInt()]->cmdFromClient(cmd, init);
 }
+
+
 void userListWidget::changeSignSlot()
 {
     bool used;
@@ -89,7 +118,7 @@ void userListWidget::changeSignSlot()
 
         newSign = escape(newSign);
 
-        itemToBox[curItem]->changeSign(newSign);
+        itemToUserBox[curItem]->changeSign(newSign);
         emit sendMessageSignal("CHANGEINFO", "sign" + DIV_CMD + newSign);
     }
     else qDebug() << "unUSE";
@@ -104,7 +133,7 @@ void userListWidget::changeHeadSlot()
     if (newpix.load(fileName))
     {
         newpix = newpix.scaled(64, 64, Qt::KeepAspectRatio);
-        itemToBox[curItem]->changeHead(newpix);
+        itemToUserBox[curItem]->changeHead(newpix);
         
         QByteArray tempArray;
         QBuffer buffer(&tempArray);
@@ -112,6 +141,7 @@ void userListWidget::changeHeadSlot()
         newpix.save(&buffer, "PNG");
 
         QString headStr = tempArray.toBase64();
+
         emit sendMessageSignal("CHANGEINFO", "head" + DIV_CMD + escape(headStr));
     }
 }
@@ -119,7 +149,7 @@ void userListWidget::changeHeadSlot()
 
 QListWidgetItem* userListWidget::addClass(QString kind)
 {
-    QPixmap thisicon = qPixmapFromSvg("../shared/icon/down.svg", "blue");
+    QPixmap thisicon = qPixmapFromSvg("icon/down.svg", "blue");
     QListWidgetItem* item = new QListWidgetItem(thisicon, kind);
     item->setSizeHint(QSize(this->width(), 40));
     addItem(item);
@@ -141,10 +171,10 @@ void userListWidget::mousePressEvent(QMouseEvent *event)//listwidgetitem是纯�
     {
         itemShowMap[curItem] = !itemShowMap[curItem];
         QIcon thisicon;
-        if (itemShowMap.value(curItem))thisicon = qPixmapFromSvg("../shared/icon/down.svg", "blue");
+        if (itemShowMap.value(curItem))thisicon = qPixmapFromSvg("icon/down.svg", "blue");
         else
         {
-            thisicon = qPixmapFromSvg("../shared/icon/right.svg", "red");
+            thisicon = qPixmapFromSvg("icon/right.svg", "red");
         }
         for each (QListWidgetItem* friendItem in itemParMap.keys(curItem)){
             if(friendItem != curItem){
@@ -176,10 +206,13 @@ void userListWidget::mouseDoubleClickEvent(QMouseEvent *event)
     }
     if(itemParMap[curItem] != curItem)
     {
-        if (itemParMap[curItem] == frienditem)
+        if (itemParMap[curItem] == frienditem || itemParMap[curItem] == youitem)
         {
-            thischatwidget->buildTab(itemToBox.value(curItem)->thisChatWidget);
-            thischatwidget->showTab(itemToBox.value(curItem)->thisChatWidget);
+            thischatwidget->showTab(itemToUserBox.value(curItem)->thisChatWidget);
+        }
+        if (itemParMap[curItem] == groupitem)
+        {
+            thischatwidget->showTab(itemToGroupBox.value(curItem)->thisChatWidget);
         }
     }
 }
@@ -187,7 +220,7 @@ void userListWidget::deletefriendSlot()
 {
     qDebug() << "delete";
     
-    itemToBox.value(curItem)->deleteFriend();
+    itemToUserBox.value(curItem)->deleteFriend();
     //
 }
 void userListWidget::removeSucceedSlot(QString init)
@@ -197,16 +230,30 @@ void userListWidget::removeSucceedSlot(QString init)
 
     qDebug() << "try delete" <<friendID;
 
-    QListWidgetItem* waitRemoveItem = IDtoitem[friendID];
+    delete SIDtoitem[friendID];//在这个过程中，我调用了box的析构函数，说明其已被释放，原因不明
 
-    IDtobox.remove(friendID);
-    IDtoitem.remove(friendID);
-    this->takeItem(this->row(waitRemoveItem));
-    itemParMap.remove(waitRemoveItem);
-    itemShowMap.remove(waitRemoveItem);
-    userBoxWidget* waitRemoveBox = itemToBox[waitRemoveItem];
-    delete waitRemoveBox;
-    itemToBox.remove(waitRemoveItem);
-    delete waitRemoveItem;
-
+}
+void userListWidget::quitGroupSlot(QString init)
+{
+    int GID = init.toInt();
+    qDebug() << "remove" << GID;
+    delete GIDtoitem[GID];
+}
+void userListWidget::DeleteUser(qint32 uid)
+{
+    QListWidgetItem* thisItem = SIDtoitem[uid];
+    SIDtobox.remove(uid);
+    SIDtoitem.remove(uid);
+    itemParMap.remove(thisItem);
+    itemShowMap.remove(thisItem);
+    itemToUserBox.remove(thisItem);
+}
+void userListWidget::DeleteGroup(qint32 gid)
+{
+    QListWidgetItem* thisItem = GIDtoitem[gid];
+    GIDtobox.remove(gid);
+    GIDtoitem.remove(gid);
+    itemParMap.remove(thisItem);
+    itemShowMap.remove(thisItem);
+    itemToGroupBox.remove(thisItem);
 }

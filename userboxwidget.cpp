@@ -14,13 +14,14 @@ userBoxWidget::userBoxWidget(qint32 sid, qint32 fid, QWidget* parent) //这是�
     SID = sid;
     FID = fid;
     ui->selfSignlabel->setText(QString::number(FID)+ QString::number(SID));
-    qDebug() << "par1:" << dynamic_cast<userListWidget*>(parentWidget());
-    thisChatWidget = dynamic_cast<userListWidget*>(parentWidget())->thischatwidget->buildFriend(SID, FID);
+    par = dynamic_cast<userListWidget*>(parentWidget());
+    thisChatWidget = par->thischatwidget->buildFriend(SID, FID);
 
 }
 
 userBoxWidget::~userBoxWidget()
 {
+    par->DeleteUser(FID);
     delete thisChatWidget;
     delete ui;
 
@@ -28,11 +29,13 @@ userBoxWidget::~userBoxWidget()
 
 void userBoxWidget::fleshUser(QString init)
 {
-    qDebug() << init;
+    qDebug() <<"flesh:" <<SID<< init;
     friendName = divide(init, DIV_CMD);
-    QByteArray tempArray = QByteArray::fromBase64(decrypt(divide(init, DIV_CMD)).toLocal8Bit());
+    QString temp = divide(init, DIV_CMD);
+    QByteArray tempArray = QByteArray::fromBase64(decrypt(temp).toLocal8Bit());
     signStr = divide(init, DIV_CMD);
     QPixmap thisPixmap;
+
     thisPixmap.loadFromData(tempArray);
     ui->head->setPixmap(thisPixmap);
     ui->userNamelabel->setText(friendName);
@@ -41,10 +44,7 @@ void userBoxWidget::fleshUser(QString init)
     thisChatWidget->setName(friendName);
  //   userListWidget* par = dynamic_cast<userListWidget*>(parentWidget());为什么
 }
-void userBoxWidget::createChatWidget()
-{
-    if (Q_NULLPTR == thisChatWidget)qDebug()<<"error";
-}
+
 
 void userBoxWidget::deleteFriend()
 {
@@ -59,4 +59,23 @@ void userBoxWidget::changeSign(QString newSign)
 {
     signStr = newSign;
     this->ui->selfSignlabel->setText(newSign);
+}
+
+void userBoxWidget::cmdFromClient(QString cmd, QString init)
+{
+    if (cmd == "USERINFO")
+    {
+        fleshUser(init);
+        return;
+    }
+    if (cmd == "CHATRECORD")
+    {
+        thisChatWidget->chatReflesh(init);
+        return;
+    }
+    if (cmd == "CHATADD")
+    {
+        thisChatWidget->chatAdd(init);
+        return;
+    }
 }

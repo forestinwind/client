@@ -48,6 +48,7 @@ public:
         gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
         lineEdit_password = new QLineEdit(LoginWidget);
         lineEdit_password->setObjectName(QString::fromUtf8("lineEdit_password"));
+        lineEdit_password->setEchoMode(QLineEdit::Password);
 
         gridLayout->addWidget(lineEdit_password, 3, 1, 1, 1);
 

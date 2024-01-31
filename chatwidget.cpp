@@ -8,7 +8,7 @@
 #include "..\shared\shared.h"
 #include "chatwidgets.h"
 
-chatWidget::chatWidget(qint32 sid,qint32 fid, QWidget* parent)
+chatWidget::chatWidget(qint32 sid,qint32 fid, chatWidgets* parent)
     : QWidget(parent)
     , ui(new Ui::chatWidget)
 {
@@ -17,7 +17,7 @@ chatWidget::chatWidget(qint32 sid,qint32 fid, QWidget* parent)
     FID = fid;
     connect(this, SIGNAL(sendMessageSignal(QString, QString)), parent, SIGNAL(sendMessageSignal(QString, QString)));
     connect(this, SIGNAL(deleteChatWidgetSignal(qint32)), parent, SLOT(deleteChatWidgetSlot(qint32)));
-    par = dynamic_cast<chatWidgets*>(parent);
+    par = parent;
     emit sendMessageSignal("QUERY", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
     emit sendMessageSignal("REQUESTINFO", QString::number(SID) + DIV_CMD + QString::number(FID) + DIV_CMD);
 }
@@ -27,9 +27,6 @@ chatWidget::~chatWidget()
     emit deleteChatWidgetSignal(FID);
     qDebug() << "delete ui";
     delete ui;
-}
-void chatWidget::construct()
-{
 }
 void chatWidget::setName(QString name)
 {
@@ -72,18 +69,9 @@ void chatWidget::messageGet(QString init)
 }
 void chatWidget::messageSent(QString init)
 {
-    ui->textBrowser->append("<font \color=\"blue\"> YOU:" + toFormat(init) + "</font>");
+    ui->textBrowser->append("<font color=\"blue\"> YOU:" + toFormat(init) + "</font>");
 }
-QString chatWidget::toFormat(QString init)
-{
-    QString time = divide(init, DIV_CMD);
-    QString day = divide(time, "T");
-    if(day == "")day = divide(time, " ");
-    QString tem = divide(time, ".");
-    if (tem != "")time = tem;
-    qDebug() <<"ls:" << day;
-    return "(" + day + " " + time + "):<br>" + init;
-}
+
 void chatWidget::on_pushButtonSend_clicked()
 {
     QDateTime curDatetime = QDateTime::currentDateTime();

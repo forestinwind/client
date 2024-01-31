@@ -36,4 +36,5 @@ signals:
    // void sendMessageSignal(QString);
 private slots:
     void on_pushButtonAddFriend_clicked();
+    void on_pushButtonAddGroup_clicked();
 };

@@ -15,6 +15,7 @@ public:
     bool begin();
     QTcpSocket thisSock;
 private:
+    QString thisBuffer;
     QString serverIP;
     QString userName;
     qint32 servetPort;
@@ -27,13 +28,16 @@ public slots:
     qint32 sendMessageSlot(QString);
     qint32 sendMessageSlot(QString, QString);
 signals:
-    void fleshUserSignal(QString);
+    void logFailCMDSignal(QString);
     void writeBrowserSignal(QString);
     void buildFriendSignal(qint32, qint32);
+    void buildGroupSignal(qint32, qint32);
     void showChatWidgetSignal();
-    void chatRecordSignal(QString);
     void chatAddSignal(QString);
     void closeLoginWidgetSignal();
     void removeSucceedSignal(QString);
+    void quitGroupSignal(QString);
+    void forwardToGroupSignal(QString, QString);
+    void forwardToUserSignal(QString, QString);
 };
 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>userBoxWidget</class>
- <widget class="QWidget" name="userBoxWidget">
+ <class>memberBoxWidget</class>
+ <widget class="QWidget" name="memberBoxWidget">
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>300</width>
-    <height>100</height>
+    <width>200</width>
+    <height>76</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -28,27 +28,15 @@
        <height>64</height>
       </size>
      </property>
-     <property name="whatsThis">
-      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-     </property>
-     <property name="styleSheet">
-      <string notr="true"/>
-     </property>
      <property name="text">
       <string/>
-     </property>
-     <property name="pixmap">
-      <pixmap resource="../ranger.qrc">:/shared/icon/ranger.jpg</pixmap>
-     </property>
-     <property name="scaledContents">
-      <bool>false</bool>
      </property>
     </widget>
    </item>
    <item>
     <layout class="QVBoxLayout" name="verticalLayout">
      <item>
-      <widget class="QLabel" name="userNamelabel">
+      <widget class="QLabel" name="namelabel">
        <property name="font">
         <font>
          <pointsize>16</pointsize>
@@ -60,9 +48,9 @@
       </widget>
      </item>
      <item>
-      <widget class="QLabel" name="selfSignlabel">
+      <widget class="QLabel" name="signlabel">
        <property name="text">
-        <string>我非常强</string>
+        <string>TextLabel</string>
        </property>
       </widget>
      </item>
@@ -70,8 +58,6 @@
    </item>
   </layout>
  </widget>
- <resources>
-  <include location="../ranger.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>

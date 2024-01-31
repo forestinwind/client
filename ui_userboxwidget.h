@@ -31,7 +31,7 @@ public:
     {
         if (userBoxWidget->objectName().isEmpty())
             userBoxWidget->setObjectName(QString::fromUtf8("userBoxWidget"));
-        userBoxWidget->resize(501, 200);
+        userBoxWidget->resize(300, 100);
         horizontalLayout = new QHBoxLayout(userBoxWidget);
         horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
         head = new QLabel(userBoxWidget);

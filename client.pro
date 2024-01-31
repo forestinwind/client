@@ -22,9 +22,13 @@ SOURCES += \
     chatwidget.cpp \
     chatwidgets.cpp \
     client.cpp \
+    groupboxwidget.cpp \
+    groupchatwidget.cpp \
+    groupmemberlist.cpp \
     loginwidget.cpp \
     main.cpp \
     mainwindow.cpp \
+    memberboxwidget.cpp \
     registerwidget.cpp \
     userboxwidget.cpp \
     userlistwidget.cpp
@@ -34,17 +38,23 @@ HEADERS += \
     chatwidget.h \
     chatwidgets.h \
     client.h \
+    groupboxwidget.h \
+    groupchatwidget.h \
+    groupmemberlist.h \
     loginwidget.h \
     mainwindow.h \
+    memberboxwidget.h \
     registerwidget.h \
     userboxwidget.h \
     userlistwidget.h
 
 FORMS += \
     chatwidget.ui \
-    chatwidgets.ui \
+    groupboxwidget.ui \
+    groupchatwidget.ui \
     loginwidget.ui \
     mainwindow.ui \
+    memberboxwidget.ui \
     registerwidget.ui \
     userboxwidget.ui \
     userlistwidget.ui

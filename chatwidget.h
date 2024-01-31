@@ -12,8 +12,7 @@ class chatWidget : public QWidget
     Q_OBJECT
 
 public:
-    explicit chatWidget(qint32, qint32, QWidget* parent = nullptr);
-    void construct();
+    explicit chatWidget(qint32, qint32, chatWidgets* parent = nullptr);
     void chatReflesh(QString);
     void chatAdd(QString);
     void setName(QString);
@@ -28,7 +27,6 @@ private:
     QString readTextEdit();
     void messageSent(QString);
     void messageGet(QString);
-    QString toFormat(QString);
 signals:
     qint32 sendMessageSignal(QString, QString);
     void deleteChatWidgetSignal(qint32);

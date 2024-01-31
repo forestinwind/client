@@ -9,7 +9,7 @@
 namespace Ui {
 class userBoxWidget;
 }
-
+class userListWidget;
 class userBoxWidget : public QWidget
 {
     Q_OBJECT
@@ -17,19 +17,20 @@ class userBoxWidget : public QWidget
 public:
     explicit userBoxWidget(qint32, qint32, QWidget* parent = nullptr);
     ~userBoxWidget();
-    void createChatWidget();
     void deleteFriend();
     chatWidget* thisChatWidget;
+    void cmdFromClient(QString, QString);
     void changeHead(QPixmap);
-    void fleshUser(QString);
     void changeSign(QString);
     qint32 FID;
     qint32 SID;
 
 private:
+    void fleshUser(QString);
     Ui::userBoxWidget *ui;
     QString friendName;
     QString signStr;
+    userListWidget* par;
 
 };
 

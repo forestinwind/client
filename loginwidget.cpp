@@ -28,6 +28,14 @@ void LoginWidget::closeLoginWidgetSlot()
     if (regWidget != nullptr)delete regWidget;
     delete this;
 }
+void LoginWidget::logFailCMDSlot(QString init)
+{
+    qDebug() << "fail";
+    if (init == "REGISTFAIL")
+    {
+        if (regWidget != nullptr) regWidget->showERR("用户名已被占用");
+    }
+}
 
 
 void LoginWidget::on_registerButton_clicked()

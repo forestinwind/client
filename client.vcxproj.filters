@@ -66,6 +66,15 @@
     <ClCompile Include="client.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="groupboxwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="groupchatwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="groupmemberlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="loginwidget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -73,6 +82,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="memberboxwidget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="registerwidget.cpp">
@@ -98,10 +110,22 @@
     <QtMoc Include="client.h">
       <Filter>Header Files</Filter>
     </QtMoc>
+    <QtMoc Include="groupboxwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="groupchatwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="groupmemberlist.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
     <QtMoc Include="loginwidget.h">
       <Filter>Header Files</Filter>
     </QtMoc>
     <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="memberboxwidget.h">
       <Filter>Header Files</Filter>
     </QtMoc>
     <QtMoc Include="registerwidget.h">
@@ -129,13 +153,19 @@
     <QtUic Include="chatwidget.ui">
       <Filter>Form Files</Filter>
     </QtUic>
-    <QtUic Include="chatwidgets.ui">
+    <QtUic Include="groupboxwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="groupchatwidget.ui">
       <Filter>Form Files</Filter>
     </QtUic>
     <QtUic Include="loginwidget.ui">
       <Filter>Form Files</Filter>
     </QtUic>
     <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="memberboxwidget.ui">
       <Filter>Form Files</Filter>
     </QtUic>
     <QtUic Include="registerwidget.ui">

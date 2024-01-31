@@ -34,6 +34,7 @@ public:
     QHBoxLayout *horizontalLayout;
     QLineEdit *lineEditFriend;
     QPushButton *pushButtonAddFriend;
+    QPushButton *pushButtonAddGroup;
     QTextBrowser *textBrowser;
     QMenuBar *menubar;
     QStatusBar *statusbar;
@@ -58,13 +59,21 @@ public:
         horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
         lineEditFriend = new QLineEdit(centralwidget);
         lineEditFriend->setObjectName(QString::fromUtf8("lineEditFriend"));
+        lineEditFriend->setMaximumSize(QSize(16777215, 30));
 
         horizontalLayout->addWidget(lineEditFriend);
 
         pushButtonAddFriend = new QPushButton(centralwidget);
         pushButtonAddFriend->setObjectName(QString::fromUtf8("pushButtonAddFriend"));
+        pushButtonAddFriend->setMaximumSize(QSize(16777215, 16777215));
 
         horizontalLayout->addWidget(pushButtonAddFriend);
+
+        pushButtonAddGroup = new QPushButton(centralwidget);
+        pushButtonAddGroup->setObjectName(QString::fromUtf8("pushButtonAddGroup"));
+        pushButtonAddGroup->setMaximumSize(QSize(16777215, 16777215));
+
+        horizontalLayout->addWidget(pushButtonAddGroup);
 
 
         verticalLayout->addLayout(horizontalLayout);
@@ -96,6 +105,7 @@ public:
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
         pushButtonAddFriend->setText(QCoreApplication::translate("MainWindow", "ADD Friend", nullptr));
+        pushButtonAddGroup->setText(QCoreApplication::translate("MainWindow", "\345\212\240\345\205\245\347\276\244\350\201\212", nullptr));
     } // retranslateUi
 
 };

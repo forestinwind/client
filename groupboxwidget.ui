@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>userBoxWidget</class>
- <widget class="QWidget" name="userBoxWidget">
+ <class>groupBoxWidget</class>
+ <widget class="QWidget" name="groupBoxWidget">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -28,41 +28,29 @@
        <height>64</height>
       </size>
      </property>
-     <property name="whatsThis">
-      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-     </property>
-     <property name="styleSheet">
-      <string notr="true"/>
-     </property>
      <property name="text">
       <string/>
-     </property>
-     <property name="pixmap">
-      <pixmap resource="../ranger.qrc">:/shared/icon/ranger.jpg</pixmap>
-     </property>
-     <property name="scaledContents">
-      <bool>false</bool>
      </property>
     </widget>
    </item>
    <item>
     <layout class="QVBoxLayout" name="verticalLayout">
      <item>
-      <widget class="QLabel" name="userNamelabel">
+      <widget class="QLabel" name="groupNamelabel">
        <property name="font">
         <font>
          <pointsize>16</pointsize>
         </font>
        </property>
        <property name="text">
-        <string>李威</string>
+        <string>1</string>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QLabel" name="selfSignlabel">
+      <widget class="QLabel" name="groupSignlabel">
        <property name="text">
-        <string>我非常强</string>
+        <string>2</string>
        </property>
       </widget>
      </item>
@@ -70,8 +58,6 @@
    </item>
   </layout>
  </widget>
- <resources>
-  <include location="../ranger.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>

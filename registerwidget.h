@@ -14,6 +14,7 @@ class registerWidget : public QWidget
 public:
     explicit registerWidget(QWidget *parent = nullptr);
     ~registerWidget();
+    void showERR(QString init);
 
 private slots:
     void on_pushButton_clicked();

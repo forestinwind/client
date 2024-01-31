@@ -21,6 +21,7 @@ private slots:
 
 public slots:
     void closeLoginWidgetSlot();
+    void logFailCMDSlot(QString);
 signals:
     qint32 sendMessageSignal(QString, QString);
 private:

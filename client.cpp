@@ -29,7 +29,7 @@ bool client::begin()//connect未建立，我不能将向上传递的信号放在
         in >> servetPort;
         qDebug() << "readfile";
     }
-    thisSock.connectToHost(QHostAddress(serverIP), servetPort);
+    thisSock.connectToHost(serverIP, servetPort);
     //thisSock.write("michael");
     if (thisSock.waitForConnected(5000))
     {
@@ -46,38 +46,40 @@ void client::readSockSlot()
 {
     QByteArray buffer;
     buffer = thisSock.readAll();
-    QString str = tr(buffer);
-    if (str!="")
+    thisBuffer += tr(buffer);
+    if (thisBuffer !="")
     {
-        qDebug() << str;
-        emit writeBrowserSignal(str);
+        qDebug() <<"get" << thisBuffer;
+        emit writeBrowserSignal(thisBuffer);
         QString cur;
-        while ((cur = divide(str, END_CMD)) != "")
+        while ((cur = divide(thisBuffer, END_CMD)) != "")
         {
-            qDebug("??");
             emit writeBrowserSignal(cur);//这里有error，原因不明，疑似是因为_CMD分割符
-            qDebug("???");
+
             int cmdid = divide(cur, DIV_CMD).toInt(); //命令id，需要等待回应
 
             QString cmd = divide(cur, DIV_CMD);
-            if(cmd=="LOGINSUCCEES")
+            if (cmd == "LOGINSUCCEES")
             {
                 loginSucceed(cur);
                 emit closeLoginWidgetSignal();
                 emit showChatWidgetSignal();
             }
+            if (cmd == "REGISTFAIL")
+            {
+                emit logFailCMDSignal("REGISTFAIL");
+            }
             if (cmd == "CHATRECORD")
             {
-                emit chatRecordSignal(cur);
+                emit forwardToUserSignal(cmd, cur);
             }
             if (cmd == "CHATADD")
             {
-                writeBrowserSignal(cur);
-                emit chatAddSignal(cur);
+                emit forwardToUserSignal(cmd, cur);
             }
             if (cmd == "ADDFRIENDSUCCEES")
             {
-                addFriendSucceed(cur);
+                emit addFriendSucceed(cur);
             }
             if (cmd == "REMOVESUCCEES")
             {
@@ -85,7 +87,40 @@ void client::readSockSlot()
             }
             if (cmd == "USERINFO")
             {
-                emit fleshUserSignal(cur);
+                emit forwardToUserSignal(cmd, cur);
+            }
+            if (cmd == "GROUPINFO")
+            {
+                emit forwardToGroupSignal(cmd, cur);
+            }
+            if (cmd == "GROUPCHATRECORD")
+            {
+                emit forwardToGroupSignal(cmd, cur);
+            }
+            if (cmd == "GROUPCHATADD")
+            {
+                emit forwardToGroupSignal(cmd, cur);
+                //emit groupChatAddSignal(cur);
+            }
+            if (cmd == "GROUP_MEMBERKICKED")
+            {
+                emit forwardToGroupSignal(cmd, cur);
+            }
+            if (cmd == "GROUP_MEMBERLEVELCHANGED")
+            {
+                emit forwardToGroupSignal(cmd, cur);
+            }
+            if (cmd == "GROUP_MEMBERINFO")
+            {
+                emit forwardToGroupSignal(cmd, cur);
+            }
+            if (cmd == "JOINGROUP")
+            {
+                emit buildGroupSignal(userId, cur.toInt());
+            }
+            if (cmd == "QUITGROUP")
+            {
+                emit quitGroupSignal(cur);
             }
         }
     }
@@ -101,11 +136,18 @@ void client::loginSucceed(QString init)
     if (init == "")return;
     QString temp = divide(init, DIV_CMD);
     userId = temp.toInt();
-    userName = divide(init, DIV_CMD);;
-    while (init != ""){
-        QString friendStr = divide(init, INF_CMD);
+    userName = divide(init, DIV_CMD);
+    QString tempStr = divide(init, INF_CMD);
+    while (tempStr != ""){
 
-        emit buildFriendSignal(userId, friendStr.toInt());
+        emit buildFriendSignal(userId, tempStr.toInt());
+        tempStr = divide(init, INF_CMD);
+    }
+    tempStr = divide(init, DIV_CMD);
+    while (tempStr != "") {
+
+        emit buildGroupSignal(userId, tempStr.toInt());
+        tempStr = divide(init, DIV_CMD);
     }
 }
 qint32 client::sendMessageSlot(QString init)
